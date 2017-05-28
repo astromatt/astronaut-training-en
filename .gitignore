@@ -1,0 +1,20 @@
+# Jekyll
+.sass-cache
+.site
+.jekyll-metadata
+.vagrant
+.log
+
+*.log
+*.pyc
+*.icloud
+.coverage/
+__pycache__/
+.virtualenv/
+.idea/
+.DS_Store
+_build/
+*.so
+*.o
+build/
+tmp/
