@@ -1,8 +1,8 @@
 Introduction
 ------------
 
-History of the Manned Space Flight Programs
--------------------------------------------
+History of the Human Spaceflight Programs
+-----------------------------------------
 
 - Pioneers of Rocket Science and Space Exploration
 - First Space Flights
