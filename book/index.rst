@@ -1,11 +1,14 @@
-**************************
+##########################
 Astronaut Training Program
-**************************
+##########################
 
-:author: `Matt Harasymczuk <http://astromatt.space>`_
-:email: `matt@astromatt.space <mailto:matt@astromatt.space>`_
-:www: `http://astromatt.space <http://astromatt.space>`_
-
+**Author**
+    :name: `Matt Harasymczuk <http://astromatt.space>`_
+    :email: matt@astromatt.space
+    :www: http://astromatt.space
+    :facebook: https://facebook.com/astromatt.space
+    :linkedin: https://linkedin.com/in/mattharasymczuk
+    :slideshare: https://www.slideshare.net/astromatt/presentations
 
 .. toctree::
     :maxdepth: 2

@@ -1,6 +1,3 @@
-Mission to Mars
-===============
-
 History of the Human Spaceflight
 --------------------------------
 - Pioneers of Rocket Science and Space Exploration
@@ -14,13 +11,39 @@ Astronaut Selection
 - Selection Process
 - Case Studies of astronaut selections in government agencies
 
+Space Medicine and Space Biology
+--------------------------------
+- Human physiology
+- Microgravity and radiation
+
+Space Architecture
+------------------
+- Extra-terrestrial habitats
+- Architecture
+- Laboratories
+- Airlock
+- Logistics Modules
+- Light System
+- Operating system
+- Batteries and energy storage
+- Thermal control
+- Sensoring
+- Communication
+- EVA support
+- Emergency systems and procedures
+
+Life support systems
+--------------------
+- Bioreactors and biomaterials
+- Space science
+
 Astronaut training
------------------
+------------------
 - Astronaut candidate basic training
 - Foreign Language and Culture
 - Theoretical Education in Technology and Natural Sciences
 - Orbital Mechanics
-- Non-technical Operations and Communication
+- Non-Technical Operations and Communication
 - Trainings and Simulations
 - Medical, Physical and Psychological Preparation
 - Extreme Environment Survival Training
@@ -31,8 +54,7 @@ Astronaut training
 - Extravehicular Activity
 - VR training
 - Flight Operations
-- Mission asignment training
-- Science, Research and Experiments in Microgravity Environment
+- Mission assignment training Environment
 - Astronaut Specializations
 - Pre-flight Medical Examinations
 - Return to Earth
@@ -56,52 +78,20 @@ Journey to Mars
 - Private sector
 - Current problems (radiation, medical problems, psychological)
 - How do we prepare for Mars?
-- Human physiology in space conditions
 - Geography of Mars
 - Entry, descent and landing
 - Life on Mars (lava tubes, habitats)
-- task scheduling and mission planning
 - Colonization of the red planet
 - Terraforming Mars
 - Society structure
 - Return to Earth
 
-Analog simulations
-------------------
-- What is analog simulation?
-- Research during analog simulation
-- Real life examples of analog simulations
-- Neutral Buoyancy Simulations
-- ZeroG simulations
-- Lessons learned from analog simulations
-
-Extraterrestrial habitats
------------------------
-- Architecture
-- Life Support Systems
-- Laboratories
-- Airlock
-- Logistics Modules
-- Light System
-- operating system
-- batteries and energy storage
-- thermal control
-- sensoring
-- communication
-- EVA support
-- emergency systems and procedures
-
-Future
-------
-- Hibernation and Pharmacological Coma
-- Radiation hardening by DNA modification
-- Future engines
-- AI and Swarm robotics
-
-Workshops
----------
-- Astronaut selections tasks (each team will have different task from actual ESA, NASA and CSA selection)
-- Design astronaut selection for Mars mission
-- Design spacecraft and journey to mars
-- Design habitat
-- Describe process of terraforming Mars
+Workshop
+--------
+- Exercise: Design of the habitat
+- Exercise: Terraforming Mars
+- Exercise: Analog simulation of space mission
+- Writing a common report as the summary of the workshop
+- Task scheduling and mission planning
+- Evaluation
+- Certification

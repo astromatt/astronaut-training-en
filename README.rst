@@ -1,5 +1,6 @@
-Introduction
-------------
+**************************
+Astronaut Training Program
+**************************
 
 History of the Human Spaceflight Programs
 -----------------------------------------
