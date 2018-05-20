@@ -4,9 +4,9 @@ Astronaut Training Program
 
 **Author**
     :name: `Matt Harasymczuk <http://astromatt.space>`_
-    :email: matt@astromatt.space
+    :email: matt@astronaut.center
     :www: http://astromatt.space
-    :facebook: https://facebook.com/astromatt.space
+    :facebook: https://facebook.com/matt.harasymczuk
     :linkedin: https://linkedin.com/in/mattharasymczuk
     :slideshare: https://www.slideshare.net/astromatt/presentations
 
