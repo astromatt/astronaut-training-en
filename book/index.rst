@@ -26,6 +26,7 @@ Astronaut Training Program
     :caption: Selection
     :name: Selection
 
+    selection/selection-history.rst
     selection/selection-process.rst
 
 .. toctree::
