@@ -176,6 +176,16 @@ Intercosmos Program and General Hermaszewski’s Space Flight
 MIR Space Station
 -----------------
 
+Chinese Programs
+================
+
+Shenzou
+-------
+
+Tiangong 1
+----------
+* Launched 2011
+
 International programs
 ======================
 

@@ -18,6 +18,7 @@ Astronaut Training Program
 
     general/history-of-space-exploration.rst
     general/introductory-course.rst
+    general/space-law.rst
     general/cultural-training.rst
 
 .. toctree::
