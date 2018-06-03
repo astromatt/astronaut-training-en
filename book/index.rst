@@ -10,6 +10,8 @@ Astronaut Training Program
     :linkedin: https://linkedin.com/in/mattharasymczuk
     :slideshare: https://www.slideshare.net/astromatt/presentations
 
+.. note:: Video materials can be downloaded from: https://drive.google.com/drive/folders/1rzKBDEePTOXwGJfLJXLpYqCRzotscIuR
+
 .. toctree::
     :maxdepth: 2
     :numbered:
