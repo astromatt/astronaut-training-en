@@ -1,12 +1,21 @@
+cpu_cores = 11
+format = html
+book = /tmp/python-book/
+slides = /tmp/python-slides/
+
 book:
-    @sphinx-build -j4 -b html book/ _book/
+	rm -fr $(book)
+	clear
+	sphinx-build -j $(cpu_cores) -b $(format) . $(book)
 
 slides:
-    @sphinx-build -j4 -b html slides/ _slides/
+	rm -fr $(book)
+	clear
+	sphinx-build -j $(cpu_cores) -b $(format) _slides/ $(slides)
 
 help:
-    @sphinx-build -M help help help
+	@sphinx-build -M help help help
 
 clean:
-    -rm -fr _build/
-    -rm -fr _slides/
+	-rm -fr $(book)
+	-rm -fr $(slides)
