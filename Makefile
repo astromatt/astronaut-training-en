@@ -1,7 +1,7 @@
 cpu_cores = 11
 format = html
-book = /tmp/python-book/
-slides = /tmp/python-slides/
+book = /tmp/book-astro-en/
+slides = /tmp/slides-astro-en/
 
 book:
 	rm -fr $(book)
