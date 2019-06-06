@@ -8,7 +8,7 @@ from subprocess import run
 
 
 OUTPUT_DIR = '/tmp/'
-FORMAT = 'html'
+FORMAT = 'singlehtml'
 THREADS = 11
 VENV = '/src/book/.venv-3.7.3'
 
