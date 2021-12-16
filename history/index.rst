@@ -36,8 +36,8 @@ Historical overview of manned space flights
 -------------------------------------------
 .. toctree::
 
-    poczatek-pionierzy.rst
-    poczatek-spacerace.rst
+    beginning-pioneers.rst
+    beginning-spacerace.rst
 
 
 US space programs
@@ -69,7 +69,7 @@ Pole in space
 -------------
 .. toctree::
 
-    lot-hermaszewskiego.rst
+    flight-of-hermaszewski.rst
 
 
 International Space Programs
