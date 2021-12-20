@@ -1,0 +1,54 @@
+{
+    "birth_date": "1952-08-17",
+    "birth_place": "Montgomery, Alabama, United States",
+    "died": null,
+    "eva_count": 3,
+    "eva_list": [
+        {
+            "date": "1992-05-14",
+            "duration": "7h 45m",
+            "mission": "STS-49"
+        },
+        {
+            "date": "1993-12-06",
+            "duration": "6h 36m",
+            "mission": "STS-61"
+        },
+        {
+            "date": "1993-12-08",
+            "duration": "6h 50m",
+            "mission": "STS-61"
+        }
+    ],
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1989-11-23",
+            "duration": "5d 0h 6m 48s",
+            "mission": "STS-33"
+        },
+        {
+            "date": "1992-05-07",
+            "duration": "8d 21h 17m 38s",
+            "mission": "STS-49"
+        },
+        {
+            "date": "1993-12-02",
+            "duration": "10d 19h 58m 37s",
+            "mission": "STS-61"
+        },
+        {
+            "date": "1995-10-20",
+            "duration": "15d 21h 52m 21s",
+            "mission": "STS-73"
+        }
+    ],
+    "first_name": "Kathryn Ryan Thorntonnee:",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/thornton-k.jpg",
+    "last_name": "Cordell\"Kathy\"",
+    "name": "Kathryn Ryan Thorntonnee: Cordell\"Kathy\"",
+    "nationality": "American",
+    "selection_date": "1984-05-23",
+    "selection_group": "NASA Group 10",
+    "status": "Retired"
+}

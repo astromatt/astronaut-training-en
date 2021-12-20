@@ -1,0 +1,49 @@
+{
+    "birth_date": "1955-09-21",
+    "birth_place": "Jamestown, North Dakota, United States",
+    "died": null,
+    "eva_count": 3,
+    "eva_list": [
+        {
+            "date": "1992-05-10",
+            "duration": "3h 51m",
+            "mission": "STS-49"
+        },
+        {
+            "date": "1992-05-11",
+            "duration": "5h 26m",
+            "mission": "STS-49"
+        },
+        {
+            "date": "1992-05-13",
+            "duration": "8h 29m",
+            "mission": "STS-49"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1991-04-28",
+            "duration": "8d 7h 22m 23s",
+            "mission": "STS-39"
+        },
+        {
+            "date": "1992-05-07",
+            "duration": "8d 21h 17m 38s",
+            "mission": "STS-49"
+        },
+        {
+            "date": "1994-07-08",
+            "duration": "14d 17h 55m 0s",
+            "mission": "STS-65"
+        }
+    ],
+    "first_name": "Richard James",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/hieb-r.jpg",
+    "last_name": "Hieb\"Rick\"",
+    "name": "Richard James Hieb\"Rick\"",
+    "nationality": "American",
+    "selection_date": "1985-06-04",
+    "selection_group": "NASA Group 11",
+    "status": "Retired"
+}

@@ -1,0 +1,54 @@
+{
+    "birth_date": "1944-08-01",
+    "birth_place": "Koltubanovsky , Orenburg Oblast , Russia",
+    "died": null,
+    "eva_count": 4,
+    "eva_list": [
+        {
+            "date": "1977-12-19",
+            "duration": "1h 28m",
+            "mission": "Salyut 6, PE-1"
+        },
+        {
+            "date": "1987-04-11",
+            "duration": "3h 40m",
+            "mission": "EO-2"
+        },
+        {
+            "date": "1987-06-12",
+            "duration": "1h 53m",
+            "mission": "EO-2"
+        },
+        {
+            "date": "1987-06-16",
+            "duration": "3h 15m",
+            "mission": "EO-2"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1977-12-10",
+            "duration": "96d 10h 0m 7s",
+            "mission": "Soyuz 26 /Soyuz 27"
+        },
+        {
+            "date": "1980-09-18",
+            "duration": "7d 20h 43m 24s",
+            "mission": "Soyuz 38"
+        },
+        {
+            "date": "1987-02-05",
+            "duration": "326d 11h 37m 59s",
+            "mission": "Soyuz TM-2 /Soyuz TM-3"
+        }
+    ],
+    "first_name": "Yuri V.",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/romanenko-y.jpg",
+    "last_name": "Romanenko",
+    "name": "Yuri V. Romanenko",
+    "nationality": "Russian",
+    "selection_date": "1970-03-27",
+    "selection_group": "Air Force Group 5",
+    "status": "Retired"
+}

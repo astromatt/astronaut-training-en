@@ -1,0 +1,39 @@
+{
+    "birth_date": "1960-04-15",
+    "birth_place": "Syzran, Samara, Russia",
+    "died": null,
+    "eva_count": 2,
+    "eva_list": [
+        {
+            "date": "2010-07-27",
+            "duration": "6h 43m",
+            "mission": "ISS Expedition 24"
+        },
+        {
+            "date": "2015-08-10",
+            "duration": "5h 31m",
+            "mission": "ISS Expedition 44"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2010-04-02",
+            "duration": "176d 1h 18m 38s",
+            "mission": "Soyuz TMA-18"
+        },
+        {
+            "date": "2015-03-27",
+            "duration": "340d 8h 43m 3s",
+            "mission": "Soyuz TMA-16M /Soyuz TMA-18M"
+        }
+    ],
+    "first_name": "Mikhail Borisovich",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/korniyenko-m.jpg",
+    "last_name": "Korniyenko",
+    "name": "Mikhail Borisovich  Korniyenko",
+    "nationality": "Russian",
+    "selection_date": "1998-02-28",
+    "selection_group": "Energia Engineer Group 14 Supplemental",
+    "status": "Active"
+}

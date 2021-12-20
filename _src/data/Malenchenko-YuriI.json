@@ -1,0 +1,80 @@
+{
+    "birth_date": "1961-12-22",
+    "birth_place": "Svetlovodsk , Kirovograd Oblast , Russia",
+    "died": null,
+    "eva_count": 6,
+    "eva_list": [
+        {
+            "date": "1994-09-09",
+            "duration": "5h 6m",
+            "mission": "EO-16"
+        },
+        {
+            "date": "1994-09-13",
+            "duration": "6h 1m",
+            "mission": "EO-16"
+        },
+        {
+            "date": "2000-09-11",
+            "duration": "6h 14m",
+            "mission": "STS-106"
+        },
+        {
+            "date": "2007-11-09",
+            "duration": "6h 55m",
+            "mission": "ISS Expedition 16"
+        },
+        {
+            "date": "2012-08-20",
+            "duration": "6h 15m",
+            "mission": "ISS Expedition 32"
+        },
+        {
+            "date": "2016-02-03",
+            "duration": "4h 45m",
+            "mission": "ISS Expedition 46"
+        }
+    ],
+    "fai_flight_count": 6,
+    "fai_flight_list": [
+        {
+            "date": "1994-07-01",
+            "duration": "125d 22h 53m 36s",
+            "mission": "Soyuz TM-19"
+        },
+        {
+            "date": "2000-09-08",
+            "duration": "11d 19h 12m 14s",
+            "mission": "STS-106"
+        },
+        {
+            "date": "2003-04-26",
+            "duration": "184d 22h 46m 28s",
+            "mission": "Soyuz TMA-2"
+        },
+        {
+            "date": "2007-10-10",
+            "duration": "191d 19h 7m 5s",
+            "mission": "Soyuz TMA-11"
+        },
+        {
+            "date": "2012-07-15",
+            "duration": "126d 23h 13m 30s",
+            "mission": "Soyuz TMA-05M"
+        },
+        {
+            "date": "2015-12-15",
+            "duration": "185d 22h 12m 0s",
+            "mission": "Soyuz TMA-19M"
+        }
+    ],
+    "first_name": "Yuri I.",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/malenchenko-y.jpg",
+    "last_name": "Malenchenko",
+    "name": "Yuri I. Malenchenko",
+    "nationality": "Russian",
+    "notes": "Malenchenko became the first person to get married while in space. He was on board the International Space Station while his bride, Yekaterina Dmitriyeva was in an auditorium at the Johnson Space Center in Houston, Texas.",
+    "selection_date": "1987-03-26",
+    "selection_group": "Air Force Group 8",
+    "status": "Retired"
+}

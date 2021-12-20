@@ -1,0 +1,22 @@
+{
+    "birth_date": "1939-03-14",
+    "birth_place": "Miami, Florida, United States",
+    "death_remarks": "Head injuries following bicycle accident",
+    "died": "2010-08-26",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1982-11-11",
+            "duration": "5d 2h 14m 26s",
+            "mission": "STS-5"
+        }
+    ],
+    "first_name": "William Benjamin",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/lenoir-w.jpg",
+    "last_name": "Lenoir\"Bill\"",
+    "name": "William Benjamin Lenoir\"Bill\"",
+    "nationality": "American",
+    "selection_date": "1967-08-04",
+    "selection_group": "NASA Group 6",
+    "status": "Deceased"
+}

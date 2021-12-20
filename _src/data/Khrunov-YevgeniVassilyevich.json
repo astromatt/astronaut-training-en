@@ -1,0 +1,30 @@
+{
+    "birth_date": "1933-09-10",
+    "birth_place": "Prudy, Tula Oblast, Russia",
+    "death_remarks": "Heart attack",
+    "died": "2000-05-19",
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "1969-01-15",
+            "duration": "53m",
+            "mission": "Soyuz 5"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1969-01-15",
+            "duration": "1d 23h 45m 50s",
+            "mission": "Soyuz 5 /Soyuz 4"
+        }
+    ],
+    "first_name": "Yevgeni Vassilyevich",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/khrunov-y.jpg",
+    "last_name": "Khrunov",
+    "name": "Yevgeni Vassilyevich  Khrunov",
+    "nationality": "Russian",
+    "selection_date": "1960-03-07",
+    "selection_group": "Air Force Group 1",
+    "status": "Deceased"
+}

@@ -1,0 +1,42 @@
+{
+    "birth_date": "1956-10-08",
+    "birth_place": "South Bend, Indiana, United States",
+    "death_remarks": "Breast cancer",
+    "died": "2012-02-06",
+    "fai_flight_count": 5,
+    "fai_flight_list": [
+        {
+            "date": "1993-06-21",
+            "duration": "9d 23h 44m 54s",
+            "mission": "STS-57"
+        },
+        {
+            "date": "1995-02-03",
+            "duration": "8d 6h 28m 15s",
+            "mission": "STS-63"
+        },
+        {
+            "date": "1997-04-04",
+            "duration": "3d 23h 12m 39s",
+            "mission": "STS-83"
+        },
+        {
+            "date": "1997-07-01",
+            "duration": "15d 16h 44m 34s",
+            "mission": "STS-94"
+        },
+        {
+            "date": "2000-02-11",
+            "duration": "11d 5h 38m 43s",
+            "mission": "STS-99"
+        }
+    ],
+    "first_name": "Janice Elaine",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/voss-j-e.jpg",
+    "last_name": "Voss",
+    "name": "Janice Elaine Voss",
+    "nationality": "American",
+    "selection_date": "1990-01-17",
+    "selection_group": "NASA Group 13",
+    "status": "Deceased"
+}

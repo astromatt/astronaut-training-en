@@ -1,0 +1,26 @@
+{
+    "birth_date": "1942-04-27",
+    "birth_place": "Tula, Russia",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1988-08-29",
+            "duration": "240d 22h 34m 47s",
+            "mission": "Soyuz TM-6 /Soyuz TM-7"
+        },
+        {
+            "date": "1994-01-08",
+            "duration": "437d 17h 58m 31s",
+            "mission": "Soyuz TM-18 /Soyuz TM-20"
+        }
+    ],
+    "first_name": "Valeri V.",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/polyakov-v.jpg",
+    "last_name": "Polyakov",
+    "name": "Valeri V. Polyakov",
+    "nationality": "Russian",
+    "selection_date": "1972-03-22",
+    "selection_group": "IMBP Group 1",
+    "status": "Retired"
+}

@@ -1,0 +1,75 @@
+{
+    "birth_date": "1951-01-07",
+    "birth_place": "Karadanda , Kazakhstan",
+    "died": null,
+    "eva_count": 8,
+    "eva_list": [
+        {
+            "date": "1994-09-09",
+            "duration": "5h 6m",
+            "mission": "EO-16"
+        },
+        {
+            "date": "1994-09-13",
+            "duration": "6h 1m",
+            "mission": "EO-16"
+        },
+        {
+            "date": "1998-03-03",
+            "duration": "1h 15m",
+            "mission": "EO-25"
+        },
+        {
+            "date": "1998-04-01",
+            "duration": "6h 40m",
+            "mission": "EO-25"
+        },
+        {
+            "date": "1998-04-06",
+            "duration": "4h 15m",
+            "mission": "EO-25"
+        },
+        {
+            "date": "1998-04-11",
+            "duration": "6h 25m",
+            "mission": "EO-25"
+        },
+        {
+            "date": "1998-04-17",
+            "duration": "6h 33m",
+            "mission": "EO-25"
+        },
+        {
+            "date": "1998-04-22",
+            "duration": "6h 21m",
+            "mission": "EO-25"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1994-07-01",
+            "duration": "125d 22h 53m 36s",
+            "mission": "Soyuz TM-19"
+        },
+        {
+            "date": "1998-01-29",
+            "duration": "207d 12h 51m 2s",
+            "mission": "Soyuz TM-27"
+        },
+        {
+            "date": "2001-04-28",
+            "duration": "7d 22h 4m 8s",
+            "mission": "Soyuz TM-32 /Soyuz TM-31"
+        }
+    ],
+    "first_name": "Talgat Amangeldievich",
+    "img": "https://www.worldspaceflight.com/bios/photos/kazakhstan/musabayev-t.jpg",
+    "last_name": "Musabayev",
+    "name": "Talgat Amangeldievich  Musabayev",
+    "nationality": "Kazakh",
+    "notes": "Holds dual citizenship with Russia.",
+    "selection_date": "1990-05-11",
+    "selection_group": "Air Force Group 11 Supplemental",
+    "status": "Retired"
+}

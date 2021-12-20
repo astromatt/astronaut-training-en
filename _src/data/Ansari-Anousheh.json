@@ -1,0 +1,20 @@
+{
+    "birth_date": "1966-09-12",
+    "birth_place": "Mashhad, Iran",
+    "died": null,
+    "dual nationality": "American/Iranian. Businesswoman, space tourist. Emigrated to the United States in 1984.",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2006-09-18",
+            "duration": "10d 21h 4m 55s",
+            "mission": "Soyuz TMA-9 /Soyuz TMA-8"
+        }
+    ],
+    "first_name": "Anousheh",
+    "img": "https://www.worldspaceflight.com/bios/photos/iran/ansari-a.jpg",
+    "last_name": "Ansari",
+    "name": "Anousheh Ansari",
+    "nationality": "American",
+    "status": "Inactive"
+}

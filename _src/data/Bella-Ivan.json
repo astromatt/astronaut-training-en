@@ -1,0 +1,21 @@
+{
+    "birth_date": "1964-05-21",
+    "birth_place": "Brezno, Slovakia",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1999-02-20",
+            "duration": "7d 21h 56m 29s",
+            "mission": "Soyuz TM-29 /Soyuz TM-28"
+        }
+    ],
+    "first_name": "Ivan",
+    "img": "https://www.worldspaceflight.com/bios/photos/slovakia/bella-i.jpg",
+    "last_name": "Bella",
+    "name": "Ivan Bella",
+    "nationality": "Slovak",
+    "selection_date": " 1997",
+    "selection_group": "International Group",
+    "status": "Retired"
+}

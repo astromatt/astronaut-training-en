@@ -1,0 +1,21 @@
+{
+    "birth_date": "1942-05-15",
+    "birth_place": "Indianapolis, Indiana, United States",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1985-07-29",
+            "duration": "7d 22h 45m 26s",
+            "mission": "51-F"
+        }
+    ],
+    "first_name": "Anthony Wayne",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/england-a.jpg",
+    "last_name": "England\"Tony\"",
+    "name": "Anthony Wayne England\"Tony\"",
+    "nationality": "American",
+    "selection_date": "1967-08-04",
+    "selection_group": "NASA Group 6",
+    "status": "Retired"
+}

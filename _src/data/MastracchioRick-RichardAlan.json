@@ -1,0 +1,84 @@
+{
+    "birth_date": "1960-02-11",
+    "birth_place": "Waterbury, Connecticut, United States",
+    "died": null,
+    "eva_count": 9,
+    "eva_list": [
+        {
+            "date": "2007-08-11",
+            "duration": "6h 17m",
+            "mission": "STS-118"
+        },
+        {
+            "date": "2007-08-13",
+            "duration": "6h 28m",
+            "mission": "STS-118"
+        },
+        {
+            "date": "2007-08-15",
+            "duration": "5h 28m",
+            "mission": "STS-118"
+        },
+        {
+            "date": "2010-04-09",
+            "duration": "6h 27m",
+            "mission": "STS-131"
+        },
+        {
+            "date": "2010-04-11",
+            "duration": "7h 26m",
+            "mission": "STS-131"
+        },
+        {
+            "date": "2010-04-13",
+            "duration": "6h 24m",
+            "mission": "STS-131"
+        },
+        {
+            "date": "2013-12-21",
+            "duration": "5h 28m",
+            "mission": "ISS Expedition 38"
+        },
+        {
+            "date": "2013-12-24",
+            "duration": "7h 30m",
+            "mission": "ISS Expedition 38"
+        },
+        {
+            "date": "2014-04-23",
+            "duration": "1h 36m",
+            "mission": "ISS Expedition 39"
+        }
+    ],
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "2000-09-08",
+            "duration": "11d 19h 12m 14s",
+            "mission": "STS-106"
+        },
+        {
+            "date": "2007-08-08",
+            "duration": "12d 17h 56m 38s",
+            "mission": "STS-118"
+        },
+        {
+            "date": "2010-04-05",
+            "duration": "15d 2h 47m 10s",
+            "mission": "STS-131"
+        },
+        {
+            "date": "2013-11-07",
+            "duration": "187d 21h 44m 15s",
+            "mission": "Soyuz TMA-11M"
+        }
+    ],
+    "first_name": "Richard Alan",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/mastracchio-r.jpg",
+    "last_name": "Mastracchio\"Rick\"",
+    "name": "Richard Alan Mastracchio\"Rick\"",
+    "nationality": "American",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Inactive"
+}

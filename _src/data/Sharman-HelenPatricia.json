@@ -1,0 +1,22 @@
+{
+    "birth_date": "1963-05-30",
+    "birth_place": "Sheffield, United Kingdom",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1991-05-18",
+            "duration": "7d 21h 13m 45s",
+            "mission": "Soyuz TM-12 /Soyuz TM-11"
+        }
+    ],
+    "first_name": "Helen Patricia",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedkingdom/sharman-h.jpg",
+    "last_name": "Sharman",
+    "name": "Helen Patricia Sharman",
+    "nationality": "British",
+    "notes": "Her flight was privately funded by the British company, Antequera, Ltd. Her backup was Timothy Mace, a pilot with the Royal Air Force.",
+    "selection_date": "1989-11-25",
+    "selection_group": "British Commercial Group",
+    "status": "Retired"
+}

@@ -1,0 +1,19 @@
+{
+    "birth_date": "1952-02-19",
+    "birth_place": "Chilpancingo , Mexico",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1985-11-27",
+            "duration": "6d 21h 4m 49s",
+            "mission": "61-B"
+        }
+    ],
+    "first_name": "Rodolfo Neri",
+    "img": "https://www.worldspaceflight.com/bios/photos/mexico/nerivela-r.jpg",
+    "last_name": "Vela",
+    "name": "Rodolfo   Neri Vela",
+    "nationality": "Mexican",
+    "status": "Retired"
+}

@@ -1,0 +1,56 @@
+{
+    "birth_date": "1930-05-05",
+    "birth_place": "Sacramento, California, United States",
+    "death_remarks": "Crash of X-15",
+    "died": "1967-11-15",
+    "first_name": "Michael James",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/adams-m.jpg",
+    "last_name": "Adams",
+    "name": "Michael James Adams",
+    "nationality": "American",
+    "non_fai_flight_count": 1,
+    "non_fai_flight_list": [
+        {
+            "date": "1967-11-15",
+            "duration": "4m 50s",
+            "mission": "X-15 Flight #191"
+        }
+    ],
+    "notes": "Adams died in the crash of flight #191, in which the aircraft was destroyed. After reaching peak altitude, Adams entered a spin at Mach 5. He entered dive at 30,000 m, began high frequency pitch oscillations reaching 15 G's. The  aircraft was unable to endure the stress and disintegrated.",
+    "selection_date": "1965-11-12",
+    "selection_group": "USAF MOL Group 1",
+    "significant_flight_count": 6,
+    "significant_flight_list": [
+        {
+            "date": "1966-10-06",
+            "duration": "8m 26s",
+            "mission": "X-15 Flight #173"
+        },
+        {
+            "date": "1966-11-29",
+            "duration": "7m 56s",
+            "mission": "X-15 Flight #176"
+        },
+        {
+            "date": "1967-03-22",
+            "duration": "9m 30s",
+            "mission": "X-15 Flight #177"
+        },
+        {
+            "date": "1967-04-28",
+            "duration": "9m 16s",
+            "mission": "X-15 Flight #179"
+        },
+        {
+            "date": "1967-06-15",
+            "duration": "9m 11s",
+            "mission": "X-15 Flight #182"
+        },
+        {
+            "date": "1967-08-25",
+            "duration": "7m 37s",
+            "mission": "X-15 Flight #187"
+        }
+    ],
+    "status": "Deceased"
+}

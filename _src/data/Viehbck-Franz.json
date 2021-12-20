@@ -1,0 +1,21 @@
+{
+    "birth_date": "1950-08-24",
+    "birth_place": "Perchtoldsdorf, Austria",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1991-10-02",
+            "duration": "7d 22h 12m 40s",
+            "mission": "Soyuz TM-13 /Soyuz TM-12"
+        }
+    ],
+    "first_name": "Franz",
+    "img": "https://www.worldspaceflight.com/bios/photos/austria/viehbock-f.jpg",
+    "last_name": "Viehb\u00f6ck",
+    "name": "Franz   Viehb\u00f6ck",
+    "nationality": "Austrian",
+    "selection_date": "1989-10-06",
+    "selection_group": "Austrian Commercial Group",
+    "status": "Retired"
+}

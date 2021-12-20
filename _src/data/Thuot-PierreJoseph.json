@@ -1,0 +1,49 @@
+{
+    "birth_date": "1955-05-19",
+    "birth_place": "Groton, Connecticut, United States",
+    "died": null,
+    "eva_count": 3,
+    "eva_list": [
+        {
+            "date": "1992-05-10",
+            "duration": "3h 51m",
+            "mission": "STS-49"
+        },
+        {
+            "date": "1992-05-11",
+            "duration": "5h 26m",
+            "mission": "STS-49"
+        },
+        {
+            "date": "1992-05-13",
+            "duration": "8h 29m",
+            "mission": "STS-49"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1990-02-28",
+            "duration": "4d 10h 18m 22s",
+            "mission": "STS-36"
+        },
+        {
+            "date": "1992-05-07",
+            "duration": "8d 21h 17m 38s",
+            "mission": "STS-49"
+        },
+        {
+            "date": "1994-03-04",
+            "duration": "13d 23h 16m 41s",
+            "mission": "STS-62"
+        }
+    ],
+    "first_name": "Pierre Joseph",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/thuot-p.jpg",
+    "last_name": "Thuot",
+    "name": "Pierre Joseph Thuot",
+    "nationality": "American",
+    "selection_date": "1985-06-04",
+    "selection_group": "NASA Group 11",
+    "status": "Retired"
+}

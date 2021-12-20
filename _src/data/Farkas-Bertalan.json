@@ -1,0 +1,21 @@
+{
+    "birth_date": "1949-08-02",
+    "birth_place": "Gyulahaza , Hungary",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1980-05-26",
+            "duration": "7d 20h 45m 44s",
+            "mission": "Soyuz 36 /Soyuz 35"
+        }
+    ],
+    "first_name": "Bertalan",
+    "img": "https://www.worldspaceflight.com/bios/photos/hungary/farkas-b.jpg",
+    "last_name": "Farkas",
+    "name": "Bertalan   Farkas",
+    "nationality": "Hungarian",
+    "selection_date": "1978-03-01",
+    "selection_group": "1978 Intercosmos Group",
+    "status": "Retired"
+}

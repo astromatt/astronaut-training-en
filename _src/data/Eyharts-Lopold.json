@@ -1,0 +1,28 @@
+{
+    "birth_date": "1957-04-28",
+    "birth_place": "Biarritzs, France",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1998-01-29",
+            "duration": "20d 16h 36m 48s",
+            "mission": "Soyuz TM-27 /Soyuz TM-26"
+        },
+        {
+            "date": "2008-02-07",
+            "duration": "48d 4h 55m 11s",
+            "mission": "STS-122 /STS-123"
+        }
+    ],
+    "first_name": "L\u00e9opold",
+    "group2": "NASA Group 17 (4 June 1998)",
+    "group3": "1998 ESA Group (7 October 1998)",
+    "img": "https://www.worldspaceflight.com/bios/photos/france/eyharts-l.jpg",
+    "last_name": "Eyharts",
+    "name": "L\u00e9opold   Eyharts",
+    "nationality": "French",
+    "selection_date": "February  1990",
+    "selection_group": "CNES Group 3",
+    "status": "Active"
+}

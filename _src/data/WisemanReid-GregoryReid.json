@@ -1,0 +1,34 @@
+{
+    "birth_date": "1975-11-11",
+    "birth_place": "Baltimore, Maryland, United States",
+    "died": null,
+    "eva_count": 2,
+    "eva_list": [
+        {
+            "date": "2014-10-07",
+            "duration": "6h 13m",
+            "mission": "ISS Expedition 41"
+        },
+        {
+            "date": "2014-10-15",
+            "duration": "6h 34m",
+            "mission": "ISS Expedition 41"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2014-05-28",
+            "duration": "165d 8h 0m 54s",
+            "mission": "Soyuz TMA-13M"
+        }
+    ],
+    "first_name": "Gregory Reid",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/wiseman-g.jpg",
+    "last_name": "Wiseman\"Reid\"",
+    "name": "Gregory Reid Wiseman\"Reid\"",
+    "nationality": "American",
+    "selection_date": "2009-06-29",
+    "selection_group": "NASA Group 20",
+    "status": "Active"
+}

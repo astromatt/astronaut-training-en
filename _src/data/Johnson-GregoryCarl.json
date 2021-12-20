@@ -1,0 +1,21 @@
+{
+    "birth_date": "1954-07-30",
+    "birth_place": "Seattle, Washington, United States",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2009-05-11",
+            "duration": "12d 21h 38m 0s",
+            "mission": "STS-125"
+        }
+    ],
+    "first_name": "Gregory Carl",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/johnson-gc.jpg",
+    "last_name": "Johnson",
+    "name": "Gregory  Carl Johnson",
+    "nationality": "American",
+    "selection_date": "1998-06-04",
+    "selection_group": "NASA Group 17",
+    "status": "Inactive"
+}

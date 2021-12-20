@@ -1,0 +1,69 @@
+{
+    "birth_date": "1946-11-11",
+    "birth_place": "Moscow, Russia",
+    "died": null,
+    "eva_count": 8,
+    "eva_list": [
+        {
+            "date": "1984-04-23",
+            "duration": "4h 15m",
+            "mission": "Salyut 7, PE-3"
+        },
+        {
+            "date": "1984-04-26",
+            "duration": "5h 0m",
+            "mission": "Salyut 7, PE-3"
+        },
+        {
+            "date": "1984-04-29",
+            "duration": "2h 45m",
+            "mission": "Salyut 7, PE-3"
+        },
+        {
+            "date": "1984-05-03",
+            "duration": "2h 45m",
+            "mission": "Salyut 7, PE-3"
+        },
+        {
+            "date": "1984-05-18",
+            "duration": "3h 5m",
+            "mission": "Salyut 7, PE-3"
+        },
+        {
+            "date": "1984-08-08",
+            "duration": "5h 0m",
+            "mission": "Salyut 7, PE-3"
+        },
+        {
+            "date": "1986-05-28",
+            "duration": "3h 50m",
+            "mission": "Salyut 7, PE-6"
+        },
+        {
+            "date": "1986-05-31",
+            "duration": "5h 0m",
+            "mission": "Salyut 7, PE-6"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1984-02-08",
+            "duration": "236d 22h 49m 34s",
+            "mission": "Soyuz T-10 /Soyuz T-11"
+        },
+        {
+            "date": "1986-03-13",
+            "duration": "125d 0h 0m 56s",
+            "mission": "Soyuz T-15"
+        }
+    ],
+    "first_name": "Vladimir A.",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/solovyov-v.jpg",
+    "last_name": "Solovyov",
+    "name": "Vladimir A. Solovyov",
+    "nationality": "Russian",
+    "selection_date": "1978-12-01",
+    "selection_group": "Energia Engineer Group 5",
+    "status": "Retired"
+}

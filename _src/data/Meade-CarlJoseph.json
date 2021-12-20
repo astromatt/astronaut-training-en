@@ -1,0 +1,39 @@
+{
+    "birth_date": "1950-11-16",
+    "birth_place": "Chanute Air Force Base, Illinois, United States",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "1994-09-16",
+            "duration": "6h 51m",
+            "mission": "STS-64"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1990-11-15",
+            "duration": "4d 21h 54m 31s",
+            "mission": "STS-38"
+        },
+        {
+            "date": "1992-06-25",
+            "duration": "13d 19h 30m 4s",
+            "mission": "STS-50"
+        },
+        {
+            "date": "1994-09-09",
+            "duration": "10d 22h 49m 57s",
+            "mission": "STS-64"
+        }
+    ],
+    "first_name": "Carl Joseph",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/meade-c.jpg",
+    "last_name": "Meade",
+    "name": "Carl Joseph Meade",
+    "nationality": "American",
+    "selection_date": "1985-06-04",
+    "selection_group": "NASA Group 11",
+    "status": "Retired"
+}

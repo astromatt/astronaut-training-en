@@ -1,0 +1,55 @@
+{
+    "birth_date": "1930-01-20",
+    "birth_place": "Glen Ridge, New Jersey, United States",
+    "died": null,
+    "eva_count": 5,
+    "eva_list": [
+        {
+            "date": "1966-11-12",
+            "duration": "2h 30m",
+            "mission": "Gemini XII"
+        },
+        {
+            "date": "1966-11-13",
+            "duration": "2h 8m",
+            "mission": "Gemini XII"
+        },
+        {
+            "date": "1966-11-14",
+            "duration": "58m",
+            "mission": "Gemini XII"
+        },
+        {
+            "date": "1969-07-21",
+            "duration": "2h 32m",
+            "mission": "Apollo 11"
+        },
+        {
+            "date": "1969-07-21",
+            "duration": "5m",
+            "mission": "Apollo 11"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1966-11-11",
+            "duration": "3d 22h 35m 31s",
+            "mission": "Gemini XII"
+        },
+        {
+            "date": "1969-07-16",
+            "duration": "8d 3h 18m 35s",
+            "mission": "Apollo 11"
+        }
+    ],
+    "first_name": "Edwin Eugene Aldrin,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/aldrin-e.jpg",
+    "last_name": "Jr.\"Buzz\"",
+    "name": "Edwin Eugene Aldrin, Jr.\"Buzz\"",
+    "nationality": "American",
+    "notes": "Aldrin returned to active duty in 1971 as commander of the Test Pilots School at Edwards Air Force Base. He suffered emotional problems following his return from the lunar mission which caused him to retire from the Air Force in 1972. He is the author of three books, \"Return to Earth\", \"Men From Earth\", and the sci-fi \"Encounter With Tiber\".",
+    "selection_date": "1963-10-17",
+    "selection_group": "NASA Group 3",
+    "status": "Retired"
+}

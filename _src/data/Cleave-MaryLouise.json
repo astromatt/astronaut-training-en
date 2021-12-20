@@ -1,0 +1,26 @@
+{
+    "birth_date": "1947-02-05",
+    "birth_place": "Southampton, New York, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1985-11-27",
+            "duration": "6d 21h 4m 49s",
+            "mission": "61-B"
+        },
+        {
+            "date": "1989-05-04",
+            "duration": "3d 21h 56m 27s",
+            "mission": "STS-30"
+        }
+    ],
+    "first_name": "Mary Louise",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/cleave-m.jpg",
+    "last_name": "Cleave",
+    "name": "Mary Louise Cleave",
+    "nationality": "American",
+    "selection_date": "1980-05-19",
+    "selection_group": "NASA Group 9",
+    "status": "Retired"
+}

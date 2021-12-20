@@ -1,0 +1,21 @@
+{
+    "birth_date": "1972-07-27",
+    "birth_place": "Kolkhoz Zarya Kommunisma, Kazakhstan",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2015-09-02",
+            "duration": "9d 20h 13m 53s",
+            "mission": "Soyuz TMA-18M /Soyuz TMA-16M"
+        }
+    ],
+    "first_name": "Aydyn Akanovich",
+    "img": "https://www.worldspaceflight.com/bios/photos/kazakhstan/aimbetov-a.jpg",
+    "last_name": "Aimbetov",
+    "name": "Aydyn Akanovich Aimbetov",
+    "nationality": "Kazakh",
+    "selection_date": "2002-11-09",
+    "selection_group": "Kazakhstan Group",
+    "status": "Active"
+}

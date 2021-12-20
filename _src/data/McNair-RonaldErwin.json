@@ -1,0 +1,31 @@
+{
+    "birth_date": "1950-10-21",
+    "birth_place": "Lake City, South Carolina, United States",
+    "death_remarks": "Challenger explosion",
+    "died": "1986-01-28",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1984-02-03",
+            "duration": "7d 23h 15m 55s",
+            "mission": "41-B"
+        }
+    ],
+    "first_name": "Ronald Erwin",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/mcnair-r.jpg",
+    "last_name": "McNair",
+    "name": "Ronald Erwin McNair",
+    "nationality": "American",
+    "notes": "McNair was a mission specialist on 51-L. He had a doctorate in physics from Massachusetts Institute of Technology. He also held honorary doctorates from North Carolina A&T; State University (Laws), Morris College (Science), and University of South Carolina (Science). McNair held a 5th degree black belt in karate and won five regional black belt karate championships. He left a wife and two children.",
+    "selection_date": "1978-01-16",
+    "selection_group": "NASA Group 8",
+    "significant_flight_count": 1,
+    "significant_flight_list": [
+        {
+            "date": "1986-01-28",
+            "duration": "73s",
+            "mission": "51-L"
+        }
+    ],
+    "status": "Deceased"
+}

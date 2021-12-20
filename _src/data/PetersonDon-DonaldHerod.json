@@ -1,0 +1,30 @@
+{
+    "birth_date": "1933-10-22",
+    "birth_place": "Winona, Mississippi, United States",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "1983-04-07",
+            "duration": "4h 10m",
+            "mission": "STS-6"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1983-04-04",
+            "duration": "5d 0h 23m 42s",
+            "mission": "STS-6"
+        }
+    ],
+    "first_name": "Donald Herod",
+    "group2": "NASA Group 7 (MOL Pilot Astronaut Transfers) (14 August 1969)",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/peterson-d.jpg",
+    "last_name": "Peterson\"Don\"",
+    "name": "Donald Herod Peterson\"Don\"",
+    "nationality": "American",
+    "selection_date": "1967-06-30",
+    "selection_group": "USAF MOL Group 3",
+    "status": "Retired"
+}

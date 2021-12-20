@@ -1,0 +1,50 @@
+{
+    "birth_date": "1935-10-03",
+    "birth_place": "Charlotte, North Carolina, United States",
+    "died": null,
+    "eva_count": 5,
+    "eva_list": [
+        {
+            "date": "1972-04-21",
+            "duration": "7h 11m",
+            "mission": "Apollo 16"
+        },
+        {
+            "date": "1972-04-22",
+            "duration": "7h 23m",
+            "mission": "Apollo 16"
+        },
+        {
+            "date": "1972-04-23",
+            "duration": "5h 40m",
+            "mission": "Apollo 16"
+        },
+        {
+            "date": "1972-04-23",
+            "duration": "4m",
+            "mission": "Apollo 16"
+        },
+        {
+            "date": "1972-04-25",
+            "duration": "1h 24m",
+            "mission": "Apollo 16"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1972-04-16",
+            "duration": "11d 1h 51m 5s",
+            "mission": "Apollo 16"
+        }
+    ],
+    "first_name": "Charles Moss Duke,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/duke-c.jpg",
+    "last_name": "Jr.\"Charlie\"",
+    "name": "Charles Moss Duke, Jr.\"Charlie\"",
+    "nationality": "American",
+    "notes": "Duke was not an active participant in the 25 April 1972 EVA.",
+    "selection_date": "1966-04-04",
+    "selection_group": "NASA Group 5",
+    "status": "Retired"
+}

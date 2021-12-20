@@ -1,0 +1,22 @@
+{
+    "birth_date": "1964-04-04",
+    "birth_place": "Yokohama City, Kanagava, Japan",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2011-06-07",
+            "duration": "167d 6h 14m 0s",
+            "mission": "Soyuz TMA-02M"
+        }
+    ],
+    "first_name": "Satoshi",
+    "group2": "NASA Group 19 (6 May 2004)",
+    "img": "https://www.worldspaceflight.com/bios/photos/japan/furukawa-s.jpg",
+    "last_name": "Furukawa",
+    "name": "Satoshi   Furukawa",
+    "nationality": "Japanese",
+    "selection_date": "February  1999",
+    "selection_group": "NASDA Group 4",
+    "status": "Active"
+}

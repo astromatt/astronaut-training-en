@@ -1,0 +1,99 @@
+{
+    "birth_date": "1929-11-18",
+    "birth_place": "Noblesville, Indiana, United States",
+    "died": "2004-05-07",
+    "first_name": "William Joseph",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/knight-w.jpg",
+    "last_name": "Knight\"Pete\"",
+    "name": "William Joseph Knight\"Pete\"",
+    "nationality": "American",
+    "non_fai_flight_count": 1,
+    "non_fai_flight_list": [
+        {
+            "date": "1967-10-17",
+            "duration": "10m 6s",
+            "mission": "X-15 Flight #190"
+        }
+    ],
+    "selection_date": "1960-04-01",
+    "selection_group": "Dyna-Soar Group 1",
+    "significant_flight_count": 15,
+    "significant_flight_list": [
+        {
+            "date": "1965-09-30",
+            "duration": "8m 23s",
+            "mission": "X-15 Flight #151"
+        },
+        {
+            "date": "1965-10-12",
+            "duration": "7m 8s",
+            "mission": "X-15 Flight #152"
+        },
+        {
+            "date": "1966-07-12",
+            "duration": "8m 38s",
+            "mission": "X-15 Flight #160"
+        },
+        {
+            "date": "1966-07-21",
+            "duration": "8m 51s",
+            "mission": "X-15 Flight #162"
+        },
+        {
+            "date": "1966-08-03",
+            "duration": "9m 11s",
+            "mission": "X-15 Flight #164"
+        },
+        {
+            "date": "1966-08-12",
+            "duration": "8m 37s",
+            "mission": "X-15 Flight #167"
+        },
+        {
+            "date": "1966-08-30",
+            "duration": "8m 58s",
+            "mission": "X-15 Flight #170"
+        },
+        {
+            "date": "1966-11-18",
+            "duration": "8m 27s",
+            "mission": "X-15 Flight #175"
+        },
+        {
+            "date": "1967-05-08",
+            "duration": "8m 27s",
+            "mission": "X-15 Flight #180"
+        },
+        {
+            "date": "1967-06-29",
+            "duration": "10m 7s",
+            "mission": "X-15 Flight #184"
+        },
+        {
+            "date": "1967-08-21",
+            "duration": "7m 39s",
+            "mission": "X-15 Flight #186"
+        },
+        {
+            "date": "1967-10-03",
+            "duration": "8m 12s",
+            "mission": "X-15 Flight #188"
+        },
+        {
+            "date": "1968-04-26",
+            "duration": "9m 17s",
+            "mission": "X-15 Flight #194"
+        },
+        {
+            "date": "1968-07-16",
+            "duration": "9m 42s",
+            "mission": "X-15 Flight #196"
+        },
+        {
+            "date": "1968-09-13",
+            "duration": "10m 56s",
+            "mission": "X-15 Flight #198"
+        }
+    ],
+    "status": "Deceased"
+}

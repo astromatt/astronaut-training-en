@@ -1,0 +1,31 @@
+{
+    "birth_date": "1961-09-17",
+    "birth_place": "Palo Alto, California, United States",
+    "died": null,
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "2000-10-11",
+            "duration": "12d 21h 40m 25s",
+            "mission": "STS-92"
+        },
+        {
+            "date": "2002-10-07",
+            "duration": "10d 19h 57m 49s",
+            "mission": "STS-112"
+        },
+        {
+            "date": "2007-10-23",
+            "duration": "15d 2h 23m 54s",
+            "mission": "STS-120"
+        }
+    ],
+    "first_name": "Pamela Ann",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/melroy-p.jpg",
+    "last_name": "Melroy",
+    "name": "Pamela Ann Melroy",
+    "nationality": "American",
+    "selection_date": "1994-12-08",
+    "selection_group": "NASA Group 15",
+    "status": "Retired"
+}

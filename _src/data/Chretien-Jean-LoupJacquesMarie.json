@@ -1,0 +1,40 @@
+{
+    "birth_date": "1938-08-20",
+    "birth_place": "La Rochelle, France",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "1988-12-09",
+            "duration": "6h 0m",
+            "mission": "EO-3/4"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1982-06-24",
+            "duration": "7d 21h 50m 52s",
+            "mission": "Soyuz T-6"
+        },
+        {
+            "date": "1988-11-26",
+            "duration": "24d 18h 7m 26s",
+            "mission": "Soyuz TM-7 /Soyuz TM-6"
+        },
+        {
+            "date": "1997-09-26",
+            "duration": "10d 19h 20m 50s",
+            "mission": "STS-86"
+        }
+    ],
+    "first_name": "Jean-Loup Jacques Marie",
+    "group2": "NASA Group 15 (8 December 1994)",
+    "img": "https://www.worldspaceflight.com/bios/photos/france/chretien-j.jpg",
+    "last_name": "Chretien",
+    "name": "Jean-Loup Jacques Marie  Chretien",
+    "nationality": "French",
+    "selection_date": " 1980",
+    "selection_group": "CNES Group 1",
+    "status": "Retired"
+}

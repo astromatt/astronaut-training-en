@@ -1,0 +1,100 @@
+{
+    "birth_date": "1930-11-03",
+    "birth_place": "Pasedena, California, United States",
+    "died": "2014-05-06",
+    "first_name": "William Harvey",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/dana-w.jpg",
+    "last_name": "Dana",
+    "name": "William Harvey Dana",
+    "nationality": "American",
+    "non_fai_flight_count": 2,
+    "non_fai_flight_list": [
+        {
+            "date": "1966-11-01",
+            "duration": "10m 44s",
+            "mission": "X-15 Flight #174"
+        },
+        {
+            "date": "1968-08-21",
+            "duration": "9m 23s",
+            "mission": "X-15 Flight #197"
+        }
+    ],
+    "notes": "Dana was the pilot on 16 X-15 flights, including the final X-15 flight on 24 October 1968.",
+    "selection_date": "1960-04-01",
+    "selection_group": "Dyna-Soar Group 1",
+    "significant_flight_count": 14,
+    "significant_flight_list": [
+        {
+            "date": "\n 8 minutes, 46 seconds\n",
+            "duration": "8m 46s",
+            "mission": "X-15 Flight #156"
+        },
+        {
+            "date": "\n 7 minutes, 30 seconds\n",
+            "duration": "7m 30s",
+            "mission": "X-15 Flight #161"
+        },
+        {
+            "date": "\n 8 minutes, 28 seconds\n",
+            "duration": "8m 28s",
+            "mission": "X-15 Flight #165"
+        },
+        {
+            "date": "\n 9 minutes, 33 seconds\n",
+            "duration": "9m 33s",
+            "mission": "X-15 Flight #168"
+        },
+        {
+            "date": "\n 8 minutes, 59 seconds\n",
+            "duration": "8m 59s",
+            "mission": "X-15 Flight #172"
+        },
+        {
+            "date": "\n 5 minutes, 17 seconds\n",
+            "duration": "5m 17s",
+            "mission": "X-15 Flight #178"
+        },
+        {
+            "date": "\n 6 minutes, 56 seconds\n",
+            "duration": "6m 56s",
+            "mission": "X-15 Flight #181"
+        },
+        {
+            "date": "\n 7 minutes, 6 seconds\n",
+            "duration": "7m 6s",
+            "mission": "X-15 Flight #183"
+        },
+        {
+            "date": "\n 7 minutes, 36 seconds\n",
+            "duration": "7m 36s",
+            "mission": "X-15 Flight #185"
+        },
+        {
+            "date": "\n 10 minutes, 48 seconds\n",
+            "duration": "10m 48s",
+            "mission": "X-15 Flight #189"
+        },
+        {
+            "date": "\n 7 minutes, 35 seconds\n",
+            "duration": "7m 35s",
+            "mission": "X-15 Flight #192"
+        },
+        {
+            "date": "\n 9 minutes, 23 seconds\n",
+            "duration": "9m 23s",
+            "mission": "X-15 Flight #193"
+        },
+        {
+            "date": "\n 11 minutes, 33 seconds\n",
+            "duration": "11m 33s",
+            "mission": "X-15 Flight #195"
+        },
+        {
+            "date": "\n 11 minutes, 28 seconds\n",
+            "duration": "11m 28s",
+            "mission": "X-15 Flight #199"
+        }
+    ],
+    "status": "Deceased"
+}

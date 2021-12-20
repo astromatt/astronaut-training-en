@@ -1,0 +1,23 @@
+{
+    "birth_date": "1956-04-16",
+    "birth_place": "Arlington, Virginia, United States",
+    "death_remarks": "Breakup of Columbia on STS-107",
+    "died": "2003-02-01",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2003-01-16",
+            "duration": "15d 22h 20m 22s",
+            "mission": "STS-107"
+        }
+    ],
+    "first_name": "David McDowell",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/brown-d.jpg",
+    "last_name": "Brown",
+    "name": "David McDowell Brown",
+    "nationality": "American",
+    "notes": "Brown was a captain in the United States Navy and mission specialist on STS-107. He was a bachelor. He had a doctorate in medicine from Eastern Virginia Medical School.",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Deceased"
+}

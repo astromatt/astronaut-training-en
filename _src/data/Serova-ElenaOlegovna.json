@@ -1,0 +1,22 @@
+{
+    "birth_date": "1976-04-22",
+    "birth_place": "Vozdvizhenka, Russia",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2014-09-25",
+            "duration": "167d 5h 42m 53s",
+            "mission": "Soyuz TMA-14M"
+        }
+    ],
+    "first_name": "Elena Olegovna",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/serova-e.jpg",
+    "last_name": "Serova",
+    "name": "Elena Olegovna Serova",
+    "nationality": "Russian",
+    "notes": "Wife to cosmonaut Mark Serov.",
+    "selection_date": "2006-10-28",
+    "selection_group": "Energia Engineer Group 16",
+    "status": "Retired"
+}

@@ -1,0 +1,33 @@
+{
+    "birth_date": "1949-02-23",
+    "birth_place": "Quebec City, Quebec, Canada",
+    "died": null,
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1984-10-05",
+            "duration": "8d 5h 23m 38s",
+            "mission": "41-G"
+        },
+        {
+            "date": "1996-05-19",
+            "duration": "10d 0h 39m 18s",
+            "mission": "STS-77"
+        },
+        {
+            "date": "2000-12-01",
+            "duration": "10d 19h 57m 24s",
+            "mission": "STS-97"
+        }
+    ],
+    "first_name": "Marc",
+    "group2": "NASA Group 14 (14 March 1992)",
+    "img": "https://www.worldspaceflight.com/bios/photos/canada/garneau-m.jpg",
+    "last_name": "Garneau",
+    "name": "Marc   Garneau",
+    "nationality": "Canadian",
+    "notes": "Garneau was President of the Canadian Space Agency from 22 November 2001 to 28 November 2005. He resigned to run for public office.",
+    "selection_date": "1983-12-05",
+    "selection_group": "CSA Group 1",
+    "status": "Retired"
+}

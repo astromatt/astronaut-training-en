@@ -1,0 +1,28 @@
+{
+    "birth_date": "1926-04-03",
+    "birth_place": "Mitchell, Indiana, United States",
+    "death_remarks": "Apollo 1 fire",
+    "died": "1967-01-27",
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1961-07-21",
+            "duration": "15m 37s",
+            "mission": "Liberty Bell 7"
+        },
+        {
+            "date": "1965-03-23",
+            "duration": "4h 52m 31s",
+            "mission": "Gemini 3"
+        }
+    ],
+    "first_name": "Virgil Ivan",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/grissom-v.jpg",
+    "last_name": "Grissom\"Gus\"",
+    "name": "Virgil Ivan Grissom\"Gus\"",
+    "nationality": "American",
+    "notes": "Apollo 1 was scheduled for launch on 21 February 1967. Grissom died in a fire during a flight rehearsal.",
+    "selection_date": "1959-04-02",
+    "selection_group": "NASA Group 1",
+    "status": "Deceased"
+}

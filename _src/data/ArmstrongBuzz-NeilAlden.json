@@ -1,0 +1,80 @@
+{
+    "birth_date": "1930-08-05",
+    "birth_place": "Wapakoneta, Ohio, United States",
+    "died": "2012-08-25",
+    "eva_count": 2,
+    "eva_list": [
+        {
+            "date": "1969-07-21",
+            "duration": "2h 32m",
+            "mission": "Apollo 11"
+        },
+        {
+            "date": "1969-07-21",
+            "duration": "5m",
+            "mission": "Apollo 11"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1966-03-16",
+            "duration": "10h 41m 26s",
+            "mission": "Gemini VIII"
+        },
+        {
+            "date": "1969-07-16",
+            "duration": "8d 3h 18m 35s",
+            "mission": "Apollo 11"
+        }
+    ],
+    "first_name": "Neil Alden",
+    "group2": "Dyna-Soar Group 1 (1 April 1960)",
+    "group3": "NASA Group 2 (11 September 1962)",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/armstrong-n.jpg",
+    "last_name": "Armstrong\"Buzz\"",
+    "name": "Neil Alden Armstrong\"Buzz\"",
+    "nationality": "American",
+    "notes": "He was an Air Force pilot with degrees from Purdue University and the University of Southern California. Armstrong also had been an X-15 pilot, although none of his flights took him high enough to qualify for astronaut wings.",
+    "selection_date": "1958-06-25",
+    "selection_group": "Man In Space Soonest",
+    "significant_flight_count": 7,
+    "significant_flight_list": [
+        {
+            "date": "1960-11-30",
+            "duration": "9m 54s",
+            "mission": "X-15 Flight #29"
+        },
+        {
+            "date": "1960-12-09",
+            "duration": "10m 49s",
+            "mission": "X-15 Flight #31"
+        },
+        {
+            "date": "1961-12-10",
+            "duration": "10m 25s",
+            "mission": "X-15 Flight #46"
+        },
+        {
+            "date": "1962-01-17",
+            "duration": "10m 28s",
+            "mission": "X-15 Flight #48"
+        },
+        {
+            "date": "1962-04-05",
+            "duration": "11m 17s",
+            "mission": "X-15 Flight #49"
+        },
+        {
+            "date": "1962-04-20",
+            "duration": "12m 29s",
+            "mission": "X-15 Flight #51"
+        },
+        {
+            "date": "1962-07-26",
+            "duration": "10m 22s",
+            "mission": "X-15 Flight #64"
+        }
+    ],
+    "status": "Deceased"
+}

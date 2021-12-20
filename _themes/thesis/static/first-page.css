@@ -1,0 +1,66 @@
+#first-page #university   {font-size: 1.7rem;}
+#first-page #faculty      {font-size: 1.5rem;}
+#first-page #thesis       {font-size: 2.2rem;}
+#first-page #title        {font-size: 1.5rem;}
+#first-page #author       {font-size: 1.3rem;}
+#first-page #supervisor   {font-size: 1.3rem;}
+#first-page #proofreading {font-size: 1.3rem;}
+#first-page footer        {font-size: 1.3rem;}
+
+
+#first-page {
+    text-align: center;
+    padding-top: 5rem;
+    page-break-after: always;
+}
+
+#first-page #header h1 {
+    text-align: center;
+    page-break-before: avoid;
+    page-break-after: avoid;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#first-page #header h2 {
+    font-weight: normal;
+    text-align: center;
+    page-break-before: avoid;
+    page-break-after: avoid;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#first-page header {
+    margin-top: 0;
+}
+
+#first-page #university {
+    text-transform: uppercase;
+}
+
+#first-page #faculty {
+    text-transform: uppercase;
+}
+
+#first-page #thesis {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#first-page #title {
+    margin-top: 10rem;
+}
+
+#first-page #author {
+    margin-top: 10rem;
+    text-align: left;
+    padding-left: 35%;
+    word-break: keep-all;
+}
+
+#first-page footer {
+    border-top: 1px solid black;
+    page-break-before: avoid;
+    margin-top: 8rem;
+}

@@ -1,0 +1,79 @@
+{
+    "birth_date": "1953-04-29",
+    "birth_place": "Kirya, Chuvashia, Russia",
+    "died": null,
+    "eva_count": 9,
+    "eva_list": [
+        {
+            "date": "1995-07-14",
+            "duration": "5h 34m",
+            "mission": "EO-19"
+        },
+        {
+            "date": "1995-07-19",
+            "duration": "3h 8m",
+            "mission": "EO-19"
+        },
+        {
+            "date": "1995-07-21",
+            "duration": "5h 50m",
+            "mission": "EO-19"
+        },
+        {
+            "date": "1998-03-03",
+            "duration": "1h 15m",
+            "mission": "EO-25"
+        },
+        {
+            "date": "1998-04-01",
+            "duration": "6h 40m",
+            "mission": "EO-25"
+        },
+        {
+            "date": "1998-04-06",
+            "duration": "4h 15m",
+            "mission": "EO-25"
+        },
+        {
+            "date": "1998-04-11",
+            "duration": "6h 25m",
+            "mission": "EO-25"
+        },
+        {
+            "date": "1998-04-17",
+            "duration": "6h 33m",
+            "mission": "EO-25"
+        },
+        {
+            "date": "1998-04-22",
+            "duration": "6h 21m",
+            "mission": "EO-25"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1995-06-27",
+            "duration": "75d 11h 20m 21s",
+            "mission": "STS-71 /Soyuz TM-21"
+        },
+        {
+            "date": "1998-01-29",
+            "duration": "207d 12h 51m 2s",
+            "mission": "Soyuz TM-27"
+        },
+        {
+            "date": "2002-11-24",
+            "duration": "161d 1h 14m 38s",
+            "mission": "STS-113 /Soyuz TMA-1"
+        }
+    ],
+    "first_name": "Nikolai Mikhailovich",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/budarin-n.jpg",
+    "last_name": "Budarin",
+    "name": "Nikolai Mikhailovich Budarin",
+    "nationality": "Russian",
+    "selection_date": "1989-01-25",
+    "selection_group": "Energia Engineer Group 10",
+    "status": "Retired"
+}

@@ -1,0 +1,55 @@
+{
+    "birth_date": "1964-02-21",
+    "birth_place": "Orange, New Jersey, United States",
+    "died": null,
+    "eva_count": 3,
+    "eva_list": [
+        {
+            "date": "2015-10-28",
+            "duration": "7h 16m",
+            "mission": "ISS Expedition 45"
+        },
+        {
+            "date": "2015-11-06",
+            "duration": "7h 48m",
+            "mission": "ISS Expedition 45"
+        },
+        {
+            "date": "2015-12-20",
+            "duration": "3h 16m",
+            "mission": "ISS Expedition 46"
+        }
+    ],
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1999-12-20",
+            "duration": "7d 23h 11m 34s",
+            "mission": "STS-103"
+        },
+        {
+            "date": "2007-08-08",
+            "duration": "12d 17h 56m 38s",
+            "mission": "STS-118"
+        },
+        {
+            "date": "2010-10-07",
+            "duration": "159d 8h 43m 10s",
+            "mission": "Soyuz TMA-01M"
+        },
+        {
+            "date": "2015-03-27",
+            "duration": "340d 8h 43m 3s",
+            "mission": "Soyuz TMA-16M /Soyuz TMA-18M"
+        }
+    ],
+    "first_name": "Scott Joseph",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/kelly-s.jpg",
+    "last_name": "Kelly",
+    "name": "Scott Joseph Kelly",
+    "nationality": "American",
+    "notes": "Scott Kelly is twin brother to Mark Kelly.",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Retired"
+}

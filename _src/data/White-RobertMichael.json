@@ -1,0 +1,99 @@
+{
+    "birth_date": "1924-07-06",
+    "birth_place": "New York, New York, United States",
+    "died": "2010-03-17",
+    "first_name": "Robert Michael",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/white-r.jpg",
+    "last_name": "White",
+    "name": "Robert Michael White",
+    "nationality": "American",
+    "non_fai_flight_count": 1,
+    "non_fai_flight_list": [
+        {
+            "date": "1962-07-17",
+            "duration": "10m 21s",
+            "mission": "X-15 Flight #62"
+        }
+    ],
+    "selection_date": "1958-06-25",
+    "selection_group": "Man In Space Soonest",
+    "significant_flight_count": 15,
+    "significant_flight_list": [
+        {
+            "date": "1960-04-13",
+            "duration": "8m 53s",
+            "mission": "X-15 Flight #12"
+        },
+        {
+            "date": "1960-05-06",
+            "duration": "9m 21s",
+            "mission": "X-15 Flight #14"
+        },
+        {
+            "date": "1960-05-19",
+            "duration": "11m 25s",
+            "mission": "X-15 Flight #16"
+        },
+        {
+            "date": "1960-08-12",
+            "duration": "11m 39s",
+            "mission": "X-15 Flight #19"
+        },
+        {
+            "date": "1960-09-17",
+            "duration": "10m 0s",
+            "mission": "X-15 Flight #21"
+        },
+        {
+            "date": "1961-02-07",
+            "duration": "10m 27s",
+            "mission": "X-15 Flight #33"
+        },
+        {
+            "date": "1961-03-07",
+            "duration": "8m 34s",
+            "mission": "X-15 Flight #34"
+        },
+        {
+            "date": "1961-04-21",
+            "duration": "10m 3s",
+            "mission": "X-15 Flight #36"
+        },
+        {
+            "date": "1961-06-23",
+            "duration": "10m 6s",
+            "mission": "X-15 Flight #38"
+        },
+        {
+            "date": "1961-10-11",
+            "duration": "10m 15s",
+            "mission": "X-15 Flight #43"
+        },
+        {
+            "date": "1961-11-09",
+            "duration": "9m 31s",
+            "mission": "X-15 Flight #45"
+        },
+        {
+            "date": "1962-06-01",
+            "duration": "10m 2s",
+            "mission": "X-15 Flight #55"
+        },
+        {
+            "date": "1962-06-12",
+            "duration": "9m 34s",
+            "mission": "X-15 Flight #57"
+        },
+        {
+            "date": "1962-06-21",
+            "duration": "9m 34s",
+            "mission": "X-15 Flight #58"
+        },
+        {
+            "date": "1962-12-14",
+            "duration": "9m 37s",
+            "mission": "X-15 Flight #75"
+        }
+    ],
+    "status": "Deceased"
+}

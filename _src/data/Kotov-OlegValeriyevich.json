@@ -1,0 +1,64 @@
+{
+    "birth_date": "1965-10-27",
+    "birth_place": "Simferopol, Crimea, Ukraine",
+    "died": null,
+    "eva_count": 6,
+    "eva_list": [
+        {
+            "date": "2007-05-30",
+            "duration": "5h 25m",
+            "mission": "ISS Expedition 15"
+        },
+        {
+            "date": "2007-06-06",
+            "duration": "5h 37m",
+            "mission": "ISS Expedition 15"
+        },
+        {
+            "date": "2010-01-14",
+            "duration": "5h 44m",
+            "mission": "ISS Expedition 22"
+        },
+        {
+            "date": "2013-11-09",
+            "duration": "5h 50m",
+            "mission": "ISS Expedition 37"
+        },
+        {
+            "date": "2013-12-27",
+            "duration": "8h 7m",
+            "mission": "ISS Expedition 38"
+        },
+        {
+            "date": "2014-01-27",
+            "duration": "6h 8m",
+            "mission": "ISS Expedition 38"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "2007-04-07",
+            "duration": "196d 17h 4m 35s",
+            "mission": "Soyuz TMA-10"
+        },
+        {
+            "date": "2009-12-20",
+            "duration": "163d 5h 32m 32s",
+            "mission": "Soyuz TMA-17"
+        },
+        {
+            "date": "2013-09-25",
+            "duration": "166d 6h 25m 10s",
+            "mission": "Soyuz TMA-10M"
+        }
+    ],
+    "first_name": "Oleg Valeriyevich",
+    "img": "https://www.worldspaceflight.com/bios/photos/ukraine/kotov-o.jpg",
+    "last_name": "Kotov",
+    "name": "Oleg Valeriyevich  Kotov",
+    "nationality": "Russian",
+    "selection_date": " 1996",
+    "selection_group": "Air Force Group 11 Supplemental",
+    "status": "Retired"
+}

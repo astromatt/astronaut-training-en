@@ -1,0 +1,39 @@
+{
+    "birth_date": "1942-03-03",
+    "birth_place": "Beloye, Minsk Oblast, Belarus",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "1978-07-29",
+            "duration": "2h 20m",
+            "mission": "Salyut 6, PE-2"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1977-10-09",
+            "duration": "2d 0h 44m 45s",
+            "mission": "Soyuz 25"
+        },
+        {
+            "date": "1978-06-15",
+            "duration": "139d 14h 47m 32s",
+            "mission": "Soyuz 29 /Soyuz 31"
+        },
+        {
+            "date": "1981-03-12",
+            "duration": "74d 17h 37m 23s",
+            "mission": "Soyuz T-4"
+        }
+    ],
+    "first_name": "Vladimir V.",
+    "img": "https://www.worldspaceflight.com/bios/photos/belarus/kovalyonok-v.jpg",
+    "last_name": "Kovalyonok",
+    "name": "Vladimir V. Kovalyonok",
+    "nationality": "Russian",
+    "selection_date": "1967-05-07",
+    "selection_group": "Air Force Group 4",
+    "status": "Retired"
+}

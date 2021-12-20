@@ -1,0 +1,28 @@
+{
+    "birth_date": "1957-07-12",
+    "birth_place": "Amarillo, Texas, United States",
+    "death_remarks": "Breakup of Columbia on STS-107",
+    "died": "2003-02-01",
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1999-05-27",
+            "duration": "9d 19h 13m 1s",
+            "mission": "STS-96"
+        },
+        {
+            "date": "2003-01-16",
+            "duration": "15d 22h 20m 22s",
+            "mission": "STS-107"
+        }
+    ],
+    "first_name": "Rick Douglas",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/husband-r.jpg",
+    "last_name": "Husband",
+    "name": "Rick Douglas Husband",
+    "nationality": "American",
+    "notes": "STS-107 Mission Commander Rick Husband was married with two children. Husband was a colonel in the United States Air Force. He had a master's degree in mechanical engineering from California State University, Fresno.",
+    "selection_date": "1994-12-08",
+    "selection_group": "NASA Group 15",
+    "status": "Deceased"
+}

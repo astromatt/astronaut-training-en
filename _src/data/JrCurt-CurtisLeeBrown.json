@@ -1,0 +1,46 @@
+{
+    "birth_date": "1956-03-11",
+    "birth_place": "Elizabethtown, North Carolina, United States",
+    "died": null,
+    "fai_flight_count": 6,
+    "fai_flight_list": [
+        {
+            "date": "1992-09-12",
+            "duration": "7d 22h 30m 23s",
+            "mission": "STS-47"
+        },
+        {
+            "date": "1994-11-03",
+            "duration": "10d 22h 34m 2s",
+            "mission": "STS-66"
+        },
+        {
+            "date": "1996-05-19",
+            "duration": "10d 0h 39m 18s",
+            "mission": "STS-77"
+        },
+        {
+            "date": "1997-08-07",
+            "duration": "11d 20h 26m 59s",
+            "mission": "STS-85"
+        },
+        {
+            "date": "1998-10-29",
+            "duration": "8d 21h 44m 26s",
+            "mission": "STS-95"
+        },
+        {
+            "date": "1999-12-20",
+            "duration": "7d 23h 11m 34s",
+            "mission": "STS-103"
+        }
+    ],
+    "first_name": "Curtis Lee Brown,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/brown-c.jpg",
+    "last_name": "Jr.\"Curt\"",
+    "name": "Curtis Lee Brown, Jr.\"Curt\"",
+    "nationality": "American",
+    "selection_date": "1987-06-05",
+    "selection_group": "NASA Group 12",
+    "status": "Retired"
+}

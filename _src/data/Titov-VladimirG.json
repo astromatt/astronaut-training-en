@@ -1,0 +1,67 @@
+{
+    "birth_date": "1947-01-01",
+    "birth_place": "Sretensk , Chita Oblast , Russia",
+    "died": null,
+    "eva_count": 4,
+    "eva_list": [
+        {
+            "date": "1988-02-26",
+            "duration": "4h 25m",
+            "mission": "EO-3"
+        },
+        {
+            "date": "1988-06-30",
+            "duration": "5h 10m",
+            "mission": "EO-3"
+        },
+        {
+            "date": "1988-10-20",
+            "duration": "4h 12m",
+            "mission": "EO-3"
+        },
+        {
+            "date": "1997-10-01",
+            "duration": "5h 1m",
+            "mission": "STS-86"
+        }
+    ],
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1983-04-20",
+            "duration": "2d 0h 17m 48s",
+            "mission": "Soyuz T-8"
+        },
+        {
+            "date": "1987-12-21",
+            "duration": "365d 22h 38m 57s",
+            "mission": "Soyuz TM-4 /Soyuz TM-6"
+        },
+        {
+            "date": "1995-02-03",
+            "duration": "8d 6h 28m 15s",
+            "mission": "STS-63"
+        },
+        {
+            "date": "1997-09-26",
+            "duration": "10d 19h 20m 50s",
+            "mission": "STS-86"
+        }
+    ],
+    "first_name": "Vladimir G.",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/titov-v.jpg",
+    "last_name": "Titov",
+    "name": "Vladimir G. Titov",
+    "nationality": "Russian",
+    "selection_date": "1976-08-23",
+    "selection_group": "Air Force Group 6",
+    "significant_flight_count": 1,
+    "significant_flight_list": [
+        {
+            "date": "1983-09-26",
+            "duration": "4m",
+            "mission": "Soyuz-T 10-1"
+        }
+    ],
+    "status": "Retired"
+}

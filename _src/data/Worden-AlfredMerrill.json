@@ -1,0 +1,29 @@
+{
+    "birth_date": "1932-02-07",
+    "birth_place": "Jackson, Mississippi, United States",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "1971-08-05",
+            "duration": "39m",
+            "mission": "Apollo 15"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1971-07-26",
+            "duration": "12d 7h 11m 53s",
+            "mission": "Apollo 15"
+        }
+    ],
+    "first_name": "Alfred Merrill",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/worden-a.jpg",
+    "last_name": "Worden",
+    "name": "Alfred Merrill Worden",
+    "nationality": "American",
+    "selection_date": "1966-04-04",
+    "selection_group": "NASA Group 5",
+    "status": "Retired"
+}

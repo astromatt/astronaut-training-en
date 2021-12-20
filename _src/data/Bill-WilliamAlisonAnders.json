@@ -1,0 +1,22 @@
+{
+    "birth_date": "1933-10-17",
+    "birth_place": "Hong Kong, China",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1968-12-21",
+            "duration": "6d 3h 0m 42s",
+            "mission": "Apollo 8"
+        }
+    ],
+    "first_name": "William Alison Anders\"",
+    "img": "https://www.worldspaceflight.com/bios/photos/china/anders-w.jpg",
+    "last_name": "Bill\"",
+    "name": "William  Alison Anders\" Bill\"",
+    "nationality": "American",
+    "notes": "Anders was part of the first crew to see the backside of the moon.",
+    "selection_date": "1963-10-17",
+    "selection_group": "NASA Group 3",
+    "status": "Retired"
+}

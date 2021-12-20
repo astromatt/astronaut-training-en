@@ -1,0 +1,28 @@
+{
+    "birth_date": "1963-03-14",
+    "birth_place": "Madrid, Spain",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1998-10-29",
+            "duration": "8d 21h 44m 26s",
+            "mission": "STS-95"
+        },
+        {
+            "date": "2003-10-18",
+            "duration": "9d 21h 2m 17s",
+            "mission": "Soyuz TMA-3 /Soyuz TMA-2"
+        }
+    ],
+    "first_name": "Pedro F.",
+    "group2": "Commercial Group ( 1993)",
+    "group3": "NASA Group 16 (1 May 1996)",
+    "img": "https://www.worldspaceflight.com/bios/photos/spain/duque-p.jpg",
+    "last_name": "Duque",
+    "name": "Pedro F. Duque",
+    "nationality": "Spanish",
+    "selection_date": "1992-05-15",
+    "selection_group": "1992 ESA Group",
+    "status": "Active"
+}

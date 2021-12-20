@@ -1,0 +1,31 @@
+{
+    "birth_date": "1955-08-04",
+    "birth_place": "Yankton, South Dakota, United States",
+    "died": null,
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1990-11-15",
+            "duration": "4d 21h 54m 31s",
+            "mission": "STS-38"
+        },
+        {
+            "date": "1991-09-12",
+            "duration": "5d 8h 27m 38s",
+            "mission": "STS-48"
+        },
+        {
+            "date": "1994-03-04",
+            "duration": "13d 23h 16m 41s",
+            "mission": "STS-62"
+        }
+    ],
+    "first_name": "Charles Donald",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/gemar-c.jpg",
+    "last_name": "Gemar\"Sam\"",
+    "name": "Charles Donald Gemar\"Sam\"",
+    "nationality": "American",
+    "selection_date": "1985-06-04",
+    "selection_group": "NASA Group 11",
+    "status": "Retired"
+}

@@ -1,0 +1,49 @@
+{
+    "birth_date": "1961-10-30",
+    "birth_place": "Yonkers, New York, United States",
+    "died": null,
+    "eva_count": 4,
+    "eva_list": [
+        {
+            "date": "2008-06-03",
+            "duration": "6h 48m",
+            "mission": "STS-124"
+        },
+        {
+            "date": "2008-06-05",
+            "duration": "7h 11m",
+            "mission": "STS-124"
+        },
+        {
+            "date": "2008-06-08",
+            "duration": "6h 33m",
+            "mission": "STS-124"
+        },
+        {
+            "date": "2011-07-12",
+            "duration": "6h 31m",
+            "mission": "ISS Expedition 28"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2008-05-31",
+            "duration": "13d 18h 14m 7s",
+            "mission": "STS-124"
+        },
+        {
+            "date": "2011-04-04",
+            "duration": "164d 5h 41m 24s",
+            "mission": "Soyuz TMA-21"
+        }
+    ],
+    "first_name": "Robert J. Garan,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/garan-r.jpg",
+    "last_name": "Jr.",
+    "name": "Robert J. Garan, Jr.",
+    "nationality": "American",
+    "selection_date": "2000-07-26",
+    "selection_group": "NASA Group 18",
+    "status": "Inactive"
+}

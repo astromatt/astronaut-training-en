@@ -1,0 +1,22 @@
+{
+    "birth_date": "1931-08-30",
+    "birth_place": "Denver, Colorado, United States",
+    "death_remarks": "Complications from cancer",
+    "died": "1982-12-27",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1970-04-11",
+            "duration": "5d 22h 54m 41s",
+            "mission": "Apollo 13"
+        }
+    ],
+    "first_name": "John Leonard Swigert,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/swigert-j.jpg",
+    "last_name": "Jr.\"Jack\"",
+    "name": "John Leonard Swigert, Jr.\"Jack\"",
+    "nationality": "American",
+    "selection_date": "1966-04-04",
+    "selection_group": "NASA Group 5",
+    "status": "Deceased"
+}

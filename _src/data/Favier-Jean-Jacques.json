@@ -1,0 +1,21 @@
+{
+    "birth_date": "1949-04-13",
+    "birth_place": "Kehl, Germany",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1996-06-20",
+            "duration": "16d 21h 47m 45s",
+            "mission": "STS-78"
+        }
+    ],
+    "first_name": "Jean-Jacques",
+    "img": "https://www.worldspaceflight.com/bios/photos/germany/favier-j.jpg",
+    "last_name": "Favier",
+    "name": "Jean-Jacques   Favier",
+    "nationality": "French",
+    "selection_date": "1985-09-18",
+    "selection_group": "CNES Group 2",
+    "status": "Retired"
+}

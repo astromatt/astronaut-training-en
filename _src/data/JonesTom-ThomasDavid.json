@@ -1,0 +1,54 @@
+{
+    "birth_date": "1955-01-22",
+    "birth_place": "Baltimore, Maryland, United States",
+    "died": null,
+    "eva_count": 3,
+    "eva_list": [
+        {
+            "date": "2001-02-10",
+            "duration": "7h 34m",
+            "mission": "STS-98"
+        },
+        {
+            "date": "2001-02-12",
+            "duration": "6h 50m",
+            "mission": "STS-98"
+        },
+        {
+            "date": "2001-02-14",
+            "duration": "5h 25m",
+            "mission": "STS-98"
+        }
+    ],
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1994-04-09",
+            "duration": "11d 5h 49m 30s",
+            "mission": "STS-59"
+        },
+        {
+            "date": "1994-09-30",
+            "duration": "11d 5h 46m 8s",
+            "mission": "STS-68"
+        },
+        {
+            "date": "1996-11-19",
+            "duration": "17d 15h 53m 18s",
+            "mission": "STS-80"
+        },
+        {
+            "date": "2001-02-07",
+            "duration": "12d 21h 20m 3s",
+            "mission": "STS-98"
+        }
+    ],
+    "first_name": "Thomas David",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/jones-t.jpg",
+    "last_name": "Jones\"Tom\"",
+    "name": "Thomas David Jones\"Tom\"",
+    "nationality": "American",
+    "selection_date": "1990-01-17",
+    "selection_group": "NASA Group 13",
+    "status": "Retired"
+}

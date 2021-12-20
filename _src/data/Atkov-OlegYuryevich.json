@@ -1,0 +1,21 @@
+{
+    "birth_date": "1949-05-09",
+    "birth_place": "Khvorostyanka, Samara Oblast, Russia",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1984-02-08",
+            "duration": "236d 22h 49m 34s",
+            "mission": "Soyuz T-10 /Soyuz T-11"
+        }
+    ],
+    "first_name": "Oleg Yuryevich",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/atkov-o.jpg",
+    "last_name": "Atkov",
+    "name": "Oleg Yuryevich Atkov",
+    "nationality": "Russian",
+    "selection_date": " 1977",
+    "selection_group": "Cardiologist Group",
+    "status": "Retired"
+}

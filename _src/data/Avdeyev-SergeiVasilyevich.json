@@ -1,0 +1,84 @@
+{
+    "birth_date": "1956-01-01",
+    "birth_place": "Chapayevsk, Samara Oblast, Russia",
+    "died": null,
+    "eva_count": 10,
+    "eva_list": [
+        {
+            "date": "1992-09-03",
+            "duration": "3h 56m",
+            "mission": "EO-12"
+        },
+        {
+            "date": "1992-09-07",
+            "duration": "5h 8m",
+            "mission": "EO-12"
+        },
+        {
+            "date": "1992-09-11",
+            "duration": "5h 44m",
+            "mission": "EO-12"
+        },
+        {
+            "date": "1992-09-15",
+            "duration": "3h 33m",
+            "mission": "EO-12"
+        },
+        {
+            "date": "1995-10-20",
+            "duration": "5h 16m",
+            "mission": "EO-20"
+        },
+        {
+            "date": "1995-12-08",
+            "duration": "29m",
+            "mission": "EO-20"
+        },
+        {
+            "date": "1998-09-15",
+            "duration": "30m",
+            "mission": "EO-26"
+        },
+        {
+            "date": "1998-11-10",
+            "duration": "5h 54m",
+            "mission": "EO-26"
+        },
+        {
+            "date": "1999-07-23",
+            "duration": "6h 7m",
+            "mission": "EO-27"
+        },
+        {
+            "date": "1999-07-28",
+            "duration": "5h 22m",
+            "mission": "EO-27"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1992-07-27",
+            "duration": "188d 21h 41m 15s",
+            "mission": "Soyuz TM-15"
+        },
+        {
+            "date": "1995-09-03",
+            "duration": "179d 1h 41m 45s",
+            "mission": "Soyuz TM-22"
+        },
+        {
+            "date": "1998-08-13",
+            "duration": "379d 14h 51m 9s",
+            "mission": "Soyuz TM-28 /Soyuz TM-29"
+        }
+    ],
+    "first_name": "Sergei Vasilyevich",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/avdeyev-s.jpg",
+    "last_name": "Avdeyev",
+    "name": "Sergei Vasilyevich Avdeyev",
+    "nationality": "Russian",
+    "selection_date": "1987-03-26",
+    "selection_group": "Energia Engineer Group 9",
+    "status": "Retired"
+}

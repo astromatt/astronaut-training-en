@@ -1,0 +1,30 @@
+{
+    "birth_date": "1933-11-10",
+    "birth_place": "St. Francis, Kansas, United States",
+    "death_remarks": "Heart attack",
+    "died": "1990-04-17",
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "1972-12-17",
+            "duration": "1h 6m",
+            "mission": "Apollo 17"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1972-12-07",
+            "duration": "12d 13h 51m 59s",
+            "mission": "Apollo 17"
+        }
+    ],
+    "first_name": "Ronald Ellwin",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/evans-r.jpg",
+    "last_name": "Evans\"Ron\"",
+    "name": "Ronald Ellwin Evans\"Ron\"",
+    "nationality": "American",
+    "selection_date": "1966-04-04",
+    "selection_group": "NASA Group 5",
+    "status": "Deceased"
+}

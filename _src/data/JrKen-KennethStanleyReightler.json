@@ -1,0 +1,26 @@
+{
+    "birth_date": "1951-03-24",
+    "birth_place": "Patuxent River, Maryland, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1991-09-12",
+            "duration": "5d 8h 27m 38s",
+            "mission": "STS-48"
+        },
+        {
+            "date": "1994-02-03",
+            "duration": "8d 7h 9m 22s",
+            "mission": "STS-60"
+        }
+    ],
+    "first_name": "Kenneth Stanley Reightler,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/reightler-k.jpg",
+    "last_name": "Jr.\"Ken\"",
+    "name": "Kenneth Stanley Reightler, Jr.\"Ken\"",
+    "nationality": "American",
+    "selection_date": "1987-06-05",
+    "selection_group": "NASA Group 12",
+    "status": "Retired"
+}

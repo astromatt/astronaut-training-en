@@ -1,0 +1,44 @@
+{
+    "birth_date": "1966-11-10",
+    "birth_place": "Falls Church, Virginia, United States",
+    "died": null,
+    "eva_count": 4,
+    "eva_list": [
+        {
+            "date": "2017-10-05",
+            "duration": "6h 55m",
+            "mission": "ISS Expedition 53"
+        },
+        {
+            "date": "2017-10-10",
+            "duration": "6h 26m",
+            "mission": "ISS Expedition 53"
+        },
+        {
+            "date": "2018-01-23",
+            "duration": "7h 24m",
+            "mission": "ISS Expedition 54"
+        },
+        {
+            "date": "2018-02-16",
+            "duration": "5h 57m",
+            "mission": "ISS Expedition 54"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2017-09-12",
+            "duration": "168d 5h 13m 58s",
+            "mission": "Soyuz MS-06"
+        }
+    ],
+    "first_name": "Mark Thomas Vande",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/vandehei-m.jpg",
+    "last_name": "Hei",
+    "name": "Mark Thomas Vande Hei",
+    "nationality": "American",
+    "selection_date": "2009-06-29",
+    "selection_group": "NASA Group 20",
+    "status": "Active"
+}

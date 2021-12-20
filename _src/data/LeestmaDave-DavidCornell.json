@@ -1,0 +1,39 @@
+{
+    "birth_date": "1949-05-06",
+    "birth_place": "Muskegon, Michigan, United States",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "1984-10-11",
+            "duration": "3h 33m",
+            "mission": "41-G"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1984-10-05",
+            "duration": "8d 5h 23m 38s",
+            "mission": "41-G"
+        },
+        {
+            "date": "1989-08-08",
+            "duration": "5d 1h 0m 8s",
+            "mission": "STS-28"
+        },
+        {
+            "date": "1992-03-24",
+            "duration": "8d 22h 9m 28s",
+            "mission": "STS-45"
+        }
+    ],
+    "first_name": "David Cornell",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/leestma-d.jpg",
+    "last_name": "Leestma\"Dave\"",
+    "name": "David Cornell Leestma\"Dave\"",
+    "nationality": "American",
+    "selection_date": "1980-05-19",
+    "selection_group": "NASA Group 9",
+    "status": "Inactive"
+}

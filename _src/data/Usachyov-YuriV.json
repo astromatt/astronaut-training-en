@@ -1,0 +1,74 @@
+{
+    "birth_date": "1957-10-09",
+    "birth_place": "Donetsk, Rostov Oblast, Russia",
+    "died": null,
+    "eva_count": 7,
+    "eva_list": [
+        {
+            "date": "1996-03-15",
+            "duration": "5h 51m",
+            "mission": "EO-21"
+        },
+        {
+            "date": "1996-05-20",
+            "duration": "5h 20m",
+            "mission": "EO-21"
+        },
+        {
+            "date": "1996-05-24",
+            "duration": "5h 43m",
+            "mission": "EO-21"
+        },
+        {
+            "date": "1996-05-30",
+            "duration": "4h 20m",
+            "mission": "EO-21"
+        },
+        {
+            "date": "1996-06-06",
+            "duration": "3h 34m",
+            "mission": "EO-21"
+        },
+        {
+            "date": "1996-06-13",
+            "duration": "5h 42m",
+            "mission": "EO-21"
+        },
+        {
+            "date": "2001-06-08",
+            "duration": "19m",
+            "mission": "ISS Expedition 2"
+        }
+    ],
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1994-01-08",
+            "duration": "182d 0h 27m 1s",
+            "mission": "Soyuz TM-18"
+        },
+        {
+            "date": "1996-02-21",
+            "duration": "193d 19h 7m 35s",
+            "mission": "Soyuz TM-23"
+        },
+        {
+            "date": "2000-05-19",
+            "duration": "9d 20h 9m 9s",
+            "mission": "STS-101"
+        },
+        {
+            "date": "2001-03-08",
+            "duration": "167d 4h 40m 49s",
+            "mission": "STS-102 /STS-105"
+        }
+    ],
+    "first_name": "Yuri V.",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/usachyov-y.jpg",
+    "last_name": "Usachyov",
+    "name": "Yuri V. Usachyov",
+    "nationality": "Russian",
+    "selection_date": "1989-01-25",
+    "selection_group": "Energia Engineer Group 10",
+    "status": "Retired"
+}

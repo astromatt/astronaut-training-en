@@ -1,0 +1,124 @@
+{
+    "birth_date": "1948-01-16",
+    "birth_place": "Riga, Latvia",
+    "died": null,
+    "eva_count": 16,
+    "eva_list": [
+        {
+            "date": "1990-07-17",
+            "duration": "7h 16m",
+            "mission": "EO-6"
+        },
+        {
+            "date": "1990-07-26",
+            "duration": "3h 31m",
+            "mission": "EO-6"
+        },
+        {
+            "date": "1992-09-03",
+            "duration": "3h 56m",
+            "mission": "EO-12"
+        },
+        {
+            "date": "1992-09-07",
+            "duration": "5h 8m",
+            "mission": "EO-12"
+        },
+        {
+            "date": "1992-09-11",
+            "duration": "5h 44m",
+            "mission": "EO-12"
+        },
+        {
+            "date": "1992-09-15",
+            "duration": "3h 33m",
+            "mission": "EO-12"
+        },
+        {
+            "date": "1995-07-14",
+            "duration": "5h 34m",
+            "mission": "EO-19"
+        },
+        {
+            "date": "1995-07-19",
+            "duration": "3h 8m",
+            "mission": "EO-19"
+        },
+        {
+            "date": "1995-07-21",
+            "duration": "5h 50m",
+            "mission": "EO-19"
+        },
+        {
+            "date": "1997-08-22",
+            "duration": "3h 16m",
+            "mission": "EO-24"
+        },
+        {
+            "date": "1997-09-06",
+            "duration": "6h 0m",
+            "mission": "EO-24"
+        },
+        {
+            "date": "1997-10-20",
+            "duration": "6h 38m",
+            "mission": "EO-24"
+        },
+        {
+            "date": "1997-11-03",
+            "duration": "6h 4m",
+            "mission": "EO-24"
+        },
+        {
+            "date": "1997-11-06",
+            "duration": "6h 12m",
+            "mission": "EO-24"
+        },
+        {
+            "date": "1998-01-08",
+            "duration": "3h 6m",
+            "mission": "EO-24"
+        },
+        {
+            "date": "1998-01-14",
+            "duration": "3h 52m",
+            "mission": "EO-24"
+        }
+    ],
+    "fai_flight_count": 5,
+    "fai_flight_list": [
+        {
+            "date": "1988-06-07",
+            "duration": "9d 20h 9m 19s",
+            "mission": "Soyuz TM-5 /Soyuz TM-4"
+        },
+        {
+            "date": "1990-02-11",
+            "duration": "179d 1h 17m 57s",
+            "mission": "Soyuz TM-9"
+        },
+        {
+            "date": "1992-07-27",
+            "duration": "188d 21h 41m 15s",
+            "mission": "Soyuz TM-15"
+        },
+        {
+            "date": "1995-06-27",
+            "duration": "75d 11h 20m 21s",
+            "mission": "STS-71 /Soyuz TM-21"
+        },
+        {
+            "date": "1997-08-05",
+            "duration": "197d 17h 34m 36s",
+            "mission": "Soyuz TM-26"
+        }
+    ],
+    "first_name": "Anatoliy Y.",
+    "img": "https://www.worldspaceflight.com/bios/photos/latvia/solovyov-a.jpg",
+    "last_name": "Solovyov",
+    "name": "Anatoliy Y. Solovyov",
+    "nationality": "Russian",
+    "selection_date": "1976-08-23",
+    "selection_group": "Air Force Group 6",
+    "status": "Retired"
+}

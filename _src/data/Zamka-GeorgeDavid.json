@@ -1,0 +1,26 @@
+{
+    "birth_date": "1962-06-29",
+    "birth_place": "Jersey City, New Jersey, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2007-10-23",
+            "duration": "15d 2h 23m 54s",
+            "mission": "STS-120"
+        },
+        {
+            "date": "2010-02-08",
+            "duration": "13d 18h 6m 23s",
+            "mission": "STS-130"
+        }
+    ],
+    "first_name": "George David",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/zamka-g.jpg",
+    "last_name": "Zamka",
+    "name": "George David Zamka",
+    "nationality": "American",
+    "selection_date": "1998-06-04",
+    "selection_group": "NASA Group 17",
+    "status": "Inactive"
+}

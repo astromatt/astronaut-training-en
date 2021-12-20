@@ -1,0 +1,41 @@
+{
+    "birth_date": "1923-11-18",
+    "birth_place": "Derry, New Hampshire, United States",
+    "death_remarks": "Leukemia",
+    "died": "1998-07-22",
+    "eva_count": 2,
+    "eva_list": [
+        {
+            "date": "1971-02-05",
+            "duration": "4h 48m",
+            "mission": "Apollo 14"
+        },
+        {
+            "date": "1971-02-06",
+            "duration": "4h 35m",
+            "mission": "Apollo 14"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1961-05-05",
+            "duration": "15m 28s",
+            "mission": "Freedom 7"
+        },
+        {
+            "date": "1971-01-31",
+            "duration": "9d 0h 1m 58s",
+            "mission": "Apollo 14"
+        }
+    ],
+    "first_name": "Alan Bartlett Shepard,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/shepard-a.jpg",
+    "last_name": "Jr.\"Al\"",
+    "name": "Alan Bartlett Shepard, Jr.\"Al\"",
+    "nationality": "American",
+    "notes": "Alan Shepard was the first American into space. Because of an inner ear problem, Apollo 14 was his first flight since Freedom 7.",
+    "selection_date": "1959-04-02",
+    "selection_group": "NASA Group 1",
+    "status": "Deceased"
+}

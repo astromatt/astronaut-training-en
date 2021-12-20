@@ -1,0 +1,28 @@
+{
+    "birth_date": "1928-02-23",
+    "birth_place": "Poroshino, Altai, Russia",
+    "death_remarks": "Alcohol poisoning",
+    "died": "1990-12-31",
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1973-09-27",
+            "duration": "1d 23h 15m 32s",
+            "mission": "Soyuz 12"
+        },
+        {
+            "date": "1975-04-05",
+            "duration": "21m 27s",
+            "mission": "Soyuz 18-1"
+        }
+    ],
+    "first_name": "Vasily G.",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/lazarev-v.jpg",
+    "last_name": "Lazarev",
+    "name": "Vasily G. Lazarev",
+    "nationality": "Russian",
+    "notes": "Because of internal injuries sustained in the landing of Soyuz 18-1, Lazarev never flew again.",
+    "selection_date": "1964-05-26",
+    "selection_group": "Voskhod Group",
+    "status": "Deceased"
+}

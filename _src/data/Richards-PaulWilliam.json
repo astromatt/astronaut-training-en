@@ -1,0 +1,29 @@
+{
+    "birth_date": "1964-05-20",
+    "birth_place": "Scranton, Pennsylvania, United States",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "2001-03-13",
+            "duration": "6h 21m",
+            "mission": "STS-102"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2001-03-08",
+            "duration": "12d 19h 49m 33s",
+            "mission": "STS-102"
+        }
+    ],
+    "first_name": "Paul William",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/richards-p.jpg",
+    "last_name": "Richards",
+    "name": "Paul William Richards",
+    "nationality": "American",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Inactive"
+}

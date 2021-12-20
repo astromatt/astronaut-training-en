@@ -1,0 +1,36 @@
+{
+    "birth_date": "1955-05-06",
+    "birth_place": "Cleveland, Ohio, United States",
+    "died": null,
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1994-07-08",
+            "duration": "14d 17h 55m 0s",
+            "mission": "STS-65"
+        },
+        {
+            "date": "1995-07-13",
+            "duration": "8d 22h 20m 5s",
+            "mission": "STS-70"
+        },
+        {
+            "date": "1997-04-04",
+            "duration": "3d 23h 12m 39s",
+            "mission": "STS-83"
+        },
+        {
+            "date": "1997-07-01",
+            "duration": "15d 16h 44m 34s",
+            "mission": "STS-94"
+        }
+    ],
+    "first_name": "Donald Alan",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/thomas-d.jpg",
+    "last_name": "Thomas\"Don\"",
+    "name": "Donald Alan Thomas\"Don\"",
+    "nationality": "American",
+    "selection_date": "1990-01-17",
+    "selection_group": "NASA Group 13",
+    "status": "Retired"
+}

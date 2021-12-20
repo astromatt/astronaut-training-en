@@ -1,0 +1,55 @@
+{
+    "birth_date": "1956-09-09",
+    "birth_place": "Prosyanaya, Dnepropetrovsk Oblast, Ukraine",
+    "died": null,
+    "eva_count": 6,
+    "eva_list": [
+        {
+            "date": "1991-06-24",
+            "duration": "4h 58m",
+            "mission": "EO-9"
+        },
+        {
+            "date": "1991-06-28",
+            "duration": "3h 24m",
+            "mission": "EO-9"
+        },
+        {
+            "date": "1991-07-15",
+            "duration": "5h 56m",
+            "mission": "EO-9"
+        },
+        {
+            "date": "1991-07-19",
+            "duration": "5h 28m",
+            "mission": "EO-9"
+        },
+        {
+            "date": "1991-07-23",
+            "duration": "5h 42m",
+            "mission": "EO-9"
+        },
+        {
+            "date": "1991-07-27",
+            "duration": "6h 49m",
+            "mission": "EO-9"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1991-05-18",
+            "duration": "144d 15h 21m 50s",
+            "mission": "Soyuz TM-12"
+        }
+    ],
+    "first_name": "Anatoli Pavlovich",
+    "group2": "Air Force Group 9 (8 January 1988)",
+    "img": "https://www.worldspaceflight.com/bios/photos/ukraine/artsebarsky-a.jpg",
+    "last_name": "Artsebarsky",
+    "name": "Anatoli Pavlovich Artsebarsky",
+    "nationality": "Russian",
+    "selection_date": "1985-09-02",
+    "selection_group": "Buran Group 2",
+    "status": "Retired"
+}

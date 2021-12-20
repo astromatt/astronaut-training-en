@@ -1,0 +1,21 @@
+{
+    "birth_date": "1943-07-19",
+    "birth_place": "Atlanta, Georgia, United States",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1985-07-29",
+            "duration": "7d 22h 45m 26s",
+            "mission": "51-F"
+        }
+    ],
+    "first_name": "Roy Dunbard Bridges,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/bridges-r.jpg",
+    "last_name": "Jr.",
+    "name": "Roy Dunbard Bridges, Jr.",
+    "nationality": "American",
+    "selection_date": "1980-05-19",
+    "selection_group": "NASA Group 9",
+    "status": "Retired"
+}

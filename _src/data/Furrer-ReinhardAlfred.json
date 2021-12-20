@@ -1,0 +1,22 @@
+{
+    "birth_date": "1940-11-25",
+    "birth_place": "Woergl, Austria",
+    "death_remarks": "Airplane crash",
+    "died": "1995-09-19",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1985-10-30",
+            "duration": "7d 0h 44m 53s",
+            "mission": "61-A"
+        }
+    ],
+    "first_name": "Reinhard Alfred",
+    "img": "https://www.worldspaceflight.com/bios/photos/austria/furrer-r.jpg",
+    "last_name": "Furrer",
+    "name": "Reinhard Alfred Furrer",
+    "nationality": "German",
+    "selection_date": "1982-12-01",
+    "selection_group": "Spacelab Payload Specialists Group",
+    "status": "Deceased"
+}

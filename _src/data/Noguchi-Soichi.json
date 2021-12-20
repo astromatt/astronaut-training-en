@@ -1,0 +1,45 @@
+{
+    "birth_date": "1965-04-15",
+    "birth_place": "Yokohama, Kanagawa, Japan",
+    "died": null,
+    "eva_count": 3,
+    "eva_list": [
+        {
+            "date": "2005-07-30",
+            "duration": "6h 50m",
+            "mission": "STS-114"
+        },
+        {
+            "date": "2005-08-01",
+            "duration": "7h 14m",
+            "mission": "STS-114"
+        },
+        {
+            "date": "2005-08-03",
+            "duration": "6h 1m",
+            "mission": "STS-114"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2005-07-26",
+            "duration": "13d 21h 32m 22s",
+            "mission": "STS-114"
+        },
+        {
+            "date": "2009-12-20",
+            "duration": "163d 5h 32m 32s",
+            "mission": "Soyuz TMA-17"
+        }
+    ],
+    "first_name": "Soichi",
+    "group2": "NASA Group 16 (1 May 1996)",
+    "img": "https://www.worldspaceflight.com/bios/photos/japan/noguchi-s.jpg",
+    "last_name": "Noguchi",
+    "name": "Soichi   Noguchi",
+    "nationality": "Japanese",
+    "selection_date": "June  1996",
+    "selection_group": "NASDA Group 3",
+    "status": "Active"
+}

@@ -1,0 +1,79 @@
+{
+    "birth_date": "1967-03-14",
+    "birth_place": "Pittsburgh, Pennsylvania, United States",
+    "died": null,
+    "eva_count": 9,
+    "eva_list": [
+        {
+            "date": "2004-06-24",
+            "duration": "14m",
+            "mission": "ISS Expedition 9"
+        },
+        {
+            "date": "2004-06-30",
+            "duration": "5h 40m",
+            "mission": "ISS Expedition 9"
+        },
+        {
+            "date": "2004-08-03",
+            "duration": "4h 30m",
+            "mission": "ISS Expedition 9"
+        },
+        {
+            "date": "2004-09-03",
+            "duration": "5h 21m",
+            "mission": "ISS Expedition 9"
+        },
+        {
+            "date": "2008-12-23",
+            "duration": "5h 37m",
+            "mission": "ISS Expedition 18"
+        },
+        {
+            "date": "2009-03-10",
+            "duration": "4h 49m",
+            "mission": "ISS Expedition 18"
+        },
+        {
+            "date": "2011-05-22",
+            "duration": "8h 7m",
+            "mission": "STS-134"
+        },
+        {
+            "date": "2011-05-25",
+            "duration": "6h 54m",
+            "mission": "STS-134"
+        },
+        {
+            "date": "2011-05-27",
+            "duration": "7h 24m",
+            "mission": "STS-134"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "2004-04-19",
+            "duration": "187d 21h 16m 12s",
+            "mission": "Soyuz TMA-4"
+        },
+        {
+            "date": "2008-10-12",
+            "duration": "178d 0h 13m 37s",
+            "mission": "Soyuz TMA-13"
+        },
+        {
+            "date": "2011-05-16",
+            "duration": "15d 17h 38m 51s",
+            "mission": "STS-134"
+        }
+    ],
+    "first_name": "Edward Michael",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/fincke-e.jpg",
+    "last_name": "Fincke\"Mike\"",
+    "name": "Edward Michael Fincke\"Mike\"",
+    "nationality": "American",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Active"
+}

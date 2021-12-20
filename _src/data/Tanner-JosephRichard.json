@@ -1,0 +1,74 @@
+{
+    "birth_date": "1950-01-21",
+    "birth_place": "Danville, Illinois, United States",
+    "died": null,
+    "eva_count": 7,
+    "eva_list": [
+        {
+            "date": "1997-02-15",
+            "duration": "7h 27m",
+            "mission": "STS-82"
+        },
+        {
+            "date": "1997-02-17",
+            "duration": "6h 34m",
+            "mission": "STS-82"
+        },
+        {
+            "date": "2000-12-03",
+            "duration": "7h 33m",
+            "mission": "STS-97"
+        },
+        {
+            "date": "2000-12-05",
+            "duration": "6h 37m",
+            "mission": "STS-97"
+        },
+        {
+            "date": "2000-12-07",
+            "duration": "5h 10m",
+            "mission": "STS-97"
+        },
+        {
+            "date": "2006-09-12",
+            "duration": "6h 26m",
+            "mission": "STS-115"
+        },
+        {
+            "date": "2006-09-15",
+            "duration": "6h 42m",
+            "mission": "STS-115"
+        }
+    ],
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1994-11-03",
+            "duration": "10d 22h 34m 2s",
+            "mission": "STS-66"
+        },
+        {
+            "date": "1997-02-11",
+            "duration": "9d 23h 37m 9s",
+            "mission": "STS-82"
+        },
+        {
+            "date": "2000-12-01",
+            "duration": "10d 19h 57m 24s",
+            "mission": "STS-97"
+        },
+        {
+            "date": "2006-09-09",
+            "duration": "11d 19h 6m 35s",
+            "mission": "STS-115"
+        }
+    ],
+    "first_name": "Joseph Richard",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/tanner-j.jpg",
+    "last_name": "Tanner",
+    "name": "Joseph Richard Tanner",
+    "nationality": "American",
+    "selection_date": "1992-03-14",
+    "selection_group": "NASA Group 14",
+    "status": "Retired"
+}

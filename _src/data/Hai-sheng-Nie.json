@@ -1,0 +1,27 @@
+{
+    "birth_date": "1964-12-13",
+    "birth_place": "Zaoyang , Hubei Province , China",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2005-10-12",
+            "duration": "4d 19h 32m 50s",
+            "mission": "ShenZhou 6"
+        },
+        {
+            "date": "2013-06-11",
+            "duration": "14d 14h 28m 57s",
+            "mission": "Shenzhou 10"
+        }
+    ],
+    "first_name": "Nie",
+    "img": "https://www.worldspaceflight.com/bios/photos/china/nie-h.jpg",
+    "last_name": "Hai-sheng",
+    "name": "Nie   Hai-sheng",
+    "nationality": "Chinese",
+    "notes": "Nie was chosen as the pilot for the second manned Chinese flight, along with Fei Junlong, the commander.",
+    "selection_date": "January  1998",
+    "selection_group": "Group 1",
+    "status": "Active"
+}

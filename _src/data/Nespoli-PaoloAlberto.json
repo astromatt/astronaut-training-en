@@ -1,0 +1,32 @@
+{
+    "birth_date": "1957-04-06",
+    "birth_place": "Milan, Italy",
+    "died": null,
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "2007-10-23",
+            "duration": "15d 2h 23m 54s",
+            "mission": "STS-120"
+        },
+        {
+            "date": "2010-12-15",
+            "duration": "159d 7h 17m 15s",
+            "mission": "Soyuz TMA-20"
+        },
+        {
+            "date": "2017-07-28",
+            "duration": "138d 16h 56m 48s",
+            "mission": "Soyuz MS-05"
+        }
+    ],
+    "first_name": "Paolo Alberto",
+    "group2": "NASA Group 17 (4 June 1998)",
+    "img": "https://www.worldspaceflight.com/bios/photos/italy/nespoli-p.jpg",
+    "last_name": "Nespoli",
+    "name": "Paolo Alberto Nespoli",
+    "nationality": "Italian",
+    "selection_date": "1998-10-07",
+    "selection_group": "1998 ESA Group",
+    "status": "Active"
+}

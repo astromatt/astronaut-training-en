@@ -1,0 +1,26 @@
+{
+    "birth_date": "1951-06-27",
+    "birth_place": "Albuquerque, New Mexico, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1991-06-05",
+            "duration": "9d 2h 14m 20s",
+            "mission": "STS-40"
+        },
+        {
+            "date": "1994-04-09",
+            "duration": "11d 5h 49m 30s",
+            "mission": "STS-59"
+        }
+    ],
+    "first_name": "Sidney McNeil Gutierrez\"Sid",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/gutierrez-s.jpg",
+    "last_name": "\"",
+    "name": "Sidney McNeil Gutierrez\"Sid \"",
+    "nationality": "American",
+    "selection_date": "1984-05-23",
+    "selection_group": "NASA Group 10",
+    "status": "Retired"
+}

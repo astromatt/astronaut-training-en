@@ -1,0 +1,41 @@
+{
+    "birth_date": "1952-10-29",
+    "birth_place": "Kapustin Yar, Astrakhan Oblast , Russia",
+    "died": null,
+    "eva_count": 2,
+    "eva_list": [
+        {
+            "date": "2005-11-07",
+            "duration": "5h 22m",
+            "mission": "ISS Expedition 12"
+        },
+        {
+            "date": "2006-02-03",
+            "duration": "5h 43m",
+            "mission": "ISS Expedition 12"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1999-05-27",
+            "duration": "9d 19h 13m 1s",
+            "mission": "STS-96"
+        },
+        {
+            "date": "2005-10-01",
+            "duration": "189d 19h 52m 31s",
+            "mission": "Soyuz TMA-7"
+        }
+    ],
+    "first_name": "Valery Ivanovich",
+    "group2": "Chkalov Group 4 (30 January 1993)",
+    "group3": "Air Force Group 12 (28 July 1997)",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/tokarev-v.jpg",
+    "last_name": "Tokarev",
+    "name": "Valery Ivanovich  Tokarev",
+    "nationality": "Russian",
+    "selection_date": "1989-01-25",
+    "selection_group": "Buran Group 3",
+    "status": "Retired"
+}

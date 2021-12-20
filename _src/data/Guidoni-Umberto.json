@@ -1,0 +1,27 @@
+{
+    "birth_date": "1954-08-18",
+    "birth_place": "Rome, Italy",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1996-02-22",
+            "duration": "15d 17h 40m 21s",
+            "mission": "STS-75"
+        },
+        {
+            "date": "2001-04-19",
+            "duration": "11d 21h 30m 0s",
+            "mission": "STS-100"
+        }
+    ],
+    "first_name": "Umberto",
+    "group2": "Joined ESA (August  1998)",
+    "img": "https://www.worldspaceflight.com/bios/photos/italy/guidoni-u.jpg",
+    "last_name": "Guidoni",
+    "name": "Umberto   Guidoni",
+    "nationality": "Italian",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Inactive"
+}

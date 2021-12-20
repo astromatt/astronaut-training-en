@@ -1,0 +1,26 @@
+{
+    "birth_date": "1964-09-30",
+    "birth_place": "Pittsburgh, Pennsylvania, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2002-04-08",
+            "duration": "10d 19h 42m 38s",
+            "mission": "STS-110"
+        },
+        {
+            "date": "2008-02-07",
+            "duration": "12d 18h 22m 38s",
+            "mission": "STS-122"
+        }
+    ],
+    "first_name": "Stephen Nathaniel",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/frick-s.jpg",
+    "last_name": "Frick",
+    "name": "Stephen Nathaniel  Frick",
+    "nationality": "American",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Inactive"
+}

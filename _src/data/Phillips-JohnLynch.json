@@ -1,0 +1,39 @@
+{
+    "birth_date": "1951-04-15",
+    "birth_place": "Ft. Belvoir, Virginia, United States",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "2005-08-18",
+            "duration": "-1h 0m",
+            "mission": "ISS Expedition 11"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "2001-04-19",
+            "duration": "11d 21h 30m 0s",
+            "mission": "STS-100"
+        },
+        {
+            "date": "2005-04-15",
+            "duration": "179d 0h 23m 23s",
+            "mission": "Soyuz TMA-6"
+        },
+        {
+            "date": "2009-03-15",
+            "duration": "12d 19h 29m 33s",
+            "mission": "STS-119"
+        }
+    ],
+    "first_name": "John Lynch",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/phillips-j.jpg",
+    "last_name": "Phillips",
+    "name": "John Lynch Phillips",
+    "nationality": "American",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Retired"
+}

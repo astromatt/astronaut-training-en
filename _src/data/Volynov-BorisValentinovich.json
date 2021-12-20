@@ -1,0 +1,26 @@
+{
+    "birth_date": "1934-12-18",
+    "birth_place": "Irkutsk, Russia",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1969-01-15",
+            "duration": "3d 0h 54m 15s",
+            "mission": "Soyuz 5"
+        },
+        {
+            "date": "1976-07-06",
+            "duration": "49d 6h 23m 32s",
+            "mission": "Soyuz 21"
+        }
+    ],
+    "first_name": "Boris Valentinovich",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/volynov-b.jpg",
+    "last_name": "Volynov",
+    "name": "Boris Valentinovich  Volynov",
+    "nationality": "Russian",
+    "selection_date": "1960-03-07",
+    "selection_group": "Air Force Group 1",
+    "status": "Retired"
+}

@@ -1,0 +1,28 @@
+{
+    "birth_date": "1937-11-12",
+    "birth_place": "Fayette, Mississippi, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1981-11-12",
+            "duration": "2d 6h 13m 12s",
+            "mission": "STS-2"
+        },
+        {
+            "date": "1983-08-30",
+            "duration": "6d 1h 8m 43s",
+            "mission": "STS-8"
+        }
+    ],
+    "first_name": "Richard Harrison",
+    "group2": "NASA Group 7 (MOL Pilot Astronaut Transfers) (14 August 1969)",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/truly-r.jpg",
+    "last_name": "Truly\"Dick\"",
+    "name": "Richard Harrison Truly\"Dick\"",
+    "nationality": "American",
+    "notes": "Truly also flew three times as pilot aboard the shuttle Enterprise during the Approach and Landings tests.",
+    "selection_date": "1965-11-12",
+    "selection_group": "USAF MOL Group 1",
+    "status": "Retired"
+}

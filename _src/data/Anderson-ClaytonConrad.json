@@ -1,0 +1,59 @@
+{
+    "birth_date": "1959-02-23",
+    "birth_place": "Omaha, Nebraska, United States",
+    "died": null,
+    "eva_count": 6,
+    "eva_list": [
+        {
+            "date": "2007-07-23",
+            "duration": "7h 41m",
+            "mission": "ISS Expedition 15"
+        },
+        {
+            "date": "2007-08-15",
+            "duration": "5h 28m",
+            "mission": "ISS Expedition 15"
+        },
+        {
+            "date": "2007-08-18",
+            "duration": "5h 2m",
+            "mission": "ISS Expedition 15"
+        },
+        {
+            "date": "2010-04-09",
+            "duration": "6h 27m",
+            "mission": "STS-131"
+        },
+        {
+            "date": "2010-04-11",
+            "duration": "7h 26m",
+            "mission": "STS-131"
+        },
+        {
+            "date": "2010-04-13",
+            "duration": "6h 24m",
+            "mission": "STS-131"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2007-06-08",
+            "duration": "151d 18h 24m 9s",
+            "mission": "STS-117 /STS-120"
+        },
+        {
+            "date": "2010-04-05",
+            "duration": "15d 2h 47m 10s",
+            "mission": "STS-131"
+        }
+    ],
+    "first_name": "Clayton Conrad",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/anderson-c.jpg",
+    "last_name": "Anderson",
+    "name": "Clayton Conrad Anderson",
+    "nationality": "American",
+    "selection_date": "1998-06-04",
+    "selection_group": "NASA Group 17",
+    "status": "Inactive"
+}

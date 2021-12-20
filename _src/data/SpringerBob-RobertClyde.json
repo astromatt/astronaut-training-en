@@ -1,0 +1,26 @@
+{
+    "birth_date": "1942-05-21",
+    "birth_place": "Paterson, Missouri, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1989-03-13",
+            "duration": "4d 23h 38m 50s",
+            "mission": "STS-29"
+        },
+        {
+            "date": "1990-11-15",
+            "duration": "4d 21h 54m 31s",
+            "mission": "STS-38"
+        }
+    ],
+    "first_name": "Robert Clyde",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/springer-r.jpg",
+    "last_name": "Springer\"Bob\"",
+    "name": "Robert Clyde Springer\"Bob\"",
+    "nationality": "American",
+    "selection_date": "1980-05-19",
+    "selection_group": "NASA Group 9",
+    "status": "Retired"
+}

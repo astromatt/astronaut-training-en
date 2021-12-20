@@ -1,0 +1,49 @@
+{
+    "birth_date": "1955-09-06",
+    "birth_place": "Cleveland, Ohio, United States",
+    "died": null,
+    "eva_count": 2,
+    "eva_list": [
+        {
+            "date": "1993-09-16",
+            "duration": "7h 5m",
+            "mission": "STS-51"
+        },
+        {
+            "date": "2002-02-20",
+            "duration": "5h 47m",
+            "mission": "ISS Expedition 4"
+        }
+    ],
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1993-09-12",
+            "duration": "9d 20h 11m 11s",
+            "mission": "STS-51"
+        },
+        {
+            "date": "1994-07-08",
+            "duration": "14d 17h 55m 0s",
+            "mission": "STS-65"
+        },
+        {
+            "date": "1996-09-16",
+            "duration": "10d 3h 18m 26s",
+            "mission": "STS-79"
+        },
+        {
+            "date": "2001-12-05",
+            "duration": "195d 19h 38m 13s",
+            "mission": "STS-108 /STS-111"
+        }
+    ],
+    "first_name": "Carl Erwin",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/walz-c.jpg",
+    "last_name": "Walz",
+    "name": "Carl Erwin Walz",
+    "nationality": "American",
+    "selection_date": "1990-01-17",
+    "selection_group": "NASA Group 13",
+    "status": "Retired"
+}

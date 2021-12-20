@@ -1,0 +1,21 @@
+{
+    "birth_date": "1957-10-30",
+    "birth_place": "Moscow, Russia",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1997-02-10",
+            "duration": "184d 22h 7m 40s",
+            "mission": "Soyuz TM-25"
+        }
+    ],
+    "first_name": "Aleksandr I.",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/lazutkin-a.jpg",
+    "last_name": "Lazutkin",
+    "name": "Aleksandr I. Lazutkin",
+    "nationality": "Russian",
+    "selection_date": "1992-03-03",
+    "selection_group": "Energia Engineer Group 11",
+    "status": "Retired"
+}

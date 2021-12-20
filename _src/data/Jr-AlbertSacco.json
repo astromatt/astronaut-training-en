@@ -1,0 +1,19 @@
+{
+    "birth_date": "1949-05-03",
+    "birth_place": "Boston, Massachusetts, United States",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1995-10-20",
+            "duration": "15d 21h 52m 21s",
+            "mission": "STS-73"
+        }
+    ],
+    "first_name": "Albert Sacco,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/sacco-a.jpg",
+    "last_name": "Jr.",
+    "name": "Albert   Sacco, Jr.",
+    "nationality": "American",
+    "status": "Retired"
+}

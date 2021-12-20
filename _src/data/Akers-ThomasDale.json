@@ -1,0 +1,59 @@
+{
+    "birth_date": "1951-05-20",
+    "birth_place": "St. Louis, Missouri, United States",
+    "died": null,
+    "eva_count": 4,
+    "eva_list": [
+        {
+            "date": "1992-05-13",
+            "duration": "8h 29m",
+            "mission": "STS-49"
+        },
+        {
+            "date": "1992-05-14",
+            "duration": "7h 45m",
+            "mission": "STS-49"
+        },
+        {
+            "date": "1993-12-06",
+            "duration": "6h 36m",
+            "mission": "STS-61"
+        },
+        {
+            "date": "1993-12-08",
+            "duration": "6h 50m",
+            "mission": "STS-61"
+        }
+    ],
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1990-10-06",
+            "duration": "4d 2h 10m 4s",
+            "mission": "STS-41"
+        },
+        {
+            "date": "1992-05-07",
+            "duration": "8d 21h 17m 38s",
+            "mission": "STS-49"
+        },
+        {
+            "date": "1993-12-02",
+            "duration": "10d 19h 58m 37s",
+            "mission": "STS-61"
+        },
+        {
+            "date": "1996-09-16",
+            "duration": "10d 3h 18m 26s",
+            "mission": "STS-79"
+        }
+    ],
+    "first_name": "Thomas Dale",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/akers-t.jpg",
+    "last_name": "Akers",
+    "name": "Thomas Dale Akers",
+    "nationality": "American",
+    "selection_date": "1987-06-05",
+    "selection_group": "NASA Group 12",
+    "status": "Retired"
+}

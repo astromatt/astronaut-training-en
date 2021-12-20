@@ -1,0 +1,46 @@
+{
+    "birth_date": "1959-08-29",
+    "birth_place": "Sarnia, Ontario, Canada",
+    "died": null,
+    "eva_count": 2,
+    "eva_list": [
+        {
+            "date": "2001-04-22",
+            "duration": "7h 10m",
+            "mission": "STS-100"
+        },
+        {
+            "date": "2001-04-24",
+            "duration": "7h 40m",
+            "mission": "STS-100"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1995-11-12",
+            "duration": "8d 4h 30m 44s",
+            "mission": "STS-74"
+        },
+        {
+            "date": "2001-04-19",
+            "duration": "11d 21h 30m 0s",
+            "mission": "STS-100"
+        },
+        {
+            "date": "2012-12-19",
+            "duration": "145d 14h 18m 24s",
+            "mission": "Soyuz TMA-07M"
+        }
+    ],
+    "first_name": "Chris A.",
+    "group2": "NASA Group 14 (14 March 1992)",
+    "img": "https://www.worldspaceflight.com/bios/photos/canada/hadfield-c.jpg",
+    "last_name": "Hadfield",
+    "name": "Chris A. Hadfield",
+    "nationality": "Canadian",
+    "notes": "Chris was the first Canadian to perform an EVA. He was also the first Canadian to command the International Space Station, and the only Canadian to visit Mir. Not to mention, he is also the first person to shoot a music video in space!",
+    "selection_date": "1992-06-09",
+    "selection_group": "CSA Group 2",
+    "status": "Retired"
+}

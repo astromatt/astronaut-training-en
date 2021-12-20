@@ -1,0 +1,22 @@
+{
+    "birth_date": "1963-05-10",
+    "birth_place": "Washington, District of Columbia, United States",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2006-07-04",
+            "duration": "12d 18h 38m 4s",
+            "mission": "STS-121"
+        }
+    ],
+    "first_name": "Lisa Marie Nowaknee:",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/nowak-l.jpg",
+    "last_name": "Caputo",
+    "name": "Lisa Marie Nowaknee: Caputo",
+    "nationality": "American",
+    "notes": "Nowak was discharged from NASA 8 March 2007 after an assault and  botched kidnap attempt of USAF Captain Colleen Shipman, who was romantically involved with astronaut William Oefelein.",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Retired"
+}

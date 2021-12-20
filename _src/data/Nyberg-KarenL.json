@@ -1,0 +1,26 @@
+{
+    "birth_date": "1969-10-07",
+    "birth_place": "Parkers Prairie, Minnesota, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2008-05-31",
+            "duration": "13d 18h 14m 7s",
+            "mission": "STS-124"
+        },
+        {
+            "date": "2013-05-28",
+            "duration": "166d 6h 17m 36s",
+            "mission": "Soyuz TMA-09M"
+        }
+    ],
+    "first_name": "Karen L.",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/nyberg-k.jpg",
+    "last_name": "Nyberg",
+    "name": "Karen L. Nyberg",
+    "nationality": "American",
+    "selection_date": "2000-07-26",
+    "selection_group": "NASA Group 18",
+    "status": "Active"
+}

@@ -1,0 +1,26 @@
+{
+    "birth_date": "1946-09-06",
+    "birth_place": "Orange, California, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1985-11-27",
+            "duration": "6d 21h 4m 49s",
+            "mission": "61-B"
+        },
+        {
+            "date": "1991-06-05",
+            "duration": "9d 2h 14m 20s",
+            "mission": "STS-40"
+        }
+    ],
+    "first_name": "Bryan Daniel",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/oconnor-b.jpg",
+    "last_name": "O'Connor",
+    "name": "Bryan Daniel O'Connor",
+    "nationality": "American",
+    "selection_date": "1980-05-19",
+    "selection_group": "NASA Group 9",
+    "status": "Retired"
+}

@@ -1,0 +1,27 @@
+{
+    "birth_date": "1927-03-06",
+    "birth_place": "Shawnee, Oklahoma, United States",
+    "death_remarks": "Natural causes",
+    "died": "2004-10-04",
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1963-05-15",
+            "duration": "1d 10h 19m 49s",
+            "mission": "Faith 7"
+        },
+        {
+            "date": "1965-08-21",
+            "duration": "7d 23h 55m 14s",
+            "mission": "Gemini V"
+        }
+    ],
+    "first_name": "Leroy Gordon Cooper,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/cooper-l.jpg",
+    "last_name": "Jr.\"Gordo\"",
+    "name": "Leroy Gordon Cooper, Jr.\"Gordo\"",
+    "nationality": "American",
+    "selection_date": "1959-04-02",
+    "selection_group": "NASA Group 1",
+    "status": "Deceased"
+}

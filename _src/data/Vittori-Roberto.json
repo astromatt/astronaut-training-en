@@ -1,0 +1,32 @@
+{
+    "birth_date": "1964-10-15",
+    "birth_place": "Viterbo, Italy",
+    "died": null,
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "2002-04-25",
+            "duration": "9d 21h 25m 18s",
+            "mission": "Soyuz TM-34 /Soyuz TM-33"
+        },
+        {
+            "date": "2005-04-15",
+            "duration": "9d 21h 22m 2s",
+            "mission": "Soyuz TMA-6 /Soyuz TMA-5"
+        },
+        {
+            "date": "2011-05-16",
+            "duration": "15d 17h 38m 51s",
+            "mission": "STS-134"
+        }
+    ],
+    "first_name": "Roberto",
+    "group2": "NASA Group 17 (4 June 1998)",
+    "img": "https://www.worldspaceflight.com/bios/photos/italy/vittori-r.jpg",
+    "last_name": "Vittori",
+    "name": "Roberto   Vittori",
+    "nationality": "Italian",
+    "selection_date": "1998-10-07",
+    "selection_group": "1998 ESA Group",
+    "status": "Active"
+}

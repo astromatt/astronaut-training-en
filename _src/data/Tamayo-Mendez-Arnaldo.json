@@ -1,0 +1,21 @@
+{
+    "birth_date": "1942-01-29",
+    "birth_place": "Guantanamo , Cuba",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1980-09-18",
+            "duration": "7d 20h 43m 24s",
+            "mission": "Soyuz 38"
+        }
+    ],
+    "first_name": "Arnaldo",
+    "img": "https://www.worldspaceflight.com/bios/photos/cuba/tamayo-mendez-a.jpg",
+    "last_name": "Tamayo-Mendez",
+    "name": "Arnaldo   Tamayo-Mendez",
+    "nationality": "Cuban",
+    "selection_date": "1978-03-01",
+    "selection_group": "1978 Intercosmos Group",
+    "status": "Retired"
+}

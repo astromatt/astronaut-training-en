@@ -1,0 +1,45 @@
+{
+    "birth_date": "1968-12-28",
+    "birth_place": "Setagaya-ku , Tokyo, Japan",
+    "died": null,
+    "eva_count": 3,
+    "eva_list": [
+        {
+            "date": "2012-08-30",
+            "duration": "8h 17m",
+            "mission": "ISS Expedition 32"
+        },
+        {
+            "date": "2012-09-05",
+            "duration": "6h 28m",
+            "mission": "ISS Expedition 32"
+        },
+        {
+            "date": "2012-11-01",
+            "duration": "6h 38m",
+            "mission": "ISS Expedition 33"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2008-05-31",
+            "duration": "13d 18h 14m 7s",
+            "mission": "STS-124"
+        },
+        {
+            "date": "2012-07-15",
+            "duration": "126d 23h 13m 30s",
+            "mission": "Soyuz TMA-05M"
+        }
+    ],
+    "first_name": "Akihiko",
+    "group2": "NASA Group 19 (6 May 2004)",
+    "img": "https://www.worldspaceflight.com/bios/photos/japan/hoshide-a.jpg",
+    "last_name": "Hoshide",
+    "name": "Akihiko   Hoshide",
+    "nationality": "Japanese",
+    "selection_date": "February  1999",
+    "selection_group": "NASDA Group 4",
+    "status": "Active"
+}

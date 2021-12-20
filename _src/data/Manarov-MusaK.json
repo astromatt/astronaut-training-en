@@ -1,0 +1,64 @@
+{
+    "birth_date": "1951-03-22",
+    "birth_place": "Baku, Azerbaijan",
+    "died": null,
+    "eva_count": 7,
+    "eva_list": [
+        {
+            "date": "1988-02-26",
+            "duration": "4h 25m",
+            "mission": "EO-3"
+        },
+        {
+            "date": "1988-06-30",
+            "duration": "5h 10m",
+            "mission": "EO-3"
+        },
+        {
+            "date": "1988-10-20",
+            "duration": "4h 12m",
+            "mission": "EO-3"
+        },
+        {
+            "date": "1991-01-07",
+            "duration": "5h 18m",
+            "mission": "EO-8"
+        },
+        {
+            "date": "1991-01-23",
+            "duration": "5h 33m",
+            "mission": "EO-8"
+        },
+        {
+            "date": "1991-01-26",
+            "duration": "6h 20m",
+            "mission": "EO-8"
+        },
+        {
+            "date": "1991-04-25",
+            "duration": "3h 34m",
+            "mission": "EO-8"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1987-12-21",
+            "duration": "365d 22h 38m 57s",
+            "mission": "Soyuz TM-4 /Soyuz TM-6"
+        },
+        {
+            "date": "1990-12-02",
+            "duration": "175d 1h 50m 41s",
+            "mission": "Soyuz TM-11"
+        }
+    ],
+    "first_name": "Musa K.",
+    "img": "https://www.worldspaceflight.com/bios/photos/azerbaijan/manarov-m.jpg",
+    "last_name": "Manarov",
+    "name": "Musa K. Manarov",
+    "nationality": "Russian",
+    "selection_date": "1978-12-01",
+    "selection_group": "Energia Engineer Group 5",
+    "status": "Retired"
+}

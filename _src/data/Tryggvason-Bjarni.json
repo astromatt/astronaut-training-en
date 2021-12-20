@@ -1,0 +1,22 @@
+{
+    "birth_date": "1945-09-21",
+    "birth_place": "Reykjavik , Iceland",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1997-08-07",
+            "duration": "11d 20h 26m 59s",
+            "mission": "STS-85"
+        }
+    ],
+    "first_name": "Bjarni",
+    "group2": "NASA Group 17 (4 June 1998)",
+    "img": "https://www.worldspaceflight.com/bios/photos/iceland/tryggvason-b.jpg",
+    "last_name": "Tryggvason",
+    "name": "Bjarni   Tryggvason",
+    "nationality": "Canadian",
+    "selection_date": "1983-12-05",
+    "selection_group": "CSA Group 1",
+    "status": "Retired"
+}

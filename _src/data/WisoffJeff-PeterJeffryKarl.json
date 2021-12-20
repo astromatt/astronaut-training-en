@@ -1,0 +1,54 @@
+{
+    "birth_date": "1958-08-16",
+    "birth_place": "Norfolk, Virginia, United States",
+    "died": null,
+    "eva_count": 3,
+    "eva_list": [
+        {
+            "date": "1993-06-25",
+            "duration": "5h 50m",
+            "mission": "STS-57"
+        },
+        {
+            "date": "2000-10-16",
+            "duration": "7h 7m",
+            "mission": "STS-92"
+        },
+        {
+            "date": "2000-10-18",
+            "duration": "6h 56m",
+            "mission": "STS-92"
+        }
+    ],
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1993-06-21",
+            "duration": "9d 23h 44m 54s",
+            "mission": "STS-57"
+        },
+        {
+            "date": "1994-09-30",
+            "duration": "11d 5h 46m 8s",
+            "mission": "STS-68"
+        },
+        {
+            "date": "1997-01-12",
+            "duration": "10d 4h 55m 21s",
+            "mission": "STS-81"
+        },
+        {
+            "date": "2000-10-11",
+            "duration": "12d 21h 40m 25s",
+            "mission": "STS-92"
+        }
+    ],
+    "first_name": "Peter Jeffry Karl",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/wisoff-p.jpg",
+    "last_name": "Wisoff\"Jeff\"",
+    "name": "Peter Jeffry Karl Wisoff\"Jeff\"",
+    "nationality": "American",
+    "selection_date": "1990-01-17",
+    "selection_group": "NASA Group 13",
+    "status": "Retired"
+}

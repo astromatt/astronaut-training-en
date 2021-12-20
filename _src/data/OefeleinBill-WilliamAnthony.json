@@ -1,0 +1,21 @@
+{
+    "birth_date": "1965-03-29",
+    "birth_place": "Ft. Belvoir, Virginia, United States",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2006-12-10",
+            "duration": "12d 20h 45m 17s",
+            "mission": "STS-116"
+        }
+    ],
+    "first_name": "William Anthony",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/oefelein-w.jpg",
+    "last_name": "Oefelein\"Bill\"",
+    "name": "William Anthony Oefelein\"Bill\"",
+    "nationality": "American",
+    "selection_date": "1998-06-04",
+    "selection_group": "NASA Group 17",
+    "status": "Retired"
+}

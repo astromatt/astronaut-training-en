@@ -1,0 +1,26 @@
+{
+    "birth_date": "1960-08-25",
+    "birth_place": "Oak Park, Illinois, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2007-06-08",
+            "duration": "13d 20h 12m 44s",
+            "mission": "STS-117"
+        },
+        {
+            "date": "2009-03-15",
+            "duration": "12d 19h 29m 33s",
+            "mission": "STS-119"
+        }
+    ],
+    "first_name": "Lee Joseph",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/archambault-l.jpg",
+    "last_name": "Archambault",
+    "name": "Lee Joseph Archambault",
+    "nationality": "American",
+    "selection_date": "1998-06-04",
+    "selection_group": "NASA Group 17",
+    "status": "Inactive"
+}

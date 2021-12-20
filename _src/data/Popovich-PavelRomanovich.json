@@ -1,0 +1,28 @@
+{
+    "birth_date": "1930-10-05",
+    "birth_place": "Uzin, Kyiv Oblast, Ukraine",
+    "death_remarks": "Brain hemorrhage following a stroke",
+    "died": "2009-09-29",
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1962-08-12",
+            "duration": "2d 22h 57m 0s",
+            "mission": "Vostok 4"
+        },
+        {
+            "date": "1974-07-03",
+            "duration": "15d 17h 30m 28s",
+            "mission": "Soyuz 14"
+        }
+    ],
+    "first_name": "Pavel Romanovich",
+    "img": "https://www.worldspaceflight.com/bios/photos/ukraine/popovich-p.jpg",
+    "last_name": "Popovich",
+    "name": "Pavel Romanovich  Popovich",
+    "nationality": "Russian",
+    "notes": "Popovich was slated for the third Soviet circumlunar flight. This was cancelled after Apollo 8.",
+    "selection_date": "1960-03-07",
+    "selection_group": "Air Force Group 1",
+    "status": "Deceased"
+}

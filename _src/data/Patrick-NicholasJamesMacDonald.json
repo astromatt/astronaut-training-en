@@ -1,0 +1,44 @@
+{
+    "birth_date": "1964-03-22",
+    "birth_place": "Saltburn, North Yorkshire, United Kingdom",
+    "died": null,
+    "eva_count": 3,
+    "eva_list": [
+        {
+            "date": "2010-02-12",
+            "duration": "6h 32m",
+            "mission": "STS-130"
+        },
+        {
+            "date": "2010-02-14",
+            "duration": "5h 54m",
+            "mission": "STS-130"
+        },
+        {
+            "date": "2010-02-17",
+            "duration": "5h 48m",
+            "mission": "STS-130"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2006-12-10",
+            "duration": "12d 20h 45m 17s",
+            "mission": "STS-116"
+        },
+        {
+            "date": "2010-02-08",
+            "duration": "13d 18h 6m 23s",
+            "mission": "STS-130"
+        }
+    ],
+    "first_name": "Nicholas James MacDonald",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedkingdom/patrick-n.jpg",
+    "last_name": "Patrick",
+    "name": "Nicholas James MacDonald Patrick",
+    "nationality": "American",
+    "selection_date": "1998-06-04",
+    "selection_group": "NASA Group 17",
+    "status": "Retired"
+}

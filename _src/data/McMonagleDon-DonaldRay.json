@@ -1,0 +1,31 @@
+{
+    "birth_date": "1952-05-14",
+    "birth_place": "Flint, Michigan, United States",
+    "died": null,
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1991-04-28",
+            "duration": "8d 7h 22m 23s",
+            "mission": "STS-39"
+        },
+        {
+            "date": "1993-01-13",
+            "duration": "5d 23h 38m 19s",
+            "mission": "STS-54"
+        },
+        {
+            "date": "1994-11-03",
+            "duration": "10d 22h 34m 2s",
+            "mission": "STS-66"
+        }
+    ],
+    "first_name": "Donald Ray",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/mcmonagle-d.jpg",
+    "last_name": "McMonagle\"Don\"",
+    "name": "Donald Ray McMonagle\"Don\"",
+    "nationality": "American",
+    "selection_date": "1987-06-05",
+    "selection_group": "NASA Group 12",
+    "status": "Retired"
+}

@@ -1,0 +1,35 @@
+{
+    "birth_date": "1948-08-08",
+    "birth_place": "Moscow, Russia",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "1984-07-25",
+            "duration": "3h 34m",
+            "mission": "Salyut 7, VE-4"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1982-08-19",
+            "duration": "7d 21h 52m 24s",
+            "mission": "Soyuz T-7 /Soyuz T-5"
+        },
+        {
+            "date": "1984-07-17",
+            "duration": "11d 19h 14m 36s",
+            "mission": "Soyuz T-12"
+        }
+    ],
+    "first_name": "Svetlana Y.",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/savitskaya-s.jpg",
+    "last_name": "Savitskaya",
+    "name": "Svetlana Y. Savitskaya",
+    "nationality": "Russian",
+    "notes": "Savitskaya was the first woman to spacewalk.",
+    "selection_date": "1980-07-30",
+    "selection_group": "Female Group 2",
+    "status": "Retired"
+}

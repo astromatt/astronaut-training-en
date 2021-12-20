@@ -1,0 +1,23 @@
+{
+    "birth_date": "1945-04-30",
+    "birth_place": "Beaufort, North Carolina, United States",
+    "death_remarks": "Challenger explosion",
+    "died": "1986-01-28",
+    "first_name": "Michael John",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/smith-m.jpg",
+    "last_name": "Smith",
+    "name": "Michael John Smith",
+    "nationality": "American",
+    "notes": "Smith, pilot on 51-L, was a captain in the United States Navy. He held a bachelor of science degree in naval science from the United States Naval Academy. He also had a masters degree in aeronautical engineering from the U.S. Naval Postgraduate School. He left behind a wife and three children.",
+    "selection_date": "1980-05-19",
+    "selection_group": "NASA Group 9",
+    "significant_flight_count": 1,
+    "significant_flight_list": [
+        {
+            "date": "1986-01-28",
+            "duration": "73s",
+            "mission": "51-L"
+        }
+    ],
+    "status": "Deceased"
+}

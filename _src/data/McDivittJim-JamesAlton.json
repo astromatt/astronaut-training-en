@@ -1,0 +1,40 @@
+{
+    "birth_date": "1929-06-01",
+    "birth_place": "Chicago, Illinois, United States",
+    "died": null,
+    "eva_count": 2,
+    "eva_list": [
+        {
+            "date": "1966-06-03",
+            "duration": "46m",
+            "mission": "Gemini IV"
+        },
+        {
+            "date": "1969-03-06",
+            "duration": "1h 7m",
+            "mission": "Apollo 9"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1965-06-03",
+            "duration": "4d 1h 56m 12s",
+            "mission": "Gemini IV"
+        },
+        {
+            "date": "1969-03-03",
+            "duration": "10d 1h 1m 0s",
+            "mission": "Apollo 9"
+        }
+    ],
+    "first_name": "James Alton",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/mcdivitt-j.jpg",
+    "last_name": "McDivitt\"Jim\"",
+    "name": "James Alton McDivitt\"Jim\"",
+    "nationality": "American",
+    "notes": "McDivitt was not an active participant in either of his EVAs.",
+    "selection_date": "1962-09-11",
+    "selection_group": "NASA Group 2",
+    "status": "Retired"
+}

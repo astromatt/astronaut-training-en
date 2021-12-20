@@ -1,0 +1,35 @@
+{
+    "birth_date": "1934-05-30",
+    "birth_place": "Listvyanka , Kemerovo Oblast , Russia",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "1965-03-18",
+            "duration": "23m",
+            "mission": "Voskhod 2"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1965-03-18",
+            "duration": "1d 2h 2m 17s",
+            "mission": "Voskhod 2"
+        },
+        {
+            "date": "1975-07-15",
+            "duration": "5d 22h 30m 51s",
+            "mission": "Soyuz 19"
+        }
+    ],
+    "first_name": "Alexi A.",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/leonov-a.jpg",
+    "last_name": "Leonov",
+    "name": "Alexi A. Leonov",
+    "nationality": "Russian",
+    "notes": "Leonov performed the world's first space walk. Leonov was scheduled for the first Soviet circumlunar mission in March 1969. but the mission was scrubbed after Apollo 8.",
+    "selection_date": "1960-03-07",
+    "selection_group": "Air Force Group 1",
+    "status": "Retired"
+}

@@ -1,0 +1,22 @@
+{
+    "birth_date": "1942-07-22",
+    "birth_place": "Setagaya Ward, Japan",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1990-12-02",
+            "duration": "7d 21h 54m 40s",
+            "mission": "Soyuz TM-11 /Soyuz TM-10"
+        }
+    ],
+    "first_name": "Tohiro",
+    "img": "https://www.worldspaceflight.com/bios/photos/japan/akiyama-t.jpg",
+    "last_name": "Akiyama",
+    "name": "Tohiro Akiyama",
+    "nationality": "Japanese",
+    "notes": "Akiyama was a journalist for the Tokyo Broadcasting System. He, along with Ryoko Kikuchi, were selected by TBS to fly to the Russian space station Mir. The trip cost TBS (US)$28 million.",
+    "selection_date": "1989-08-16",
+    "selection_group": "Japanese Commercial Group",
+    "status": "Retired"
+}

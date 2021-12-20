@@ -1,0 +1,90 @@
+{
+    "birth_date": "1930-09-24",
+    "birth_place": "San Francisco, California, United States",
+    "died": "2018-01-05",
+    "eva_count": 8,
+    "eva_list": [
+        {
+            "date": "1966-07-19",
+            "duration": "50m",
+            "mission": "Gemini X"
+        },
+        {
+            "date": "1966-07-20",
+            "duration": "40m",
+            "mission": "Gemini X"
+        },
+        {
+            "date": "1966-07-21",
+            "duration": "3m",
+            "mission": "Gemini X"
+        },
+        {
+            "date": "1972-04-21",
+            "duration": "7h 11m",
+            "mission": "Apollo 16"
+        },
+        {
+            "date": "1972-04-22",
+            "duration": "7h 23m",
+            "mission": "Apollo 16"
+        },
+        {
+            "date": "1972-04-23",
+            "duration": "5h 40m",
+            "mission": "Apollo 16"
+        },
+        {
+            "date": "1972-04-23",
+            "duration": "4m",
+            "mission": "Apollo 16"
+        },
+        {
+            "date": "1972-04-25",
+            "duration": "1h 24m",
+            "mission": "Apollo 16"
+        }
+    ],
+    "fai_flight_count": 6,
+    "fai_flight_list": [
+        {
+            "date": "1965-03-23",
+            "duration": "4h 52m 31s",
+            "mission": "Gemini 3"
+        },
+        {
+            "date": "1966-07-18",
+            "duration": "2d 22h 46m 39s",
+            "mission": "Gemini X"
+        },
+        {
+            "date": "1969-05-18",
+            "duration": "8d 0h 3m 23s",
+            "mission": "Apollo 10"
+        },
+        {
+            "date": "1972-04-16",
+            "duration": "11d 1h 51m 5s",
+            "mission": "Apollo 16"
+        },
+        {
+            "date": "1981-04-12",
+            "duration": "2d 6h 20m 54s",
+            "mission": "STS-1"
+        },
+        {
+            "date": "1983-11-28",
+            "duration": "10d 7h 47m 24s",
+            "mission": "STS-9"
+        }
+    ],
+    "first_name": "John Watts",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/young-j.jpg",
+    "last_name": "Young",
+    "name": "John Watts Young",
+    "nationality": "American",
+    "notes": "Young was not an active participant on any of the Gemini X EVAs or on his final Apollo 16 EVA.",
+    "selection_date": "1962-09-11",
+    "selection_group": "NASA Group 2",
+    "status": "Deceased"
+}

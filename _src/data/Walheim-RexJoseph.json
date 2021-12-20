@@ -1,0 +1,59 @@
+{
+    "birth_date": "1962-10-10",
+    "birth_place": "Redwood City, California, United States",
+    "died": null,
+    "eva_count": 5,
+    "eva_list": [
+        {
+            "date": "2002-04-11",
+            "duration": "7h 48m",
+            "mission": "STS-110"
+        },
+        {
+            "date": "2002-04-14",
+            "duration": "6h 27m",
+            "mission": "STS-110"
+        },
+        {
+            "date": "2008-02-11",
+            "duration": "7h 58m",
+            "mission": "STS-122"
+        },
+        {
+            "date": "2008-02-13",
+            "duration": "6h 45m",
+            "mission": "STS-122"
+        },
+        {
+            "date": "2008-02-15",
+            "duration": "7h 25m",
+            "mission": "STS-122"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "2002-04-08",
+            "duration": "10d 19h 42m 38s",
+            "mission": "STS-110"
+        },
+        {
+            "date": "2008-02-07",
+            "duration": "12d 18h 22m 38s",
+            "mission": "STS-122"
+        },
+        {
+            "date": "2011-07-08",
+            "duration": "12d 18h 27m 56s",
+            "mission": "STS-135"
+        }
+    ],
+    "first_name": "Rex Joseph",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/walheim-r.jpg",
+    "last_name": "Walheim",
+    "name": "Rex Joseph Walheim",
+    "nationality": "American",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Active"
+}

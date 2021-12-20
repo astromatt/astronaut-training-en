@@ -1,0 +1,31 @@
+{
+    "birth_date": "1930-11-14",
+    "birth_place": "San Antonio, Texas, United States",
+    "death_remarks": "Apollo 1 fire",
+    "died": "1967-01-27",
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "1966-06-03",
+            "duration": "46m",
+            "mission": "Gemini IV"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1965-06-03",
+            "duration": "4d 1h 56m 12s",
+            "mission": "Gemini IV"
+        }
+    ],
+    "first_name": "Edward Higgins White,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/white-e.jpg",
+    "last_name": "II\"Ed\"",
+    "name": "Edward Higgins White, II\"Ed\"",
+    "nationality": "American",
+    "notes": "Ed White had been a test pilot for the USAF. He had degrees from the United States Military Academy and the University of Michigan.",
+    "selection_date": "1962-09-11",
+    "selection_group": "NASA Group 2",
+    "status": "Deceased"
+}

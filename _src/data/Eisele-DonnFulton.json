@@ -1,0 +1,22 @@
+{
+    "birth_date": "1930-06-30",
+    "birth_place": "Columbus, Ohio, United States",
+    "death_remarks": "Heart attack",
+    "died": "1987-12-02",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1968-10-11",
+            "duration": "10d 20h 8m 0s",
+            "mission": "Apollo 7"
+        }
+    ],
+    "first_name": "Donn Fulton",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/eisele-d.jpg",
+    "last_name": "Eisele",
+    "name": "Donn Fulton Eisele",
+    "nationality": "American",
+    "selection_date": "1963-10-17",
+    "selection_group": "NASA Group 3",
+    "status": "Deceased"
+}

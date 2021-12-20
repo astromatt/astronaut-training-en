@@ -1,0 +1,69 @@
+{
+    "birth_date": "1957-01-06",
+    "birth_place": "Louth, United Kingdom",
+    "died": null,
+    "eva_count": 4,
+    "eva_list": [
+        {
+            "date": "1995-02-09",
+            "duration": "4h 39m",
+            "mission": "STS-63"
+        },
+        {
+            "date": "1997-09-06",
+            "duration": "6h 0m",
+            "mission": "EO-24"
+        },
+        {
+            "date": "1999-12-23",
+            "duration": "8h 10m",
+            "mission": "STS-103"
+        },
+        {
+            "date": "2004-02-26",
+            "duration": "3h 55m",
+            "mission": "ISS Expedition 8"
+        }
+    ],
+    "fai_flight_count": 6,
+    "fai_flight_list": [
+        {
+            "date": "1992-03-24",
+            "duration": "8d 22h 9m 28s",
+            "mission": "STS-45"
+        },
+        {
+            "date": "1993-04-08",
+            "duration": "9d 6h 8m 24s",
+            "mission": "STS-56"
+        },
+        {
+            "date": "1995-02-03",
+            "duration": "8d 6h 28m 15s",
+            "mission": "STS-63"
+        },
+        {
+            "date": "1997-05-15",
+            "duration": "144d 13h 47m 21s",
+            "mission": "STS-84 /STS-86"
+        },
+        {
+            "date": "1999-12-20",
+            "duration": "7d 23h 11m 34s",
+            "mission": "STS-103"
+        },
+        {
+            "date": "2003-10-18",
+            "duration": "194d 18h 33m 12s",
+            "mission": "Soyuz TMA-3"
+        }
+    ],
+    "first_name": "Colin Michael",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedkingdom/foale-c.jpg",
+    "last_name": "Foale\"Mike\"",
+    "name": "Colin Michael Foale\"Mike\"",
+    "nationality": "American",
+    "selection_date": "1987-06-05",
+    "selection_group": "NASA Group 12",
+    "status": "Inactive"
+}

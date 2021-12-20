@@ -1,0 +1,81 @@
+{
+    "birth_date": "1930-06-02",
+    "birth_place": "Philadelphia, Pennsylvania, United States",
+    "death_remarks": "Motorcycle accident",
+    "died": "1999-07-09",
+    "eva_count": 8,
+    "eva_list": [
+        {
+            "date": "1966-09-13",
+            "duration": "43m",
+            "mission": "Gemini XI"
+        },
+        {
+            "date": "1966-09-13",
+            "duration": "4m",
+            "mission": "Gemini XI"
+        },
+        {
+            "date": "1966-09-14",
+            "duration": "2h 10m",
+            "mission": "Gemini XI"
+        },
+        {
+            "date": "1969-11-19",
+            "duration": "3h 56m",
+            "mission": "Apollo 12"
+        },
+        {
+            "date": "1969-11-20",
+            "duration": "3h 49m",
+            "mission": "Apollo 12"
+        },
+        {
+            "date": "1969-11-20",
+            "duration": "5m",
+            "mission": "Apollo 12"
+        },
+        {
+            "date": "1973-06-07",
+            "duration": "3h 23m",
+            "mission": "Skylab 1"
+        },
+        {
+            "date": "1973-06-19",
+            "duration": "1h 34m",
+            "mission": "Skylab 1"
+        }
+    ],
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1965-08-21",
+            "duration": "7d 23h 55m 14s",
+            "mission": "Gemini V"
+        },
+        {
+            "date": "1966-09-12",
+            "duration": "2d 23h 17m 8s",
+            "mission": "Gemini XI"
+        },
+        {
+            "date": "1969-11-14",
+            "duration": "10d 4h 36m 24s",
+            "mission": "Apollo 12"
+        },
+        {
+            "date": "1973-05-25",
+            "duration": "28d 0h 49m 49s",
+            "mission": "Skylab 1"
+        }
+    ],
+    "first_name": "Charles Peter Conrad,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/conrad-c.jpg",
+    "last_name": "Jr.\"Pete\"",
+    "name": "Charles Peter Conrad, Jr.\"Pete\"",
+    "nationality": "American",
+    "notes": "Conrad was not an active participant in the Gemini XI EVAs.",
+    "selection_date": "1962-09-11",
+    "selection_group": "NASA Group 2",
+    "status": "Deceased"
+}

@@ -1,0 +1,47 @@
+{
+    "birth_date": "1952-11-27",
+    "birth_place": "Flushing, New York, United States",
+    "died": null,
+    "fai_flight_count": 6,
+    "fai_flight_list": [
+        {
+            "date": "1990-01-09",
+            "duration": "10d 21h 0m 36s",
+            "mission": "STS-32"
+        },
+        {
+            "date": "1992-10-22",
+            "duration": "9d 20h 56m 13s",
+            "mission": "STS-52"
+        },
+        {
+            "date": "1995-02-03",
+            "duration": "8d 6h 28m 15s",
+            "mission": "STS-63"
+        },
+        {
+            "date": "1997-09-26",
+            "duration": "10d 19h 20m 50s",
+            "mission": "STS-86"
+        },
+        {
+            "date": "2001-03-08",
+            "duration": "12d 19h 49m 33s",
+            "mission": "STS-102"
+        },
+        {
+            "date": "2002-11-24",
+            "duration": "13d 18h 47m 25s",
+            "mission": "STS-113"
+        }
+    ],
+    "first_name": "James Donald",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/wetherbee-j.jpg",
+    "last_name": "Wetherbee\"Jim\"",
+    "name": "James Donald Wetherbee\"Jim\"",
+    "nationality": "American",
+    "notes": "At 6' 4\" (1.93m), Wetherbee is the tallest person to go into space.",
+    "selection_date": "1984-05-23",
+    "selection_group": "NASA Group 10",
+    "status": "Retired"
+}

@@ -1,0 +1,26 @@
+{
+    "birth_date": "1958-10-05",
+    "birth_place": "Amsterdam, Netherlands",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2004-04-19",
+            "duration": "10d 20h 52m 18s",
+            "mission": "Soyuz TMA-4 /Soyuz TMA-3"
+        },
+        {
+            "date": "2011-12-21",
+            "duration": "192d 18h 58m 48s",
+            "mission": "Soyuz TMA-03M"
+        }
+    ],
+    "first_name": "Andr\u00e9",
+    "img": "https://www.worldspaceflight.com/bios/photos/netherlands/kuipers-a.jpg",
+    "last_name": "Kuipers",
+    "name": "Andr\u00e9   Kuipers",
+    "nationality": "Dutch",
+    "selection_date": "1998-10-07",
+    "selection_group": "1998 ESA Group",
+    "status": "Active"
+}

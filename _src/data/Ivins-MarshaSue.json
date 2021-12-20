@@ -1,0 +1,41 @@
+{
+    "birth_date": "1951-04-15",
+    "birth_place": "Baltimore, Maryland, United States",
+    "died": null,
+    "fai_flight_count": 5,
+    "fai_flight_list": [
+        {
+            "date": "1990-01-09",
+            "duration": "10d 21h 0m 36s",
+            "mission": "STS-32"
+        },
+        {
+            "date": "1992-07-31",
+            "duration": "7d 23h 15m 3s",
+            "mission": "STS-46"
+        },
+        {
+            "date": "1994-03-04",
+            "duration": "13d 23h 16m 41s",
+            "mission": "STS-62"
+        },
+        {
+            "date": "1997-01-12",
+            "duration": "10d 4h 55m 21s",
+            "mission": "STS-81"
+        },
+        {
+            "date": "2001-02-07",
+            "duration": "12d 21h 20m 3s",
+            "mission": "STS-98"
+        }
+    ],
+    "first_name": "Marsha Sue",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/ivins-m.jpg",
+    "last_name": "Ivins",
+    "name": "Marsha Sue Ivins",
+    "nationality": "American",
+    "selection_date": "1984-05-23",
+    "selection_group": "NASA Group 10",
+    "status": "Retired"
+}

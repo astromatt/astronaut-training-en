@@ -1,0 +1,59 @@
+{
+    "birth_date": "1954-02-20",
+    "birth_place": "Orekhovka, Crimea, Ukraine",
+    "died": null,
+    "eva_count": 6,
+    "eva_list": [
+        {
+            "date": "1993-09-16",
+            "duration": "4h 18m",
+            "mission": "EO-14"
+        },
+        {
+            "date": "1993-09-20",
+            "duration": "3h 14m",
+            "mission": "EO-14"
+        },
+        {
+            "date": "1993-09-28",
+            "duration": "1h 51m",
+            "mission": "EO-14"
+        },
+        {
+            "date": "1993-10-22",
+            "duration": "38m",
+            "mission": "EO-14"
+        },
+        {
+            "date": "1993-10-29",
+            "duration": "4h 12m",
+            "mission": "EO-14"
+        },
+        {
+            "date": "1997-04-29",
+            "duration": "4h 59m",
+            "mission": "EO-23"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1993-07-01",
+            "duration": "196d 17h 45m 22s",
+            "mission": "Soyuz TM-17"
+        },
+        {
+            "date": "1997-02-10",
+            "duration": "184d 22h 7m 40s",
+            "mission": "Soyuz TM-25"
+        }
+    ],
+    "first_name": "Vasili V.",
+    "img": "https://www.worldspaceflight.com/bios/photos/ukraine/tsibliyev-v.jpg",
+    "last_name": "Tsibliyev",
+    "name": "Vasili V. Tsibliyev",
+    "nationality": "Russian",
+    "selection_date": "1987-03-26",
+    "selection_group": "Air Force Group 8",
+    "status": "Retired"
+}

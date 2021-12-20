@@ -1,0 +1,191 @@
+{
+    "birth_date": "1924-10-09",
+    "birth_place": "Madison, Maine, United States",
+    "death_remarks": "Natural causes",
+    "died": "1993-03-17",
+    "first_name": "Robert Aitkin",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/rushworth-r.jpg",
+    "last_name": "Rushworth",
+    "name": "Robert Aitkin Rushworth",
+    "nationality": "American",
+    "non_fai_flight_count": 1,
+    "non_fai_flight_list": [
+        {
+            "date": "1963-06-27",
+            "duration": "10m 28s",
+            "mission": "X-15 Flight #87"
+        }
+    ],
+    "notes": "Making 34 of the 199 X-15 flights, Rushworth made more flights than any other X-15 pilot.",
+    "selection_date": "1958-06-25",
+    "selection_group": "Man In Space Soonest",
+    "significant_flight_count": 33,
+    "significant_flight_list": [
+        {
+            "date": "1960-11-04",
+            "duration": "8m 46s",
+            "mission": "X-15 Flight #25"
+        },
+        {
+            "date": "1960-11-17",
+            "duration": "8m 58s",
+            "mission": "X-15 Flight #27"
+        },
+        {
+            "date": "1961-10-04",
+            "duration": "8m 31s",
+            "mission": "X-15 Flight #42"
+        },
+        {
+            "date": "1962-05-08",
+            "duration": "8m 50s",
+            "mission": "X-15 Flight #53"
+        },
+        {
+            "date": "1962-05-22",
+            "duration": "9m 16s",
+            "mission": "X-15 Flight #54"
+        },
+        {
+            "date": "1962-08-08",
+            "duration": "7m 43s",
+            "mission": "X-15 Flight #66"
+        },
+        {
+            "date": "20 August 1962 1961",
+            "duration": "8m 38s",
+            "mission": "X-15 Flight #68"
+        },
+        {
+            "date": "1962-08-29",
+            "duration": "8m 47s",
+            "mission": "X-15 Flight #69"
+        },
+        {
+            "date": "1962-10-04",
+            "duration": "9m 50s",
+            "mission": "X-15 Flight #71"
+        },
+        {
+            "date": "1962-10-23",
+            "duration": "9m 46s",
+            "mission": "X-15 Flight #73"
+        },
+        {
+            "date": "1963-04-11",
+            "duration": "8m 57s",
+            "mission": "X-15 Flight #78"
+        },
+        {
+            "date": "414 May 1963",
+            "duration": "7m 33s",
+            "mission": "X-15 Flight #82"
+        },
+        {
+            "date": "1963-06-18",
+            "duration": "9m 50s",
+            "mission": "X-15 Flight #85"
+        },
+        {
+            "date": "1963-07-18",
+            "duration": "10m 28s",
+            "mission": "X-15 Flight #89"
+        },
+        {
+            "date": "1963-11-07",
+            "duration": "8m 52s",
+            "mission": "X-15 Flight #94"
+        },
+        {
+            "date": "1963-12-05",
+            "duration": "9m 34s",
+            "mission": "X-15 Flight #97"
+        },
+        {
+            "date": "1964-01-28",
+            "duration": "10m 26s",
+            "mission": "X-15 Flight #100"
+        },
+        {
+            "date": "1964-03-27",
+            "duration": "9m 52s",
+            "mission": "X-15 Flight #103"
+        },
+        {
+            "date": "1964-04-29",
+            "duration": "9m 35s",
+            "mission": "X-15 Flight #105"
+        },
+        {
+            "date": "1964-06-25",
+            "duration": "8m 55s",
+            "mission": "X-15 Flight #109"
+        },
+        {
+            "date": "1964-08-14",
+            "duration": "12m 6s",
+            "mission": "X-15 Flight #114"
+        },
+        {
+            "date": "1964-09-29",
+            "duration": "9m 51s",
+            "mission": "X-15 Flight #118"
+        },
+        {
+            "date": "1964-12-22",
+            "duration": "7m 50s",
+            "mission": "X-15 Flight #124"
+        },
+        {
+            "date": "1965-02-17",
+            "duration": "9m 20s",
+            "mission": "X-15 Flight #127"
+        },
+        {
+            "date": "1965-03-26",
+            "duration": "11m 24s",
+            "mission": "X-15 Flight #129"
+        },
+        {
+            "date": "1965-07-20",
+            "duration": "10m 34s",
+            "mission": "X-15 Flight #140"
+        },
+        {
+            "date": "1965-08-03",
+            "duration": "9m 32s",
+            "mission": "X-15 Flight #141"
+        },
+        {
+            "date": "1965-08-26",
+            "duration": "10m 28s",
+            "mission": "X-15 Flight #145"
+        },
+        {
+            "date": "1965-09-09",
+            "duration": "11m 10s",
+            "mission": "X-15 Flight #147"
+        },
+        {
+            "date": "1965-09-22",
+            "duration": "10m 54s",
+            "mission": "X-15 Flight #149"
+        },
+        {
+            "date": "1965-11-03",
+            "duration": "5m 2s",
+            "mission": "X-15 Flight #155"
+        },
+        {
+            "date": "1966-05-18",
+            "duration": "8m 57s",
+            "mission": "X-15 Flight #158"
+        },
+        {
+            "date": "1966-07-01",
+            "duration": "4m 29s",
+            "mission": "X-15 Flight #159"
+        }
+    ],
+    "status": "Deceased"
+}

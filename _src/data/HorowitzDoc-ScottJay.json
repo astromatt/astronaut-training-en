@@ -1,0 +1,36 @@
+{
+    "birth_date": "1957-03-24",
+    "birth_place": "Philadelphia, Pennsylvania, United States",
+    "died": null,
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1996-02-22",
+            "duration": "15d 17h 40m 21s",
+            "mission": "STS-75"
+        },
+        {
+            "date": "1997-02-11",
+            "duration": "9d 23h 37m 9s",
+            "mission": "STS-82"
+        },
+        {
+            "date": "2000-05-19",
+            "duration": "9d 20h 9m 9s",
+            "mission": "STS-101"
+        },
+        {
+            "date": "2001-08-10",
+            "duration": "11d 19h 12m 44s",
+            "mission": "STS-105"
+        }
+    ],
+    "first_name": "Scott Jay",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/horowitz-s.jpg",
+    "last_name": "Horowitz\"Doc\"",
+    "name": "Scott Jay Horowitz\"Doc\"",
+    "nationality": "American",
+    "selection_date": "1992-03-14",
+    "selection_group": "NASA Group 14",
+    "status": "Retired"
+}

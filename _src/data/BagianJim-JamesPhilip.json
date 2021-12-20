@@ -1,0 +1,26 @@
+{
+    "birth_date": "1952-02-22",
+    "birth_place": "Philadelphia, Pennsylvania, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1989-03-13",
+            "duration": "4d 23h 38m 50s",
+            "mission": "STS-29"
+        },
+        {
+            "date": "1991-06-05",
+            "duration": "9d 2h 14m 20s",
+            "mission": "STS-40"
+        }
+    ],
+    "first_name": "James Philip",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/bagian-j.jpg",
+    "last_name": "Bagian\"Jim\"",
+    "name": "James Philip Bagian\"Jim\"",
+    "nationality": "American",
+    "selection_date": "1980-05-19",
+    "selection_group": "NASA Group 9",
+    "status": "Retired"
+}

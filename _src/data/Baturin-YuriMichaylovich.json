@@ -1,0 +1,26 @@
+{
+    "birth_date": "1949-06-12",
+    "birth_place": "Moscow, Russia",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1998-08-13",
+            "duration": "11d 19h 41m 33s",
+            "mission": "Soyuz TM-28 /Soyuz TM-27"
+        },
+        {
+            "date": "2001-04-28",
+            "duration": "7d 22h 4m 8s",
+            "mission": "Soyuz TM-32 /Soyuz TM-31"
+        }
+    ],
+    "first_name": "Yuri Michaylovich",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/baturin-y.jpg",
+    "last_name": "Baturin",
+    "name": "Yuri Michaylovich Baturin",
+    "nationality": "Russian",
+    "selection_date": "1997-09-15",
+    "selection_group": "Air Force Group 12 Supplemental",
+    "status": "Retired"
+}

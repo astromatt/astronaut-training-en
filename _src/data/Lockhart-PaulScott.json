@@ -1,0 +1,26 @@
+{
+    "birth_date": "1956-04-28",
+    "birth_place": "Amarillo, Texas, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2002-06-05",
+            "duration": "13d 20h 34m 52s",
+            "mission": "STS-111"
+        },
+        {
+            "date": "2002-11-24",
+            "duration": "13d 18h 47m 25s",
+            "mission": "STS-113"
+        }
+    ],
+    "first_name": "Paul Scott",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/lockhart-p.jpg",
+    "last_name": "Lockhart",
+    "name": "Paul Scott Lockhart",
+    "nationality": "American",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Retired"
+}

@@ -1,0 +1,31 @@
+{
+    "birth_date": "1961-11-05",
+    "birth_place": "Bar Harbor, Maine, United States",
+    "died": null,
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "2001-07-12",
+            "duration": "12d 18h 34m 56s",
+            "mission": "STS-104"
+        },
+        {
+            "date": "2007-08-08",
+            "duration": "12d 17h 56m 38s",
+            "mission": "STS-118"
+        },
+        {
+            "date": "2009-11-12",
+            "duration": "14d 19h 16m 13s",
+            "mission": "STS-129"
+        }
+    ],
+    "first_name": "Charles Owen",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/hobaugh-c.jpg",
+    "last_name": "Hobaugh",
+    "name": "Charles Owen Hobaugh",
+    "nationality": "American",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Retired"
+}

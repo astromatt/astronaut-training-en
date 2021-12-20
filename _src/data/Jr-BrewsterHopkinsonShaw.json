@@ -1,0 +1,31 @@
+{
+    "birth_date": "1945-05-16",
+    "birth_place": "Cass City, Michigan, United States",
+    "died": null,
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1983-11-28",
+            "duration": "10d 7h 47m 24s",
+            "mission": "STS-9"
+        },
+        {
+            "date": "1985-11-27",
+            "duration": "6d 21h 4m 49s",
+            "mission": "61-B"
+        },
+        {
+            "date": "1989-08-08",
+            "duration": "5d 1h 0m 8s",
+            "mission": "STS-28"
+        }
+    ],
+    "first_name": "Brewster Hopkinson Shaw,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/shaw-b.jpg",
+    "last_name": "Jr.",
+    "name": "Brewster Hopkinson Shaw, Jr.",
+    "nationality": "American",
+    "selection_date": "1978-01-16",
+    "selection_group": "NASA Group 8",
+    "status": "Retired"
+}

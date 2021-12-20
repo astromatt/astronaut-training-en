@@ -1,0 +1,74 @@
+{
+    "birth_date": "1941-08-05",
+    "birth_place": "Krasny Liman , Donetsk Oblast , Ukraine",
+    "died": "2010-06-14",
+    "eva_count": 8,
+    "eva_list": [
+        {
+            "date": "1984-04-23",
+            "duration": "4h 15m",
+            "mission": "Salyut 7, PE-3"
+        },
+        {
+            "date": "1984-04-26",
+            "duration": "5h 0m",
+            "mission": "Salyut 7, PE-3"
+        },
+        {
+            "date": "1984-04-29",
+            "duration": "2h 45m",
+            "mission": "Salyut 7, PE-3"
+        },
+        {
+            "date": "1984-05-03",
+            "duration": "2h 45m",
+            "mission": "Salyut 7, PE-3"
+        },
+        {
+            "date": "1984-05-18",
+            "duration": "3h 5m",
+            "mission": "Salyut 7, PE-3"
+        },
+        {
+            "date": "1984-08-08",
+            "duration": "5h 0m",
+            "mission": "Salyut 7, PE-3"
+        },
+        {
+            "date": "1986-05-28",
+            "duration": "3h 50m",
+            "mission": "Salyut 7, PE-6"
+        },
+        {
+            "date": "1986-05-31",
+            "duration": "5h 0m",
+            "mission": "Salyut 7, PE-6"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1980-11-27",
+            "duration": "12d 19h 7m 42s",
+            "mission": "Soyuz T-3"
+        },
+        {
+            "date": "1984-02-08",
+            "duration": "236d 22h 49m 34s",
+            "mission": "Soyuz T-10 /Soyuz T-11"
+        },
+        {
+            "date": "1986-03-13",
+            "duration": "125d 0h 0m 56s",
+            "mission": "Soyuz T-15"
+        }
+    ],
+    "first_name": "Leonid D.",
+    "img": "https://www.worldspaceflight.com/bios/photos/ukraine/kizim-l.jpg",
+    "last_name": "Kizim",
+    "name": "Leonid D. Kizim",
+    "nationality": "Russian",
+    "selection_date": "1965-10-28",
+    "selection_group": "Air Force Group 3",
+    "status": "Deceased"
+}

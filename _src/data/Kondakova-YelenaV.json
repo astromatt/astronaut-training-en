@@ -1,0 +1,26 @@
+{
+    "birth_date": "1957-03-30",
+    "birth_place": "Rabochi, Moscow Oblast, Russia",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1994-10-03",
+            "duration": "169d 5h 21m 35s",
+            "mission": "Soyuz TM-20"
+        },
+        {
+            "date": "1997-05-15",
+            "duration": "9d 5h 19m 56s",
+            "mission": "STS-84"
+        }
+    ],
+    "first_name": "Yelena V.",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/kondakova-y.jpg",
+    "last_name": "Kondakova",
+    "name": "Yelena V. Kondakova",
+    "nationality": "Russian",
+    "selection_date": "1989-01-25",
+    "selection_group": "Energia Engineer Group 10",
+    "status": "Retired"
+}

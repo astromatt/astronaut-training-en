@@ -1,0 +1,75 @@
+{
+    "birth_date": "1948-12-31",
+    "birth_place": "Bryansk, Russia",
+    "died": null,
+    "eva_count": 7,
+    "eva_list": [
+        {
+            "date": "1991-01-07",
+            "duration": "5h 18m",
+            "mission": "EO-8"
+        },
+        {
+            "date": "1991-01-23",
+            "duration": "5h 33m",
+            "mission": "EO-8"
+        },
+        {
+            "date": "1991-01-26",
+            "duration": "6h 20m",
+            "mission": "EO-8"
+        },
+        {
+            "date": "1991-04-25",
+            "duration": "3h 34m",
+            "mission": "EO-8"
+        },
+        {
+            "date": "1999-04-16",
+            "duration": "6h 19m",
+            "mission": "EO-27"
+        },
+        {
+            "date": "1999-07-23",
+            "duration": "6h 7m",
+            "mission": "EO-27"
+        },
+        {
+            "date": "1999-07-28",
+            "duration": "5h 22m",
+            "mission": "EO-27"
+        }
+    ],
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1990-12-02",
+            "duration": "175d 1h 50m 41s",
+            "mission": "Soyuz TM-11"
+        },
+        {
+            "date": "1994-01-08",
+            "duration": "182d 0h 27m 1s",
+            "mission": "Soyuz TM-18"
+        },
+        {
+            "date": "1999-02-20",
+            "duration": "188d 20h 16m 19s",
+            "mission": "Soyuz TM-29"
+        },
+        {
+            "date": "2001-10-21",
+            "duration": "9d 19h 59m 51s",
+            "mission": "Soyuz TM-33 /Soyuz TM-32"
+        }
+    ],
+    "first_name": "Viktor M.",
+    "group2": "Air Force Group 9 (8 January 1988)",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/afanasyev-v.jpg",
+    "last_name": "Afanasyev",
+    "name": "Viktor M. Afanasyev",
+    "nationality": "Russian",
+    "selection_date": "1985-09-02",
+    "selection_group": "Buran Group 2",
+    "status": "Retired"
+}

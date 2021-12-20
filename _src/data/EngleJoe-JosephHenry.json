@@ -1,0 +1,113 @@
+{
+    "birth_date": "1932-08-26",
+    "birth_place": "Abilene, Kansas, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1981-11-12",
+            "duration": "2d 6h 13m 12s",
+            "mission": "STS-2"
+        },
+        {
+            "date": "1985-08-27",
+            "duration": "7d 2h 17m 42s",
+            "mission": "51-I"
+        }
+    ],
+    "first_name": "Joseph Henry",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/engle-j.jpg",
+    "last_name": "Engle\"Joe\"",
+    "name": "Joseph Henry Engle\"Joe\"",
+    "nationality": "American",
+    "non_fai_flight_count": 3,
+    "non_fai_flight_list": [
+        {
+            "date": "1965-06-29",
+            "duration": "10m 32s",
+            "mission": "X-15 Flight #138"
+        },
+        {
+            "date": "1965-08-10",
+            "duration": "9m 52s",
+            "mission": "X-15 Flight #143"
+        },
+        {
+            "date": "1965-10-14",
+            "duration": "9m 18s",
+            "mission": "X-15 Flight #153"
+        }
+    ],
+    "notes": "Engle also flew three times as commander aboard the shuttle Enterprise during the Approach and Landings tests",
+    "selection_date": "1966-04-04",
+    "selection_group": "NASA Group 5",
+    "significant_flight_count": 13,
+    "significant_flight_list": [
+        {
+            "date": "1963-10-07",
+            "duration": "7m 37s",
+            "mission": "X-15 Flight #92"
+        },
+        {
+            "date": "1963-11-14",
+            "duration": "7m 47s",
+            "mission": "X-15 Flight #95"
+        },
+        {
+            "date": "1964-01-08",
+            "duration": "8m 51s",
+            "mission": "X-15 Flight #98"
+        },
+        {
+            "date": "1964-04-08",
+            "duration": "9m 46s",
+            "mission": "X-15 Flight #104"
+        },
+        {
+            "date": "1964-05-19",
+            "duration": "9m 1s",
+            "mission": "X-15 Flight #107"
+        },
+        {
+            "date": "1964-07-08",
+            "duration": "9m 56s",
+            "mission": "X-15 Flight #111"
+        },
+        {
+            "date": "1964-07-29",
+            "duration": "7m 49s",
+            "mission": "X-15 Flight #112"
+        },
+        {
+            "date": "1964-09-28",
+            "duration": "9m 34s",
+            "mission": "X-15 Flight #117"
+        },
+        {
+            "date": "1964-12-10",
+            "duration": "9m 45s",
+            "mission": "X-15 Flight #123"
+        },
+        {
+            "date": "1965-02-02",
+            "duration": "9m 58s",
+            "mission": "X-15 Flight #126"
+        },
+        {
+            "date": "1965-04-23",
+            "duration": "7m 42s",
+            "mission": "X-15 Flight #130"
+        },
+        {
+            "date": "1965-05-28",
+            "duration": "9m 37s",
+            "mission": "X-15 Flight #134"
+        },
+        {
+            "date": "1965-06-16",
+            "duration": "9m 46s",
+            "mission": "X-15 Flight #135"
+        }
+    ],
+    "status": "Retired"
+}

@@ -1,0 +1,32 @@
+{
+    "birth_date": "1923-03-12",
+    "birth_place": "Hackensack, New Jersey, United States",
+    "death_remarks": "Heart attack",
+    "died": "2007-05-03",
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1962-10-03",
+            "duration": "9h 13m 11s",
+            "mission": "Sigma 7"
+        },
+        {
+            "date": "1965-12-15",
+            "duration": "1d 1h 51m 54s",
+            "mission": "Gemini VI-A"
+        },
+        {
+            "date": "1968-10-11",
+            "duration": "10d 20h 8m 0s",
+            "mission": "Apollo 7"
+        }
+    ],
+    "first_name": "Walter Marty Schirra,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/schirra-w.jpg",
+    "last_name": "Jr.\"Wally\"",
+    "name": "Walter Marty Schirra, Jr.\"Wally\"",
+    "nationality": "American",
+    "selection_date": "1959-04-02",
+    "selection_group": "NASA Group 1",
+    "status": "Deceased"
+}

@@ -1,0 +1,37 @@
+{
+    "birth_date": "1964-02-21",
+    "birth_place": "Orange, New Jersey, United States",
+    "died": null,
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "2001-12-05",
+            "duration": "11d 19h 35m 42s",
+            "mission": "STS-108"
+        },
+        {
+            "date": "2006-07-04",
+            "duration": "12d 18h 38m 4s",
+            "mission": "STS-121"
+        },
+        {
+            "date": "2008-05-31",
+            "duration": "13d 18h 14m 7s",
+            "mission": "STS-124"
+        },
+        {
+            "date": "2011-05-16",
+            "duration": "15d 17h 38m 51s",
+            "mission": "STS-134"
+        }
+    ],
+    "first_name": "Mark Edward",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/kelly-m.jpg",
+    "last_name": "Kelly",
+    "name": "Mark Edward Kelly",
+    "nationality": "American",
+    "notes": "Mark Kelly is twin brother to Scott Kelly.",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Retired"
+}

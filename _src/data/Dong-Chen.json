@@ -1,0 +1,21 @@
+{
+    "birth_date": "December  1978",
+    "birth_place": "China",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2016-10-16",
+            "duration": "33d 6h 28m 29s",
+            "mission": "Shenzhou 11"
+        }
+    ],
+    "first_name": "Chen",
+    "img": "https://www.worldspaceflight.com/bios/photos/china/chen-d.jpg",
+    "last_name": "Dong",
+    "name": "Chen Dong",
+    "nationality": "Chinese",
+    "selection_date": "March  2010",
+    "selection_group": "Group 2",
+    "status": "Active"
+}

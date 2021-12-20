@@ -1,0 +1,39 @@
+{
+    "birth_date": "1932-07-25",
+    "birth_place": "Erie, Pennsylvania, United States",
+    "died": "2017-10-23",
+    "eva_count": 2,
+    "eva_list": [
+        {
+            "date": "1973-05-25",
+            "duration": "40m",
+            "mission": "Skylab 1"
+        },
+        {
+            "date": "1973-06-19",
+            "duration": "1h 34m",
+            "mission": "Skylab 1"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1973-05-25",
+            "duration": "28d 0h 49m 49s",
+            "mission": "Skylab 1"
+        },
+        {
+            "date": "1983-04-04",
+            "duration": "5d 0h 23m 42s",
+            "mission": "STS-6"
+        }
+    ],
+    "first_name": "Paul Joseph",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/weitz-p.jpg",
+    "last_name": "Weitz",
+    "name": "Paul Joseph Weitz",
+    "nationality": "American",
+    "selection_date": "1966-04-04",
+    "selection_group": "NASA Group 5",
+    "status": "Deceased"
+}

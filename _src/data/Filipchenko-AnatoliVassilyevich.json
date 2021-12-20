@@ -1,0 +1,26 @@
+{
+    "birth_date": "1928-02-26",
+    "birth_place": "Davydovka , Voronezh Oblast , Russia",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1969-10-12",
+            "duration": "4d 22h 40m 23s",
+            "mission": "Soyuz 7"
+        },
+        {
+            "date": "1974-12-02",
+            "duration": "5d 22h 23m 35s",
+            "mission": "Soyuz 16"
+        }
+    ],
+    "first_name": "Anatoli Vassilyevich",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/filipchenko-a.jpg",
+    "last_name": "Filipchenko",
+    "name": "Anatoli Vassilyevich  Filipchenko",
+    "nationality": "Russian",
+    "selection_date": "1963-01-10",
+    "selection_group": "Air Force Group 2",
+    "status": "Retired"
+}

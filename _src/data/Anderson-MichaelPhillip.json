@@ -1,0 +1,28 @@
+{
+    "birth_date": "1959-12-25",
+    "birth_place": "Plattsburg, New York, United States",
+    "death_remarks": "Breakup of Columbia on STS-107",
+    "died": "2003-02-01",
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1998-01-23",
+            "duration": "8d 19h 46m 54s",
+            "mission": "STS-89"
+        },
+        {
+            "date": "2003-01-16",
+            "duration": "15d 22h 20m 22s",
+            "mission": "STS-107"
+        }
+    ],
+    "first_name": "Michael Phillip",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/anderson-m.jpg",
+    "last_name": "Anderson",
+    "name": "Michael Phillip Anderson",
+    "nationality": "American",
+    "notes": "Payload Commander on STS-107. Anderson was married with two children (daughters). He was a lieutenant colonel in the United States Air Force. Anderson had a master's degree in physics freom Creighton University.",
+    "selection_date": "1994-12-08",
+    "selection_group": "NASA Group 15",
+    "status": "Deceased"
+}

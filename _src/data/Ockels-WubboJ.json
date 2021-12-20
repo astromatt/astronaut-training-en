@@ -1,0 +1,21 @@
+{
+    "birth_date": "1946-03-28",
+    "birth_place": "Almelo, Netherlands",
+    "died": "2014-05-18",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1985-10-30",
+            "duration": "7d 0h 44m 53s",
+            "mission": "61-A"
+        }
+    ],
+    "first_name": "Wubbo J.",
+    "img": "https://www.worldspaceflight.com/bios/photos/netherlands/ockels-w.jpg",
+    "last_name": "Ockels",
+    "name": "Wubbo J. Ockels",
+    "nationality": "Dutch",
+    "selection_date": "1978-05-01",
+    "selection_group": "Spacelab Payload Specialists Group 1",
+    "status": "Deceased"
+}

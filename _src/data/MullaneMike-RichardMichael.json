@@ -1,0 +1,31 @@
+{
+    "birth_date": "1945-09-10",
+    "birth_place": "Wichita Falls, Texas, United States",
+    "died": null,
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1984-08-30",
+            "duration": "6d 0h 56m 4s",
+            "mission": "41-D"
+        },
+        {
+            "date": "1988-12-02",
+            "duration": "4d 9h 5m 37s",
+            "mission": "STS-27"
+        },
+        {
+            "date": "1990-02-28",
+            "duration": "4d 10h 18m 22s",
+            "mission": "STS-36"
+        }
+    ],
+    "first_name": "Richard Michael",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/mullane-r.jpg",
+    "last_name": "Mullane\"Mike\"",
+    "name": "Richard Michael Mullane\"Mike\"",
+    "nationality": "American",
+    "selection_date": "1978-01-16",
+    "selection_group": "NASA Group 8",
+    "status": "Retired"
+}

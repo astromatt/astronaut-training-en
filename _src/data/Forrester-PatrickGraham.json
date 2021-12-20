@@ -1,0 +1,54 @@
+{
+    "birth_date": "1957-03-31",
+    "birth_place": "El Paso, Texas, United States",
+    "died": null,
+    "eva_count": 4,
+    "eva_list": [
+        {
+            "date": "2001-08-16",
+            "duration": "6h 16m",
+            "mission": "STS-105"
+        },
+        {
+            "date": "2001-08-18",
+            "duration": "5h 29m",
+            "mission": "STS-105"
+        },
+        {
+            "date": "2007-06-13",
+            "duration": "7h 16m",
+            "mission": "STS-117"
+        },
+        {
+            "date": "2007-06-17",
+            "duration": "6h 28m",
+            "mission": "STS-117"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "2001-08-10",
+            "duration": "11d 19h 12m 44s",
+            "mission": "STS-105"
+        },
+        {
+            "date": "2007-06-08",
+            "duration": "13d 20h 12m 44s",
+            "mission": "STS-117"
+        },
+        {
+            "date": "2009-08-29",
+            "duration": "13d 20h 53m 45s",
+            "mission": "STS-128"
+        }
+    ],
+    "first_name": "Patrick Graham",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/forrester-p.jpg",
+    "last_name": "Forrester",
+    "name": "Patrick Graham Forrester",
+    "nationality": "American",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Inactive"
+}

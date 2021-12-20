@@ -1,0 +1,22 @@
+{
+    "birth_date": "1921-04-15",
+    "birth_place": "Fedorovka, Poltava Oblast, Russia",
+    "death_remarks": "Heart disease",
+    "died": "1995-06-30",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1968-10-26",
+            "duration": "3d 22h 50m 45s",
+            "mission": "Soyuz 3"
+        }
+    ],
+    "first_name": "Georgi Timofeyevich",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/beregovoi-g.jpg",
+    "last_name": "Beregovoi",
+    "name": "Georgi Timofeyevich Beregovoi",
+    "nationality": "Russian",
+    "selection_date": "1964-01-25",
+    "selection_group": "Air Force Group 2 Supplemental",
+    "status": "Deceased"
+}

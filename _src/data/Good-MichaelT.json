@@ -1,0 +1,49 @@
+{
+    "birth_date": "1962-10-13",
+    "birth_place": "Parma, Ohio, United States",
+    "died": null,
+    "eva_count": 4,
+    "eva_list": [
+        {
+            "date": "2009-05-15",
+            "duration": "7h 56m",
+            "mission": "STS-125"
+        },
+        {
+            "date": "2009-05-17",
+            "duration": "8h 2m",
+            "mission": "STS-125"
+        },
+        {
+            "date": "2010-05-19",
+            "duration": "7h 9m",
+            "mission": "STS-132"
+        },
+        {
+            "date": "2010-05-21",
+            "duration": "6h 46m",
+            "mission": "STS-132"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2009-05-11",
+            "duration": "12d 21h 38m 0s",
+            "mission": "STS-125"
+        },
+        {
+            "date": "2010-05-14",
+            "duration": "11d 18h 28m 2s",
+            "mission": "STS-132"
+        }
+    ],
+    "first_name": "Michael T.",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/good-m.jpg",
+    "last_name": "Good",
+    "name": "Michael T. Good",
+    "nationality": "American",
+    "selection_date": "2000-07-26",
+    "selection_group": "NASA Group 18",
+    "status": "Inactive"
+}

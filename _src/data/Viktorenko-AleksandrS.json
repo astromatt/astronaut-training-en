@@ -1,0 +1,69 @@
+{
+    "birth_date": "1947-03-29",
+    "birth_place": "Olginka, North-Kazakhstan Oblast, Kazakhstan",
+    "died": null,
+    "eva_count": 6,
+    "eva_list": [
+        {
+            "date": "1990-01-08",
+            "duration": "2h 56m",
+            "mission": "EO-5"
+        },
+        {
+            "date": "1990-01-11",
+            "duration": "2h 54m",
+            "mission": "EO-5"
+        },
+        {
+            "date": "1990-01-26",
+            "duration": "3h 2m",
+            "mission": "EO-5"
+        },
+        {
+            "date": "1990-02-01",
+            "duration": "4h 59m",
+            "mission": "EO-5"
+        },
+        {
+            "date": "1990-02-05",
+            "duration": "3h 45m",
+            "mission": "EO-5"
+        },
+        {
+            "date": "1992-07-08",
+            "duration": "2h 3m",
+            "mission": "EO-11"
+        }
+    ],
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1987-07-22",
+            "duration": "7d 23h 4m 55s",
+            "mission": "Soyuz TM-3 /Soyuz TM-2"
+        },
+        {
+            "date": "1989-09-05",
+            "duration": "166d 6h 58m 15s",
+            "mission": "Soyuz TM-8"
+        },
+        {
+            "date": "1992-03-17",
+            "duration": "145d 14h 10m 32s",
+            "mission": "Soyuz TM-14"
+        },
+        {
+            "date": "1994-10-03",
+            "duration": "169d 5h 21m 35s",
+            "mission": "Soyuz TM-20"
+        }
+    ],
+    "first_name": "Aleksandr S.",
+    "img": "https://www.worldspaceflight.com/bios/photos/kazakhstan/viktorenko-a.jpg",
+    "last_name": "Viktorenko",
+    "name": "Aleksandr S. Viktorenko",
+    "nationality": "Russian",
+    "selection_date": "1978-05-23",
+    "selection_group": "Air Force Group 7",
+    "status": "Retired"
+}

@@ -1,0 +1,65 @@
+{
+    "birth_date": "1955-04-11",
+    "birth_place": "Crowborough, Sussex, United Kingdom",
+    "death_remarks": "Pancreatic cancer",
+    "died": "2016-12-23",
+    "eva_count": 6,
+    "eva_list": [
+        {
+            "date": "2002-10-10",
+            "duration": "7h 1m",
+            "mission": "STS-112"
+        },
+        {
+            "date": "2002-10-12",
+            "duration": "6h 4m",
+            "mission": "STS-112"
+        },
+        {
+            "date": "2002-10-14",
+            "duration": "6h 36m",
+            "mission": "STS-112"
+        },
+        {
+            "date": "2006-07-08",
+            "duration": "7h 31m",
+            "mission": "STS-121"
+        },
+        {
+            "date": "2006-07-10",
+            "duration": "6h 47m",
+            "mission": "STS-121"
+        },
+        {
+            "date": "2006-07-12",
+            "duration": "7h 11m",
+            "mission": "STS-121"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "2002-10-07",
+            "duration": "10d 19h 57m 49s",
+            "mission": "STS-112"
+        },
+        {
+            "date": "2006-07-04",
+            "duration": "12d 18h 38m 4s",
+            "mission": "STS-121"
+        },
+        {
+            "date": "2010-05-14",
+            "duration": "11d 18h 28m 2s",
+            "mission": "STS-132"
+        }
+    ],
+    "first_name": "Piers John",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedkingdom/sellers-p.jpg",
+    "last_name": "Sellers",
+    "name": "Piers John Sellers",
+    "nationality": "American",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Deceased"
+}

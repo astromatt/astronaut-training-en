@@ -1,0 +1,23 @@
+{
+    "birth_date": "1961-03-10",
+    "birth_place": "Ames, Iowa, United States",
+    "death_remarks": "Breakup of Columbia on STS-107",
+    "died": "2003-02-01",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2003-01-16",
+            "duration": "15d 22h 20m 22s",
+            "mission": "STS-107"
+        }
+    ],
+    "first_name": "Laurel Blair Clarknee:",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/clark-l.jpg",
+    "last_name": "Salton",
+    "name": "Laurel Blair Clarknee: Salton",
+    "nationality": "American",
+    "notes": "Clark, married with one child, was a mission specialist on STS-107 and a commander in the United States Navy. She had a doctorate in medicine from the University of Wisconsin, Madison.",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Deceased"
+}

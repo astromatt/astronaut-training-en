@@ -1,0 +1,33 @@
+{
+    "birth_date": "1932-09-18",
+    "birth_place": "Tomsk, Russia",
+    "death_remarks": "Heart atack",
+    "died": "2002-10-18",
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1971-04-22",
+            "duration": "1d 23h 45m 54s",
+            "mission": "Soyuz 10"
+        },
+        {
+            "date": "1974-12-02",
+            "duration": "5d 22h 23m 35s",
+            "mission": "Soyuz 16"
+        },
+        {
+            "date": "1979-04-10",
+            "duration": "1d 23h 1m 6s",
+            "mission": "Soyuz 33"
+        }
+    ],
+    "first_name": "Nikolai N.",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/rukavishnikov-n.jpg",
+    "last_name": "Rukavishnikov",
+    "name": "Nikolai N. Rukavishnikov",
+    "nationality": "Russian",
+    "notes": "Rukavishnikov had been assigned to the second Soviet circumlunar flight, which was cancelled after the success of Apollo 8.",
+    "selection_date": "1967-01-31",
+    "selection_group": "Energia Engineer Group 1 Supplemental",
+    "status": "Deceased"
+}

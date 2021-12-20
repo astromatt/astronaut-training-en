@@ -1,0 +1,28 @@
+{
+    "birth_date": "1961-07-01",
+    "birth_place": "Karnal, India",
+    "death_remarks": "Breakup of Columbia on STS-107",
+    "died": "2003-02-01",
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1997-11-19",
+            "duration": "15d 16h 34m 4s",
+            "mission": "STS-87"
+        },
+        {
+            "date": "2003-01-16",
+            "duration": "15d 22h 20m 22s",
+            "mission": "STS-107"
+        }
+    ],
+    "first_name": "Kalpana Chawla\"KC",
+    "img": "https://www.worldspaceflight.com/bios/photos/india/chawla-k.jpg",
+    "last_name": "\"",
+    "name": "Kalpana   Chawla\"KC \"",
+    "nationality": "American",
+    "notes": "Chawla was a mission specialist on STS-107. She was the first woman from India to fly in space. She had degrees in aeronautical engineering from Punjab Engineering College (undergraduate), University of Texas (master's), and the University of Colorado (doctorate).",
+    "selection_date": "1994-12-08",
+    "selection_group": "NASA Group 15",
+    "status": "Deceased"
+}

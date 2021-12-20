@@ -1,0 +1,39 @@
+{
+    "birth_date": "1940-03-07",
+    "birth_place": "Beryozkiny , Kirov Oblast , Russia",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "1985-08-02",
+            "duration": "5h 0m",
+            "mission": "Salyut 7, PE-4"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1981-03-12",
+            "duration": "74d 17h 37m 23s",
+            "mission": "Soyuz T-4"
+        },
+        {
+            "date": "1985-06-06",
+            "duration": "168d 3h 51m 8s",
+            "mission": "Soyuz T-13 /Soyuz T-14"
+        },
+        {
+            "date": "1988-06-07",
+            "duration": "9d 20h 9m 19s",
+            "mission": "Soyuz TM-5 /Soyuz TM-4"
+        }
+    ],
+    "first_name": "Viktor P.",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/savinykh-v.jpg",
+    "last_name": "Savinykh",
+    "name": "Viktor P. Savinykh",
+    "nationality": "Russian",
+    "selection_date": "1978-12-01",
+    "selection_group": "Energia Engineer Group 5",
+    "status": "Retired"
+}

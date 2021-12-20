@@ -1,0 +1,22 @@
+{
+    "birth_date": "1926-10-17",
+    "birth_place": "Cincinnati, Ohio, United States",
+    "death_remarks": "High altitude pulmonary edema while climbing Mount Everest",
+    "died": "1993-10-05",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1985-07-29",
+            "duration": "7d 22h 45m 26s",
+            "mission": "51-F"
+        }
+    ],
+    "first_name": "Karl Gordon",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/henize-k.jpg",
+    "last_name": "Henize",
+    "name": "Karl Gordon Henize",
+    "nationality": "American",
+    "selection_date": "1967-08-04",
+    "selection_group": "NASA Group 6",
+    "status": "Deceased"
+}

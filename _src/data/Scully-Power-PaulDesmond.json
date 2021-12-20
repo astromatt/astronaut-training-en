@@ -1,0 +1,19 @@
+{
+    "birth_date": "1944-05-28",
+    "birth_place": "Sydney, Australia",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1984-10-05",
+            "duration": "8d 5h 23m 38s",
+            "mission": "41-G"
+        }
+    ],
+    "first_name": "Paul Desmond",
+    "img": "https://www.worldspaceflight.com/bios/photos/australia/scully-power-p.jpg",
+    "last_name": "Scully-Power",
+    "name": "Paul Desmond Scully-Power",
+    "nationality": "American",
+    "status": "Retired"
+}

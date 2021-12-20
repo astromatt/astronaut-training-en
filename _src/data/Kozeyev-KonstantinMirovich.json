@@ -1,0 +1,21 @@
+{
+    "birth_date": "1967-01-12",
+    "birth_place": "Kalingrad, Russia",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2001-10-21",
+            "duration": "9d 19h 59m 51s",
+            "mission": "Soyuz TM-33 /Soyuz TM-32"
+        }
+    ],
+    "first_name": "Konstantin Mirovich",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/kozeyev-k.jpg",
+    "last_name": "Kozeyev",
+    "name": "Konstantin Mirovich  Kozeyev",
+    "nationality": "Russian",
+    "selection_date": "1996-02-09",
+    "selection_group": "Energia Engineer Group 13",
+    "status": "Retired"
+}

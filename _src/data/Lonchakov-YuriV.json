@@ -1,0 +1,45 @@
+{
+    "birth_date": "1965-04-03",
+    "birth_place": "Balkhash , Dzhezkazgan Oblast , Kazakhstan",
+    "died": null,
+    "eva_count": 2,
+    "eva_list": [
+        {
+            "date": "2008-12-23",
+            "duration": "5h 37m",
+            "mission": "ISS Expedition 18"
+        },
+        {
+            "date": "2009-03-10",
+            "duration": "4h 49m",
+            "mission": "ISS Expedition 18"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "2001-04-19",
+            "duration": "11d 21h 30m 0s",
+            "mission": "STS-100"
+        },
+        {
+            "date": "2002-10-30",
+            "duration": "10d 20h 53m 9s",
+            "mission": "Soyuz TMA-1 /Soyuz TM-34"
+        },
+        {
+            "date": "2008-10-12",
+            "duration": "178d 0h 13m 37s",
+            "mission": "Soyuz TMA-13"
+        }
+    ],
+    "first_name": "Yuri V.",
+    "img": "https://www.worldspaceflight.com/bios/photos/kazakhstan/lonchakov-y.jpg",
+    "last_name": "Lonchakov",
+    "name": "Yuri V. Lonchakov",
+    "nationality": "Russian",
+    "notes": "Lonchakov resigned from the cosmonaut corps on 14 September 2013 to pursue a \"more interesting job\" with a Russian gas company. His wife was reportedly not satisfied with his income.",
+    "selection_date": "1997-07-28",
+    "selection_group": "Air Force Group 12",
+    "status": "Retired"
+}

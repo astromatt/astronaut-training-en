@@ -1,0 +1,54 @@
+{
+    "birth_date": "1967-09-11",
+    "birth_place": "Fort Knox, Kentucky, United States",
+    "died": null,
+    "eva_count": 5,
+    "eva_list": [
+        {
+            "date": "2009-11-21",
+            "duration": "6h 8m",
+            "mission": "STS-129"
+        },
+        {
+            "date": "2009-11-23",
+            "duration": "5h 42m",
+            "mission": "STS-129"
+        },
+        {
+            "date": "2017-10-05",
+            "duration": "6h 55m",
+            "mission": "ISS Expedition 53"
+        },
+        {
+            "date": "2017-10-10",
+            "duration": "6h 26m",
+            "mission": "ISS Expedition 53"
+        },
+        {
+            "date": "2017-10-20",
+            "duration": "6h 49m",
+            "mission": "ISS Expedition 53"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2009-11-12",
+            "duration": "14d 19h 16m 13s",
+            "mission": "STS-129"
+        },
+        {
+            "date": "2017-07-28",
+            "duration": "138d 16h 56m 48s",
+            "mission": "Soyuz MS-05"
+        }
+    ],
+    "first_name": "Randolph James",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/bresnik-r.jpg",
+    "last_name": "Bresnik\"Randy\"",
+    "name": "Randolph James Bresnik\"Randy\"",
+    "nationality": "American",
+    "selection_date": "2004-05-06",
+    "selection_group": "NASA Group 19",
+    "status": "Active"
+}

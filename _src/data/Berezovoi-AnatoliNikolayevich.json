@@ -1,0 +1,29 @@
+{
+    "birth_date": "1942-04-11",
+    "birth_place": "Enem, Adygea, Russia",
+    "died": "2014-09-20",
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "1982-07-30",
+            "duration": "2h 33m",
+            "mission": "Salyut 7, PE-1"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1982-05-13",
+            "duration": "211d 9h 4m 31s",
+            "mission": "Soyuz T-5 /Soyuz T-7"
+        }
+    ],
+    "first_name": "Anatoli Nikolayevich",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/berezovoi-a.jpg",
+    "last_name": "Berezovoi",
+    "name": "Anatoli Nikolayevich Berezovoi",
+    "nationality": "Russian",
+    "selection_date": "1970-03-27",
+    "selection_group": "Air Force Group 5",
+    "status": "Deceased"
+}

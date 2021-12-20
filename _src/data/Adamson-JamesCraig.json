@@ -1,0 +1,26 @@
+{
+    "birth_date": "1946-03-03",
+    "birth_place": "Warsaw, New York, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1989-08-08",
+            "duration": "5d 1h 0m 8s",
+            "mission": "STS-28"
+        },
+        {
+            "date": "1991-08-02",
+            "duration": "8d 21h 21m 26s",
+            "mission": "STS-43"
+        }
+    ],
+    "first_name": "James Craig",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/adamson-j.jpg",
+    "last_name": "Adamson",
+    "name": "James Craig Adamson",
+    "nationality": "American",
+    "selection_date": "1984-05-23",
+    "selection_group": "NASA Group 10",
+    "status": "Retired"
+}

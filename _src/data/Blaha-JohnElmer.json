@@ -1,0 +1,41 @@
+{
+    "birth_date": "1942-08-26",
+    "birth_place": "San Antonio, Texas, United States",
+    "died": null,
+    "fai_flight_count": 5,
+    "fai_flight_list": [
+        {
+            "date": "1989-03-13",
+            "duration": "4d 23h 38m 50s",
+            "mission": "STS-29"
+        },
+        {
+            "date": "1989-11-23",
+            "duration": "5d 0h 6m 48s",
+            "mission": "STS-33"
+        },
+        {
+            "date": "1991-08-02",
+            "duration": "8d 21h 21m 26s",
+            "mission": "STS-43"
+        },
+        {
+            "date": "1993-10-18",
+            "duration": "14d 0h 12m 22s",
+            "mission": "STS-58"
+        },
+        {
+            "date": "1996-09-16",
+            "duration": "128d 5h 27m 55s",
+            "mission": "STS-79 /STS-81"
+        }
+    ],
+    "first_name": "John Elmer",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/blaha-j.jpg",
+    "last_name": "Blaha",
+    "name": "John Elmer Blaha",
+    "nationality": "American",
+    "selection_date": "1980-05-19",
+    "selection_group": "NASA Group 9",
+    "status": "Retired"
+}

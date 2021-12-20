@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+	{% if analytics_code %}
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id={{ analytics_code }}"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', '{{ analytics_code }}');
+		</script>
+	{% endif %}
+
+    <meta charset="utf-8">
+
+    {{ metatags }}
+
+    <title>{{ thesis_title }} - {{ author }} - {{ thesis }} - {{ university }}</title>
+    <meta name="author" content="{{ author }}">
+    <meta name="description" content="{{ thesis_title }} - {{ author }} - {{ thesis }} - {{ university }}">
+
+    <link rel="cannonical" href="http://thesis.astromatt.space">
+	<link rel="stylesheet" href="{{ pathto('_static/first-page.css', 1) }}" type="text/css" />
+	<link rel="stylesheet" href="{{ pathto('_static/content.css', 1) }}" type="text/css" />
+	<link rel="stylesheet" href="{{ pathto('_static/bibliography.css', 1) }}" type="text/css" />
+	<link rel="stylesheet" href="{{ pathto('_static/print.css', 1) }}" type="text/css" media="print" />
+    <link rel="icon" type="image/png" href="{{ pathto('_static/astronaut-pin.png', 1) }}" />
+</head>
+<body>
+    <section id="first-page">
+        <header>
+            <h1 id="university">{{ university }}</h1>
+            <h2 id="faculty">{{ faculty }}</h2>
+        </header>
+
+        <div id="main">
+            <img src="{{ pathto('_static/wsosp-logo.png', 1) }}">
+            <h1 id="thesis">{{ thesis }}</h1>
+            <h2 id="title">{{ thesis_title }}</h2>
+        </div>
+
+        <div id="author">
+            <p id="first-author">{{ author }}</p>
+            <p id="supervisor">Promotor pracy<br>{{ supervisor }}</p>
+            <p id="proofreading">Promotor pomocniczy pracy<br>{{ proofreading }}</p>
+        </div>
+
+        <footer>{{ city }} {{ year }}</footer>
+    </section>
+
+    <section id="content">
+        {% block body %} {% endblock %}
+    </section>
+</body>
+
+<html>

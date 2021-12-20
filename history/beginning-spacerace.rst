@@ -1,41 +1,41 @@
 The space race and a brief history of manned spaceflight
 ========================================================
 
-Po drugiej wojnie światowej wyścig zbrojeń przerodził się w tzw. zimną wojnę pomiędzy Stanami Zjednoczonymi Ameryki i Związkiem Socjalistycznych Republik Radzieckich. Za oficjalną datę rozpoczęcia wyścigu kosmicznego (ang. *Space Race*) przyjmuje się dzień 2 sierpnia 1955 roku. Tego dnia Związek Radziecki odpowiedział na ogłoszoną przez rząd USA cztery dni wcześniej deklarację zamiaru wystrzelenia sztucznego satelity z okazji międzynarodowego roku geofizyki :cite:`Cadbury2006`.
+After the Second World War, the arms race turned into the so-called the Cold War between the United States of America and the Union of Soviet Socialist Republics. The official date of start of the * Space Race * is August 2, 1955. On that day, the Soviet Union responded to the declaration announced by the US government four days earlier of its intention to launch an artificial satellite on the occasion of the international year of geophysics :cite:`Cadbury2006`.
 
-Wystrzelony 4 października 1957 należący do ZSRR Sputnik został pierwszym sztucznym satelitą Ziemi. To wydarzenie zapoczątkowało serię sukcesów Związku Socjalistycznych Republik Radzieckich w kosmosie, do których należały:
+Launched on October 4, 1957, the USSR's Sputnik became the first artificial Earth satellite. This event marked the beginning of a series of successes for the Union of Soviet Socialist Republics in space, which included:
 
-- pierwsze wystrzelenie zwierzęcia (pies Łajka, 3 październik 1957),
-- pierwsze bezzałogowe lądowanie na Księżycu (Luna 2, 13 września 1959) :cite:`Shelton1969`,
-- wystrzelenie oraz orbitowanie pierwszego człowieka (J. Gagarin, 12 kwietnia 1961),
-- pierwsza lot orbitalny trwający ponad dobę (G. Titow, 6 sierpnia 1961),
-- pierwsza kobieta w kosmosie (W. Tierieszkowa, 16 Czerwiec 1963),
-- pierwszy spacer kosmiczny (A. Leonow, 18 marzec 1965),
-- pierwsze zwierzęta orbitujące Księżyc, które powróciły na Ziemię (Zond 5, 15 września 1968) :cite:`Siddiqi2000`.
+- the first launch of the animal (dog named Łajka, October 3, 1957),
+- the first unmanned landing on the moon (Luna 2, September 13, 1959) :cite:`Shelton1969`,
+- launching and orbiting the first man (J. Gagarin, April 12, 1961),
+- the first orbital flight lasting over a day (G. Titow, August 6, 1961),
+- the first woman in space (W. Tereshkowa, June 16, 1963),
+- the first space walk (A. Leonow, March 18, 1965),
+- the first animals orbiting the Moon which return to Earth (Zond 5, September 15, 1968) :cite:`Siddiqi2000`.
 
-Pierwszym zwierzęciem, które przekroczyło linię graniczną kosmosu był pies Łajka wystrzelony za pomocą rakiety Sputnik 8K71PS w kapsule Sputnik-2 :cite:`Siddiqi2000`. Ze względu na wysoką temperaturę spowodowaną uszkodzeniem i niepełnym rozczepieniem członu rakiety od satelity zwierzę zdechło po kilku godzinach od startu. Pies planowo miał żyć na orbicie 10 dni. Po 162-óch dniach (około 2000 orbit) kapsuła z martwym ciałem weszła w atmosferę i spłonęła :cite:`Harford1997`.
+The first animal to cross the border line of space was Łajka dog launched with the Sputnik 8K71PS rocket in a Sputnik-2 capsule :cite:`Siddiqi2000`. Due to the high temperature caused by damage and incomplete disconnection of the rocket segment from the satellite, the animal died a few hours after the launch. The dog was scheduled to live in orbit for 10 days. After 162 days (about 2,000 orbits), the capsule with the dead body entered the atmosphere and burned :cite:`Harford1997`.
 
-Pierwszym człowiekiem w kosmosie był major Jurij Gagarin (awansowany później na pułkownika). Gagarin był jednym z 20 osób, które zostały wybrane wśród pilotów wojskowych Związku Radzieckiego. Major wyróżniał się wytrzymałością, duchem oraz doświadczeniem :cite:`Siddiqi2000`. Gagarin został wystrzelony przez Związek Radziecki 12 kwietnia 1961 w 108 minutowy lot orbitalny wokół Ziemi na pokładzie Vostok-1. Po okrążeniu Ziemi wszedł ponownie w atmosferę wg. tzw. krzywej balistycznej cechującej się wysokim poziomem przeciążeń działających na ciało kosmonauty. Ze względu na fakt, iż Radzieccy konstruktorzy nie dysponowali jeszcze techniką aby bezpiecznie wylądować statkiem kosmicznym na ziemi zdecydowano się na użycie fotela katapultowego i spadochronu. Na poziomie 20 000 stóp nad poziomem morza (ok. 6 tys. metrów) Gagarin katapultował się z kapsuły i za pomocą spadochronu bezpiecznie wylądował na terytorium ZSRR :cite:`Why-Yuri-Gagarin-Remains-the-First-Man-in-Space`.
+The first man in space was Major Yuri Gagarin (later promoted to colonel). Gagarin was one of 20 people who were selected among the military pilots of the Soviet Union. Major was distinguished with endurance, spirit and experience :cite:`Siddiqi2000`. Gagarin was launched by the Soviet Union on April 12, 1961 in a 108-minute orbital flight around the Earth aboard the Vostok-1. After circling the Earth, it re-entered the atmosphere according to the so-called a ballistic curve which is characterized by a high level of overloads acting on the astronaut's body. Due to the fact that Soviet designers did not yet have the technique to safely land the spacecraft on the ground, it was decided to use a catapult chair and a parachute. At 20,000 feet above sea level (about 6,000 meters), Gagarin catapulted from the capsule and, using a parachute, landed safely in the territory of the USSR :cite:`Why-Yuri-Gagarin-Remains-the-First-Man-in-Space`.
 
-Amerykańską odpowiedzią na plan wysłania człowieka w kosmos był program Mercury. W trakcie selekcji do programu wybrano siedmiu astronautów. 5 maja 1961 Alan Shepard jako pierwszy amerykanin poleciał w kosmos. 12 września 1962. Pół roku po locie Sheparda, prezydent Stanów Zjednoczonych Ameryki J. F. Kennedy wygłosił mowę na Uniwersytecie Rice, w której zmobilizował naród i postawił cel, aby "do końca dekady człowiek postawił nogę na Księżycu i bezpiecznie wrócił na Ziemię" :cite:`Kennedy1962`. Cel ten udało się zrealizować w 1969 roku, gdy amerykański astronauta Neil Armstrong stanął na naturalnym satelicie Ziemi. Do najważniejszych amerykańskich programów należą:
+The American response to the plan to send man into space was the Mercury program. During the selection process, seven astronauts were selected for the program. On May 5, 1961, Alan Shepard became the first American to fly into space. September 12, 1962. six months after Shepard's flight, President of the United States of America J. F. Kennedy gave a speech at Rice University in which he mobilized the nation and set the goal of "by the end of the decade, man would set foot on the moon and return safely to Earth." :cite:`Kennedy1962`. This goal was achieved in 1969, when the American astronaut Neil Armstrong stood on the natural satellite of the Earth. The most important American programs are:
 
-- project Mercury,
-- project Gemini,
-- project Apollo,
-- project Skylab (Apollo Application),
-- program Space Shuttle,
-- uczestnictwo w programie ISS.
+- Mercury project,
+- Gemini project,
+- Apollo project,
+- Skylab project (Apollo Application),
+- Space Shuttle program,
+- participation in the ISS program.
 
-Związek Socjalistycznych Republik Radzieckich wiódł prym w tematach kosmicznych i do czasu pierwszych kroków Neila Armstronga technologia radziecka była uważana za dominującą. Programy załogowe ZSRR charakteryzowały się dużą złożonością i zróżnicowaniem. Wśród najważniejszych programów ZSRR i późniejszej Federacji Rosyjskiej można wymienić:
+The Union of Soviet Socialist Republics was a leader in space topics, and until the first steps of Neil Armstrong, Soviet technology was considered dominant. The manned programs of the USSR were characterized by great complexity and diversity. The most important programs of the USSR and later Russian Federation include:
 
-- program Wostok,
-- program Woschod,
-- program Sojuz i Progress,
-- program Księżycowy (N1-L3),
-- program Salut,
-- program Interkosmos,
-- program Buran,
-- stacja kosmiczna Mir,
-- uczestnictwo w programie ISS.
+- Wostok program,
+- Woschod program,
+- Sojuz and Progress program,
+- Moon program (N1-L3),
+- Salut program,
+- Interkosmos program,
+- Buran program,
+- Mir space station,
+- participation in the ISS program.
 
-Ze względu na obecny plan powrotu człowieka na Księżyc warto w szczegółach przyjrzeć się programowi Apollo oraz N1-L3. W ramach tych misji i całego cyklu przygotowania do lotów stworzone zostały mechanizmy, procedury oraz infrastruktura szkoleniowo-badawcza. Część technologii i opracowań, które w 1969 roku pozwoliły człowiekowi stanąć na powierzchni Księżyca wciąż są aktualne i mogą być wykorzystane przy szkoleniu astronautów do przyszłych misji na inne ciała niebieskie.
+Due to the current plan of human return to the Moon, it is worth taking a closer look at the Apollo and N1-L3 programs. As part of these missions and the entire cycle of preparation for flights, mechanisms, procedures, training and research infrastructure have been created. Some of the technologies and developments that allowed man to stand on the lunar surface in 1969 are still relevant and can be used in the training of astronauts for future missions to other celestial bodies.

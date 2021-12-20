@@ -1,0 +1,39 @@
+{
+    "birth_date": "1962-08-06",
+    "birth_place": "Montreal, Canada",
+    "died": null,
+    "eva_count": 2,
+    "eva_list": [
+        {
+            "date": "2011-05-20",
+            "duration": "6h 19m",
+            "mission": "STS-134"
+        },
+        {
+            "date": "2011-05-27",
+            "duration": "7h 24m",
+            "mission": "STS-134"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2008-05-31",
+            "duration": "183d 0h 23m 51s",
+            "mission": "STS-124 /STS-126"
+        },
+        {
+            "date": "2011-05-16",
+            "duration": "15d 17h 38m 51s",
+            "mission": "STS-134"
+        }
+    ],
+    "first_name": "Gregory Errol",
+    "img": "https://www.worldspaceflight.com/bios/photos/canada/chamitoff-g.jpg",
+    "last_name": "Chamitoff",
+    "name": "Gregory Errol Chamitoff",
+    "nationality": "American",
+    "selection_date": "1998-06-04",
+    "selection_group": "NASA Group 17",
+    "status": "Inactive"
+}

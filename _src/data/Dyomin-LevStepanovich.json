@@ -1,0 +1,23 @@
+{
+    "(alternate form of last name": "Demin)",
+    "birth_date": "1926-01-11",
+    "birth_place": "Moscow, Russia",
+    "death_remarks": "Cancer",
+    "died": "1998-12-18",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1974-08-26",
+            "duration": "2d 0h 12m 11s",
+            "mission": "Soyuz 15"
+        }
+    ],
+    "first_name": "Lev Stepanovich",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/dyomin-l.jpg",
+    "last_name": "Dyomin",
+    "name": "Lev Stepanovich  Dyomin",
+    "nationality": "Russian",
+    "selection_date": "1963-01-10",
+    "selection_group": "Air Force Group 2",
+    "status": "Deceased"
+}

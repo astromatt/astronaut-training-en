@@ -1,0 +1,23 @@
+{
+    "birth_date": "1954-06-20",
+    "birth_place": "Tel Aviv, Israel",
+    "death_remarks": "Breakup of Columbia on STS-107",
+    "died": "2003-02-01",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2003-01-16",
+            "duration": "15d 22h 20m 22s",
+            "mission": "STS-107"
+        }
+    ],
+    "first_name": "Ilan",
+    "img": "https://www.worldspaceflight.com/bios/photos/israel/ramon-i.jpg",
+    "last_name": "Ramon",
+    "name": "Ilan   Ramon",
+    "nationality": "Israeli",
+    "notes": "Ramon, an Israeli Air Force colonel, was the first Israeli astronaut. He was married with four children at the time of his death. He was the payload specialist on STS-107 and had bachelor degrees in electronics and computer engineering from University of Tel Aviv.",
+    "selection_date": " 1997",
+    "selection_group": "IDF Astronaut Selection",
+    "status": "Deceased"
+}

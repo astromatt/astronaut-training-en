@@ -1,0 +1,37 @@
+{
+    "birth_date": "1937-09-11",
+    "birth_place": "Beaumont, Texas, United States",
+    "died": null,
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1981-04-12",
+            "duration": "2d 6h 20m 54s",
+            "mission": "STS-1"
+        },
+        {
+            "date": "1983-06-18",
+            "duration": "6d 2h 23m 59s",
+            "mission": "STS-7"
+        },
+        {
+            "date": "1984-04-06",
+            "duration": "6d 23h 40m 7s",
+            "mission": "41-C"
+        },
+        {
+            "date": "1984-10-05",
+            "duration": "8d 5h 23m 38s",
+            "mission": "41-G"
+        }
+    ],
+    "first_name": "Robert Laurel",
+    "group2": "NASA Group 7 (MOL Pilot Astronaut Transfers) (14 August 1969)",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/crippen-r.jpg",
+    "last_name": "Crippen\"Bob\"",
+    "name": "Robert Laurel Crippen\"Bob\"",
+    "nationality": "American",
+    "selection_date": "1966-06-30",
+    "selection_group": "USAF MOL Group 2",
+    "status": "Retired"
+}

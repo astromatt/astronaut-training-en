@@ -1,0 +1,22 @@
+{
+    "birth_date": "1942-01-01",
+    "birth_place": "Sinenkiye , Saratov Oblast , Russia",
+    "death_remarks": "Complications of surgery for cancer",
+    "died": "2005-09-29",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1974-08-26",
+            "duration": "2d 0h 12m 11s",
+            "mission": "Soyuz 15"
+        }
+    ],
+    "first_name": "Gennadi V.",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/sarafanov-g.jpg",
+    "last_name": "Sarafanov",
+    "name": "Gennadi V. Sarafanov",
+    "nationality": "Russian",
+    "selection_date": "1965-10-28",
+    "selection_group": "Air Force Group 3",
+    "status": "Deceased"
+}

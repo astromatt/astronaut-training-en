@@ -1,0 +1,34 @@
+{
+    "birth_date": "1944-09-03",
+    "birth_place": "Hartford, Connecticut, United States",
+    "died": null,
+    "eva_count": 2,
+    "eva_list": [
+        {
+            "date": "1985-11-29",
+            "duration": "5h 34m",
+            "mission": "61-B"
+        },
+        {
+            "date": "1985-12-01",
+            "duration": "6h 46m",
+            "mission": "61-B"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1985-11-27",
+            "duration": "6d 21h 4m 49s",
+            "mission": "61-B"
+        }
+    ],
+    "first_name": "Sherwood Clark",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/spring-s.jpg",
+    "last_name": "Spring\"Woody\"",
+    "name": "Sherwood Clark Spring\"Woody\"",
+    "nationality": "American",
+    "selection_date": "1980-05-19",
+    "selection_group": "NASA Group 9",
+    "status": "Retired"
+}

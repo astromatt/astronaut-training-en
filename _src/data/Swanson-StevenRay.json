@@ -1,0 +1,59 @@
+{
+    "birth_date": "1960-12-03",
+    "birth_place": "Syracuse, New York, United States",
+    "died": null,
+    "eva_count": 5,
+    "eva_list": [
+        {
+            "date": "2007-06-13",
+            "duration": "7h 16m",
+            "mission": "STS-117"
+        },
+        {
+            "date": "2007-06-17",
+            "duration": "6h 28m",
+            "mission": "STS-117"
+        },
+        {
+            "date": "2009-03-19",
+            "duration": "6h 7m",
+            "mission": "STS-119"
+        },
+        {
+            "date": "2009-03-21",
+            "duration": "6h 30m",
+            "mission": "STS-119"
+        },
+        {
+            "date": "2014-04-23",
+            "duration": "1h 36m",
+            "mission": "ISS Expedition 39"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "2007-06-08",
+            "duration": "13d 20h 12m 44s",
+            "mission": "STS-117"
+        },
+        {
+            "date": "2009-03-15",
+            "duration": "12d 19h 29m 33s",
+            "mission": "STS-119"
+        },
+        {
+            "date": "2014-03-25",
+            "duration": "169d 5h 5m 37s",
+            "mission": "Soyuz TMA-12M"
+        }
+    ],
+    "first_name": "Steven Ray",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/swanson-s.jpg",
+    "last_name": "Swanson",
+    "name": "Steven Ray Swanson",
+    "nationality": "American",
+    "selection_date": "1998-06-04",
+    "selection_group": "NASA Group 17",
+    "status": "Inactive"
+}

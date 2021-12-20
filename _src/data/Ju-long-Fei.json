@@ -1,0 +1,22 @@
+{
+    "birth_date": "May  1965",
+    "birth_place": "Suzhou, Jiangsu Province, China",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2005-10-12",
+            "duration": "4d 19h 32m 50s",
+            "mission": "ShenZhou 6"
+        }
+    ],
+    "first_name": "Fei",
+    "img": "https://www.worldspaceflight.com/bios/photos/china/fei-j.jpg",
+    "last_name": "Ju-long",
+    "name": "Fei Ju-long",
+    "nationality": "Chinese",
+    "notes": "Fei was chosen as commander for the second manned Chinese flight, along with Nie Haisheng, the pilot.",
+    "selection_date": "January  1998",
+    "selection_group": "Group 1",
+    "status": "Active"
+}

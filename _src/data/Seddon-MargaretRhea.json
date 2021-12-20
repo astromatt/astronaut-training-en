@@ -1,0 +1,31 @@
+{
+    "birth_date": "1947-11-08",
+    "birth_place": "Murfreesboro, Tennessee, United States",
+    "died": null,
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1985-04-12",
+            "duration": "6d 23h 55m 23s",
+            "mission": "51-D"
+        },
+        {
+            "date": "1991-06-05",
+            "duration": "9d 2h 14m 20s",
+            "mission": "STS-40"
+        },
+        {
+            "date": "1993-10-18",
+            "duration": "14d 0h 12m 22s",
+            "mission": "STS-58"
+        }
+    ],
+    "first_name": "Margaret Rhea",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/seddon-m.jpg",
+    "last_name": "Seddon",
+    "name": "Margaret Rhea Seddon",
+    "nationality": "American",
+    "selection_date": "1978-01-16",
+    "selection_group": "NASA Group 8",
+    "status": "Retired"
+}

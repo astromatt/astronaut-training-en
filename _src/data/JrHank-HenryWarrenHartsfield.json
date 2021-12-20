@@ -1,0 +1,32 @@
+{
+    "birth_date": "1933-11-21",
+    "birth_place": "Birmingham, Alabama, United States",
+    "died": "2014-07-17",
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1982-06-27",
+            "duration": "7d 1h 9m 31s",
+            "mission": "STS-4"
+        },
+        {
+            "date": "1984-08-30",
+            "duration": "6d 0h 56m 4s",
+            "mission": "41-D"
+        },
+        {
+            "date": "1985-10-30",
+            "duration": "7d 0h 44m 53s",
+            "mission": "61-A"
+        }
+    ],
+    "first_name": "Henry Warren Hartsfield,",
+    "group2": "NASA Group 7 (MOL Pilot Astronaut Transfers) (14 August 1969)",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/hartsfield-h.jpg",
+    "last_name": "Jr.\"Hank\"",
+    "name": "Henry Warren Hartsfield, Jr.\"Hank\"",
+    "nationality": "American",
+    "selection_date": "1966-06-30",
+    "selection_group": "USAF MOL Group 2",
+    "status": "Deceased"
+}

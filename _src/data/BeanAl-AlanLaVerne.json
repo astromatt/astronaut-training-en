@@ -1,0 +1,49 @@
+{
+    "birth_date": "1932-03-15",
+    "birth_place": "Wheeler, Texas, United States",
+    "died": null,
+    "eva_count": 4,
+    "eva_list": [
+        {
+            "date": "1969-11-19",
+            "duration": "3h 56m",
+            "mission": "Apollo 12"
+        },
+        {
+            "date": "1969-11-20",
+            "duration": "3h 49m",
+            "mission": "Apollo 12"
+        },
+        {
+            "date": "1969-11-20",
+            "duration": "5m",
+            "mission": "Apollo 12"
+        },
+        {
+            "date": "1973-09-22",
+            "duration": "2h 45m",
+            "mission": "Skylab 2"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1969-11-14",
+            "duration": "10d 4h 36m 24s",
+            "mission": "Apollo 12"
+        },
+        {
+            "date": "1973-07-28",
+            "duration": "59d 11h 9m 4s",
+            "mission": "Skylab 2"
+        }
+    ],
+    "first_name": "Alan LaVerne",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/bean-a.jpg",
+    "last_name": "Bean\"Al\"",
+    "name": "Alan LaVerne Bean\"Al\"",
+    "nationality": "American",
+    "selection_date": "1963-10-17",
+    "selection_group": "NASA Group 3",
+    "status": "Retired"
+}

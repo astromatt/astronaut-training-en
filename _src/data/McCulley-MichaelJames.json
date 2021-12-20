@@ -1,0 +1,21 @@
+{
+    "birth_date": "1943-08-04",
+    "birth_place": "San Diego, California, United States",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1989-10-18",
+            "duration": "4d 23h 39m 21s",
+            "mission": "STS-34"
+        }
+    ],
+    "first_name": "Michael James",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/mcculley-m.jpg",
+    "last_name": "McCulley",
+    "name": "Michael James McCulley",
+    "nationality": "American",
+    "selection_date": "1984-05-23",
+    "selection_group": "NASA Group 10",
+    "status": "Retired"
+}

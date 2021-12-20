@@ -1,0 +1,26 @@
+{
+    "birth_date": "1964-05-14",
+    "birth_place": "Burlington, Iowa, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2001-03-08",
+            "duration": "12d 19h 49m 33s",
+            "mission": "STS-102"
+        },
+        {
+            "date": "2005-07-26",
+            "duration": "13d 21h 32m 22s",
+            "mission": "STS-114"
+        }
+    ],
+    "first_name": "James McNeal",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/kelly-j.jpg",
+    "last_name": "Kelly\"Vegas\"",
+    "name": "James McNeal Kelly\"Vegas\"",
+    "nationality": "American",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Inactive"
+}

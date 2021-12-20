@@ -1,0 +1,40 @@
+{
+    "birth_date": "1951-10-03",
+    "birth_place": "Paterson, New Jersey, United States",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "1984-10-11",
+            "duration": "3h 33m",
+            "mission": "41-G"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1984-10-05",
+            "duration": "8d 5h 23m 38s",
+            "mission": "41-G"
+        },
+        {
+            "date": "1990-04-24",
+            "duration": "5d 1h 16m 6s",
+            "mission": "STS-31"
+        },
+        {
+            "date": "1992-03-24",
+            "duration": "8d 22h 9m 28s",
+            "mission": "STS-45"
+        }
+    ],
+    "first_name": "Kathryn Dwyer",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/sullivan-k.jpg",
+    "last_name": "Sullivan\"Kathy\"",
+    "name": "Kathryn Dwyer Sullivan\"Kathy\"",
+    "nationality": "American",
+    "notes": "Sullivan became the first American woman to spacewalk.",
+    "selection_date": "1978-01-16",
+    "selection_group": "NASA Group 8",
+    "status": "Retired"
+}

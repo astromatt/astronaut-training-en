@@ -1,0 +1,33 @@
+{
+    "birth_date": "1958-11-19",
+    "birth_place": "Longeville-les-Metz, France",
+    "died": null,
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1994-11-03",
+            "duration": "10d 22h 34m 2s",
+            "mission": "STS-66"
+        },
+        {
+            "date": "1997-05-15",
+            "duration": "9d 5h 19m 56s",
+            "mission": "STS-84"
+        },
+        {
+            "date": "1999-12-20",
+            "duration": "7d 23h 11m 34s",
+            "mission": "STS-103"
+        }
+    ],
+    "first_name": "Jean-Fran\u00e7is",
+    "group2": "NASA Group 14 (14 March 1992)",
+    "group3": "1992 ESA Group (15 May 1992)",
+    "img": "https://www.worldspaceflight.com/bios/photos/france/clervoy-j.jpg",
+    "last_name": "Clervoy",
+    "name": "Jean-Fran\u00e7is   Clervoy",
+    "nationality": "French",
+    "selection_date": "1985-09-18",
+    "selection_group": "CNES Group 2",
+    "status": "Active"
+}

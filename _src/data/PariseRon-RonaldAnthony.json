@@ -1,0 +1,24 @@
+{
+    "birth_date": "1951-05-24",
+    "birth_place": "Warren, Ohio, United States",
+    "died": "2008-05-09",
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1990-12-02",
+            "duration": "8d 23h 5m 8s",
+            "mission": "STS-35"
+        },
+        {
+            "date": "1995-03-02",
+            "duration": "16d 15h 8m 48s",
+            "mission": "STS-67"
+        }
+    ],
+    "first_name": "Ronald Anthony",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/parise-r.jpg",
+    "last_name": "Parise\"Ron\"",
+    "name": "Ronald Anthony Parise\"Ron\"",
+    "nationality": "American",
+    "status": "Deceased"
+}

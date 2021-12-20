@@ -1,0 +1,29 @@
+{
+    "birth_date": "1935-10-25",
+    "birth_place": "Neptune, New Jersey, United States",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "1969-03-06",
+            "duration": "1h 7m",
+            "mission": "Apollo 9"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1969-03-03",
+            "duration": "10d 1h 1m 0s",
+            "mission": "Apollo 9"
+        }
+    ],
+    "first_name": "Russell Luis",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/schweickart-r.jpg",
+    "last_name": "Schweickart\"Rusty\"",
+    "name": "Russell Luis Schweickart\"Rusty\"",
+    "nationality": "American",
+    "selection_date": "1963-10-17",
+    "selection_group": "NASA Group 3",
+    "status": "Retired"
+}

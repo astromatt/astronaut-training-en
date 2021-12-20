@@ -1,0 +1,31 @@
+{
+    "birth_date": "1952-01-24",
+    "birth_place": "Quonset Point, Rhode Island, United States",
+    "died": null,
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1992-01-22",
+            "duration": "8d 1h 14m 44s",
+            "mission": "STS-42"
+        },
+        {
+            "date": "1993-09-12",
+            "duration": "9d 20h 11m 11s",
+            "mission": "STS-51"
+        },
+        {
+            "date": "1996-09-16",
+            "duration": "10d 3h 18m 26s",
+            "mission": "STS-79"
+        }
+    ],
+    "first_name": "William Readdy",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/readdy-w.jpg",
+    "last_name": "Readdy\"Bill\"",
+    "name": "William Readdy Readdy\"Bill\"",
+    "nationality": "American",
+    "selection_date": "1987-06-05",
+    "selection_group": "NASA Group 12",
+    "status": "Retired"
+}

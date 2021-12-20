@@ -1,0 +1,19 @@
+{
+    "birth_date": "1946-06-09",
+    "birth_place": "Carlsbad, New Mexico, United States",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1991-06-05",
+            "duration": "9d 2h 14m 20s",
+            "mission": "STS-40"
+        }
+    ],
+    "first_name": "Francis Andrew",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/gaffney-f.jpg",
+    "last_name": "Gaffney\"Drew\"",
+    "name": "Francis Andrew Gaffney\"Drew\"",
+    "nationality": "American",
+    "status": "Retired"
+}

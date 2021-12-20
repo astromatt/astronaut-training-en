@@ -1,0 +1,20 @@
+{
+    "birth_date": "1956-06-27",
+    "birth_place": "Riyad, Saudi Arabia",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1985-06-17",
+            "duration": "7d 1h 38m 52s",
+            "mission": "51-G"
+        }
+    ],
+    "first_name": "Sultan Salman Abdel-aziz",
+    "img": "https://www.worldspaceflight.com/bios/photos/saudiarabia/al-saud-s.jpg",
+    "last_name": "Al-Saud",
+    "name": "Sultan Salman Abdel-aziz Al-Saud",
+    "nationality": "Saudi",
+    "notes": "During the opening ceremony of the I Congress of the Association of Space Explorers (Cernay, France, 2-6 October 1985), Sultan Salman Al-Saud remarked, \"The first day or so we all pointed to our countries. The third or fourth day we were pointing to our continents. By the fifth day, we were aware of only one Earth.\"",
+    "status": "Inactive"
+}

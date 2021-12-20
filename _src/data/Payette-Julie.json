@@ -1,0 +1,27 @@
+{
+    "birth_date": "1963-10-20",
+    "birth_place": "Montreal, Quebec, Canada",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1999-05-27",
+            "duration": "9d 19h 13m 1s",
+            "mission": "STS-96"
+        },
+        {
+            "date": "2009-07-15",
+            "duration": "15d 16h 44m 58s",
+            "mission": "STS-127"
+        }
+    ],
+    "first_name": "Julie",
+    "group2": "NASA Group 16 (1 May 1996)",
+    "img": "https://www.worldspaceflight.com/bios/photos/canada/payette-j.jpg",
+    "last_name": "Payette",
+    "name": "Julie   Payette",
+    "nationality": "Canadian",
+    "selection_date": "1992-06-09",
+    "selection_group": "CSA Group 2",
+    "status": "Inactive"
+}

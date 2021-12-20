@@ -1,0 +1,24 @@
+{
+    "birth_date": "1941-05-21",
+    "birth_place": "Krasnokutsk , Kharkov Oblast , Ukraine",
+    "death_remarks": "Brain tumor",
+    "died": "1988-08-06",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1987-12-21",
+            "duration": "7d 21h 58m 12s",
+            "mission": "Soyuz TM-4 /Soyuz TM-3"
+        }
+    ],
+    "first_name": "Anatoli S.",
+    "group2": "MAP Group 1 ( 1981)",
+    "img": "https://www.worldspaceflight.com/bios/photos/ukraine/levchenko-a.jpg",
+    "last_name": "Levchenko",
+    "name": "Anatoli S. Levchenko",
+    "nationality": "Russian",
+    "notes": "Levchenko flew on 4 of the 25 Buran approach and landing tests.",
+    "selection_date": "1978-08-03",
+    "selection_group": "Buran Group",
+    "status": "Deceased"
+}

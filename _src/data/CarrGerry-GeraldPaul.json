@@ -1,0 +1,39 @@
+{
+    "birth_date": "1932-08-22",
+    "birth_place": "Denver, Colorado, United States",
+    "died": null,
+    "eva_count": 3,
+    "eva_list": [
+        {
+            "date": "1973-12-25",
+            "duration": "7h 0m",
+            "mission": "Skylab 3"
+        },
+        {
+            "date": "1973-12-29",
+            "duration": "3h 34m",
+            "mission": "Skylab 3"
+        },
+        {
+            "date": "1974-02-03",
+            "duration": "5h 24m",
+            "mission": "Skylab 3"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1973-11-16",
+            "duration": "84d 1h 15m 31s",
+            "mission": "Skylab 3"
+        }
+    ],
+    "first_name": "Gerald Paul",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/carr-g.jpg",
+    "last_name": "Carr\"Gerry\"",
+    "name": "Gerald Paul  Carr\"Gerry\"",
+    "nationality": "American",
+    "selection_date": "1966-04-04",
+    "selection_group": "NASA Group 5",
+    "status": "Retired"
+}

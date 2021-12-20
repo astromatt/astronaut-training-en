@@ -1,0 +1,20 @@
+{
+    "birth_date": "1942-09-29",
+    "birth_place": "Miami, Florida, United States",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1986-01-12",
+            "duration": "6d 2h 3m 51s",
+            "mission": "61-C"
+        }
+    ],
+    "first_name": "Clarence William",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/nelson-c.jpg",
+    "last_name": "Nelson\"Bill\"",
+    "name": "Clarence William Nelson\"Bill\"",
+    "nationality": "American",
+    "notes": "Nelson flew while being a member of Congress from Dade County, Florida.",
+    "status": "Retired"
+}

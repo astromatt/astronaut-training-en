@@ -1,0 +1,36 @@
+{
+    "birth_date": "1931-05-09",
+    "birth_place": "Longmont, Colorado, United States",
+    "died": null,
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1975-07-15",
+            "duration": "9d 1h 28m 24s",
+            "mission": "ASTP"
+        },
+        {
+            "date": "1982-11-11",
+            "duration": "5d 2h 14m 26s",
+            "mission": "STS-5"
+        },
+        {
+            "date": "1984-02-03",
+            "duration": "7d 23h 15m 55s",
+            "mission": "41-B"
+        },
+        {
+            "date": "1990-12-02",
+            "duration": "8d 23h 5m 8s",
+            "mission": "STS-35"
+        }
+    ],
+    "first_name": "Vance DeVoe",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/brand-v.jpg",
+    "last_name": "Brand",
+    "name": "Vance DeVoe Brand",
+    "nationality": "American",
+    "selection_date": "1966-04-04",
+    "selection_group": "NASA Group 5",
+    "status": "Retired"
+}

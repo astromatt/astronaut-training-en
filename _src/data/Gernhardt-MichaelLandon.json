@@ -1,0 +1,59 @@
+{
+    "birth_date": "1956-05-04",
+    "birth_place": "Mansfield, Ohio, United States",
+    "died": null,
+    "eva_count": 4,
+    "eva_list": [
+        {
+            "date": "1995-09-16",
+            "duration": "6h 46m",
+            "mission": "STS-69"
+        },
+        {
+            "date": "2001-07-15",
+            "duration": "5h 59m",
+            "mission": "STS-104"
+        },
+        {
+            "date": "2001-07-18",
+            "duration": "6h 29m",
+            "mission": "STS-104"
+        },
+        {
+            "date": "2001-07-21",
+            "duration": "4h 2m",
+            "mission": "STS-104"
+        }
+    ],
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1995-09-07",
+            "duration": "10d 20h 28m 56s",
+            "mission": "STS-69"
+        },
+        {
+            "date": "1997-04-04",
+            "duration": "3d 23h 12m 39s",
+            "mission": "STS-83"
+        },
+        {
+            "date": "1997-07-01",
+            "duration": "15d 16h 44m 34s",
+            "mission": "STS-94"
+        },
+        {
+            "date": "2001-07-12",
+            "duration": "12d 18h 34m 56s",
+            "mission": "STS-104"
+        }
+    ],
+    "first_name": "Michael Landon",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/gernhardt-m.jpg",
+    "last_name": "Gernhardt",
+    "name": "Michael Landon Gernhardt",
+    "nationality": "American",
+    "selection_date": "1992-03-14",
+    "selection_group": "NASA Group 14",
+    "status": "Inactive"
+}

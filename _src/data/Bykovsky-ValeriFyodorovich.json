@@ -1,0 +1,32 @@
+{
+    "birth_date": "1934-08-02",
+    "birth_place": "Pavlovsky Posad, Moscow Oblast, Russia",
+    "died": null,
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1963-06-14",
+            "duration": "4d 23h 8m 0s",
+            "mission": "Vostok 5"
+        },
+        {
+            "date": "1976-09-15",
+            "duration": "7d 21h 52m 17s",
+            "mission": "Soyuz 22"
+        },
+        {
+            "date": "1978-08-26",
+            "duration": "7d 20h 49m 4s",
+            "mission": "Soyuz 31 /Soyuz 29"
+        }
+    ],
+    "first_name": "Valeri Fyodorovich",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/bykovsky-v.jpg",
+    "last_name": "Bykovsky",
+    "name": "Valeri Fyodorovich Bykovsky",
+    "nationality": "Russian",
+    "notes": "Bykovsky had been assigned to the second Soviet circumlunar flight, which was cancelled after the success of Apollo 8.",
+    "selection_date": "1960-03-07",
+    "selection_group": "Air Force Group 1",
+    "status": "Retired"
+}

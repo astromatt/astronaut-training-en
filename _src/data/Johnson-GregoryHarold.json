@@ -1,0 +1,26 @@
+{
+    "birth_date": "1962-05-12",
+    "birth_place": "Upper Ruislip, Middlesex, United Kingdom",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2008-03-11",
+            "duration": "15d 18h 12m 27s",
+            "mission": "STS-123"
+        },
+        {
+            "date": "2011-05-16",
+            "duration": "15d 17h 38m 51s",
+            "mission": "STS-134"
+        }
+    ],
+    "first_name": "Gregory Harold",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedkingdom/johnson-gh.jpg",
+    "last_name": "Johnson",
+    "name": "Gregory  Harold Johnson",
+    "nationality": "American",
+    "selection_date": "1998-06-04",
+    "selection_group": "NASA Group 17",
+    "status": "Inactive"
+}

@@ -1,0 +1,34 @@
+{
+    "birth_date": "1946-04-01",
+    "birth_place": "Dallas, Texas, United States",
+    "died": null,
+    "eva_count": 2,
+    "eva_list": [
+        {
+            "date": "1985-08-31",
+            "duration": "7h 8m",
+            "mission": "51-I"
+        },
+        {
+            "date": "1985-09-01",
+            "duration": "4h 41m",
+            "mission": "51-I"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1985-08-27",
+            "duration": "7d 2h 17m 42s",
+            "mission": "51-I"
+        }
+    ],
+    "first_name": "William Frederick",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/fisher-w.jpg",
+    "last_name": "Fisher",
+    "name": "William Frederick Fisher",
+    "nationality": "American",
+    "selection_date": "1980-05-19",
+    "selection_group": "NASA Group 9",
+    "status": "Retired"
+}

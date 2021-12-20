@@ -1,0 +1,22 @@
+{
+    "birth_date": "1935-08-03",
+    "birth_place": "Rovenki, Lugansk Oblast, Ukraine",
+    "death_remarks": "Heart attack",
+    "died": "1997-04-07",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1969-10-11",
+            "duration": "4d 22h 42m 47s",
+            "mission": "Soyuz 6"
+        }
+    ],
+    "first_name": "Georgi Stepanovich",
+    "img": "https://www.worldspaceflight.com/bios/photos/ukraine/shonin-g.jpg",
+    "last_name": "Shonin",
+    "name": "Georgi Stepanovich Shonin",
+    "nationality": "Russian",
+    "selection_date": "1960-03-07",
+    "selection_group": "Air Force Group 1",
+    "status": "Deceased"
+}

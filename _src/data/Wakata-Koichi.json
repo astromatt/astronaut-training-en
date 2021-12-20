@@ -1,0 +1,37 @@
+{
+    "birth_date": "1963-08-01",
+    "birth_place": "Omiya, Japan",
+    "died": null,
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1996-01-11",
+            "duration": "8d 22h 0m 41s",
+            "mission": "STS-72"
+        },
+        {
+            "date": "2000-10-11",
+            "duration": "12d 21h 40m 25s",
+            "mission": "STS-92"
+        },
+        {
+            "date": "2009-03-15",
+            "duration": "137d 15h 4m 24s",
+            "mission": "STS-119 /STS-127"
+        },
+        {
+            "date": "2013-11-07",
+            "duration": "187d 21h 44m 15s",
+            "mission": "Soyuz TMA-11M"
+        }
+    ],
+    "first_name": "Koichi",
+    "group2": "NASA Group 14 (14 March 1992)",
+    "img": "https://www.worldspaceflight.com/bios/photos/japan/wakata-k.jpg",
+    "last_name": "Wakata",
+    "name": "Koichi   Wakata",
+    "nationality": "Japanese",
+    "selection_date": "April  1992",
+    "selection_group": "NASDA Group 2",
+    "status": "Active"
+}

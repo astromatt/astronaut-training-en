@@ -1,0 +1,88 @@
+{
+    "birth_date": "1926-05-04",
+    "birth_place": "Crookton, Minnesota, United States",
+    "death_remarks": "Natural causes",
+    "died": "1993-08-06",
+    "first_name": "Milton Orville",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/thompson-m.jpg",
+    "last_name": "Thompson",
+    "name": "Milton Orville Thompson",
+    "nationality": "American",
+    "notes": "Thompson trained for the X-20 program from April 1960 until program cancellation in December 1963. He later made 14 flights in the X-15, none qualifying as space flights.",
+    "selection_date": "1960-04-01",
+    "selection_group": "Dyna-Soar Group 1",
+    "significant_flight_count": 14,
+    "significant_flight_list": [
+        {
+            "date": "1963-10-29",
+            "duration": "8m 43s",
+            "mission": "X-15 Flight #93"
+        },
+        {
+            "date": "1963-11-27",
+            "duration": "7m 4s",
+            "mission": "X-15 Flight #96"
+        },
+        {
+            "date": "1964-01-16",
+            "duration": "8m 17s",
+            "mission": "X-15 Flight #99"
+        },
+        {
+            "date": "1964-02-19",
+            "duration": "7m 3s",
+            "mission": "X-15 Flight #101"
+        },
+        {
+            "date": "1964-05-21",
+            "duration": "7m 56s",
+            "mission": "X-15 Flight #108"
+        },
+        {
+            "date": "1964-08-12",
+            "duration": "6m 43s",
+            "mission": "X-15 Flight #113"
+        },
+        {
+            "date": "1964-09-03",
+            "duration": "6m 18s",
+            "mission": "X-15 Flight #116"
+        },
+        {
+            "date": "1964-10-30",
+            "duration": "7m 10s",
+            "mission": "X-15 Flight #120"
+        },
+        {
+            "date": "1964-12-09",
+            "duration": "6m 26s",
+            "mission": "X-15 Flight #122"
+        },
+        {
+            "date": "1965-01-13",
+            "duration": "6m 48s",
+            "mission": "X-15 Flight #125"
+        },
+        {
+            "date": "1965-05-25",
+            "duration": "9m 2s",
+            "mission": "X-15 Flight #133"
+        },
+        {
+            "date": "1965-06-17",
+            "duration": "8m 54s",
+            "mission": "X-15 Flight #136"
+        },
+        {
+            "date": "1965-08-06",
+            "duration": "10m 13s",
+            "mission": "X-15 Flight #142"
+        },
+        {
+            "date": "1965-08-25",
+            "duration": "8m 52s",
+            "mission": "X-15 Flight #144"
+        }
+    ],
+    "status": "Deceased"
+}

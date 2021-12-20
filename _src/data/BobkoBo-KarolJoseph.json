@@ -1,0 +1,32 @@
+{
+    "birth_date": "1937-12-23",
+    "birth_place": "New York, New York, United States",
+    "died": null,
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1983-04-04",
+            "duration": "5d 0h 23m 42s",
+            "mission": "STS-6"
+        },
+        {
+            "date": "1985-04-12",
+            "duration": "6d 23h 55m 23s",
+            "mission": "51-D"
+        },
+        {
+            "date": "1985-10-03",
+            "duration": "4d 1h 44m 38s",
+            "mission": "51-J"
+        }
+    ],
+    "first_name": "Karol Joseph",
+    "group2": "NASA Group 7 (MOL Pilot Astronaut Transfers) (14 August 1969)",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/bobko-k.jpg",
+    "last_name": "Bobko\"Bo\"",
+    "name": "Karol Joseph Bobko\"Bo\"",
+    "nationality": "American",
+    "selection_date": "1966-06-30",
+    "selection_group": "USAF MOL Group 2",
+    "status": "Retired"
+}

@@ -1,0 +1,21 @@
+{
+    "birth_date": "1948-09-24",
+    "birth_place": "Ceske Budejovice , Czech Republic",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1978-03-02",
+            "duration": "7d 22h 16m 0s",
+            "mission": "Soyuz 28"
+        }
+    ],
+    "first_name": "Vladimir",
+    "img": "https://www.worldspaceflight.com/bios/photos/czechrepublic/remek-v.jpg",
+    "last_name": "Remek",
+    "name": "Vladimir   Remek",
+    "nationality": "Czech",
+    "selection_date": "1976-11-25",
+    "selection_group": "1976 Intercosmos Group",
+    "status": "Retired"
+}

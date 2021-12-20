@@ -1,0 +1,21 @@
+{
+    "birth_date": "1958-02-03",
+    "birth_place": "Richmond, Virginia, United States",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1998-01-23",
+            "duration": "8d 19h 46m 54s",
+            "mission": "STS-89"
+        }
+    ],
+    "first_name": "Joe Frank Edwards,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/edwards-j.jpg",
+    "last_name": "Jr.",
+    "name": "Joe Frank Edwards, Jr.",
+    "nationality": "American",
+    "selection_date": "1994-12-08",
+    "selection_group": "NASA Group 15",
+    "status": "Retired"
+}

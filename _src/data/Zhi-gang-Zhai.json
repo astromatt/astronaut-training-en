@@ -1,0 +1,29 @@
+{
+    "birth_date": "1966-12-10",
+    "birth_place": "Longjiang County, Qiqihar, Heilongjiang Province, China",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "2008-09-27",
+            "duration": "14m",
+            "mission": "ShenZhou 7"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2008-09-25",
+            "duration": "2d 20h 27m 35s",
+            "mission": "ShenZhou 7"
+        }
+    ],
+    "first_name": "Zhai",
+    "img": "https://www.worldspaceflight.com/bios/photos/china/zhai-z.jpg",
+    "last_name": "Zhi-gang",
+    "name": "Zhai   Zhi-gang",
+    "nationality": "Chinese",
+    "selection_date": "January  1998",
+    "selection_group": "Group 1",
+    "status": "Active"
+}

@@ -1,0 +1,31 @@
+{
+    "birth_date": "1934-12-03",
+    "birth_place": "Ventsy-Zarya , Krasnodar Krai , Russia",
+    "died": "2017-05-17",
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1969-10-12",
+            "duration": "4d 22h 40m 23s",
+            "mission": "Soyuz 7"
+        },
+        {
+            "date": "1977-02-07",
+            "duration": "17d 17h 27m 0s",
+            "mission": "Soyuz 24"
+        },
+        {
+            "date": "1980-07-23",
+            "duration": "7d 20h 41m 59s",
+            "mission": "Soyuz 37 /Soyuz 36"
+        }
+    ],
+    "first_name": "Viktor Vassilyevich",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/gorbatko-v.jpg",
+    "last_name": "Gorbatko",
+    "name": "Viktor Vassilyevich Gorbatko",
+    "nationality": "Russian",
+    "selection_date": "1960-03-07",
+    "selection_group": "Air Force Group 1",
+    "status": "Deceased"
+}

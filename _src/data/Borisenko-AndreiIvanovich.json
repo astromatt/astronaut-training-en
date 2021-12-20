@@ -1,0 +1,26 @@
+{
+    "birth_date": "1964-04-17",
+    "birth_place": "Leningrad, Russia",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2011-04-04",
+            "duration": "164d 5h 41m 24s",
+            "mission": "Soyuz TMA-21"
+        },
+        {
+            "date": "2016-10-19",
+            "duration": "173d 3h 14m 46s",
+            "mission": "Soyuz MS-02"
+        }
+    ],
+    "first_name": "Andrei Ivanovich",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/borisenko-a.jpg",
+    "last_name": "Borisenko",
+    "name": "Andrei  Ivanovich Borisenko",
+    "nationality": "Russian",
+    "selection_date": "2003-05-29",
+    "selection_group": "Energia Engineer Group 15",
+    "status": "Active"
+}

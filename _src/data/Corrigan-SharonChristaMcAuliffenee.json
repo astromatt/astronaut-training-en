@@ -1,0 +1,23 @@
+{
+    "birth_date": "1948-09-02",
+    "birth_place": "Boston, Massachusetts, United States",
+    "death_remarks": "Challenger explosion",
+    "died": "1986-01-28",
+    "first_name": "Sharon Christa McAuliffenee:",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/mcauliffe-s.jpg",
+    "last_name": "Corrigan",
+    "name": "Sharon Christa McAuliffenee: Corrigan",
+    "nationality": "American",
+    "notes": "Christa McAuliffe, a teacher at Concord High School (New Hampshire), was selected in 1984 for the Teacher in Space Program. Because of her popularity and the attention she received, the Challenger 51-L flight created much excitement. Her death contributed\u00a0 significantly to the Challenger tragedy. Christa held a masters degree in education from Bowie State College, Bowie, Maryland. She was married with two children.",
+    "selection_date": "1985-07-19",
+    "selection_group": "NASA Teacher In Space Program",
+    "significant_flight_count": 1,
+    "significant_flight_list": [
+        {
+            "date": "1986-01-28",
+            "duration": "73s",
+            "mission": "51-L"
+        }
+    ],
+    "status": "Deceased"
+}

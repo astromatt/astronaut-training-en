@@ -1,0 +1,49 @@
+{
+    "birth_date": "1959-05-07",
+    "birth_place": "Chattanooga, Tennessee, United States",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "1999-05-30",
+            "duration": "7h 55m",
+            "mission": "STS-96"
+        }
+    ],
+    "fai_flight_count": 5,
+    "fai_flight_list": [
+        {
+            "date": "1991-06-05",
+            "duration": "9d 2h 14m 20s",
+            "mission": "STS-40"
+        },
+        {
+            "date": "1992-10-22",
+            "duration": "9d 20h 56m 13s",
+            "mission": "STS-52"
+        },
+        {
+            "date": "1995-03-02",
+            "duration": "16d 15h 8m 48s",
+            "mission": "STS-67"
+        },
+        {
+            "date": "1996-11-19",
+            "duration": "17d 15h 53m 18s",
+            "mission": "STS-80"
+        },
+        {
+            "date": "1999-05-27",
+            "duration": "9d 19h 13m 1s",
+            "mission": "STS-96"
+        }
+    ],
+    "first_name": "Tamara Elizabeth",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/jernigan-t.jpg",
+    "last_name": "Jernigan\"Tammy\"",
+    "name": "Tamara Elizabeth Jernigan\"Tammy\"",
+    "nationality": "American",
+    "selection_date": "1985-06-04",
+    "selection_group": "NASA Group 11",
+    "status": "Retired"
+}

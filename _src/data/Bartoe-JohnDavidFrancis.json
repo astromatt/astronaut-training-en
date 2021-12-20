@@ -1,0 +1,19 @@
+{
+    "birth_date": "1944-11-17",
+    "birth_place": "Abington, Pennsylvania, United States",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1985-07-29",
+            "duration": "7d 22h 45m 26s",
+            "mission": "51-F"
+        }
+    ],
+    "first_name": "John David Francis",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/bartoe-j.jpg",
+    "last_name": "Bartoe",
+    "name": "John David Francis Bartoe",
+    "nationality": "American",
+    "status": "Retired"
+}

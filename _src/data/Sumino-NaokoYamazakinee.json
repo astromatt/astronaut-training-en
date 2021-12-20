@@ -1,0 +1,22 @@
+{
+    "birth_date": "1970-12-27",
+    "birth_place": "Matsudo City, Chiba Prefecture, Japan",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2010-04-05",
+            "duration": "15d 2h 47m 10s",
+            "mission": "STS-131"
+        }
+    ],
+    "first_name": "Naoko Yamazakinee:",
+    "group2": "NASA Group 19 (6 May 2004)",
+    "img": "https://www.worldspaceflight.com/bios/photos/japan/yamazaki-n.jpg",
+    "last_name": "Sumino",
+    "name": "Naoko   Yamazakinee: Sumino",
+    "nationality": "Japanese",
+    "selection_date": "February  1999",
+    "selection_group": "NASDA Group 4",
+    "status": "Retired"
+}

@@ -1,0 +1,41 @@
+{
+    "birth_date": "1922-05-16",
+    "birth_place": "Holdrege, Nebraska, United States",
+    "death_remarks": "Natural causes",
+    "died": "1990-12-08",
+    "first_name": "Forrest Silas",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/peterson-f.jpg",
+    "last_name": "Peterson",
+    "name": "Forrest Silas Peterson",
+    "nationality": "American",
+    "notes": "Peterson was the only U.S. Navy pilot to fly the X-15. He never exceeded 80,000 meters in altitude and therefore never earned astronaut wings.",
+    "significant_flight_count": 5,
+    "significant_flight_list": [
+        {
+            "date": "1960-09-23",
+            "duration": "7m 40s",
+            "mission": "X-15 Flight #22"
+        },
+        {
+            "date": "1960-10-20",
+            "duration": "9m 26s",
+            "mission": "X-15 Flight #23"
+        },
+        {
+            "date": "1961-08-10",
+            "duration": "9m 24s",
+            "mission": "X-15 Flight #39"
+        },
+        {
+            "date": "1961-09-28",
+            "duration": "8m 42s",
+            "mission": "X-15 Flight #41"
+        },
+        {
+            "date": "1962-01-10",
+            "duration": "3m 46s",
+            "mission": "X-15 Flight #47"
+        }
+    ],
+    "status": "Deceased"
+}

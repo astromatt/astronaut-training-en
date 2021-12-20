@@ -1,0 +1,24 @@
+{
+    "birth_date": "1953",
+    "birth_place": "United States",
+    "brian's spaceshipone log": "1) Flight 10G, 4 December 2003, glide test2) Flight 11P, 17 December 2003, first powered test, first civilian aircraft to exceed the sound barrier3) Flight 17P, 4 October 2004, X-Prize winning flight, breaking the X-15 altitude record",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2004-10-04",
+            "duration": "24m 0s",
+            "mission": "SpaceShipOne 17P"
+        }
+    ],
+    "first_name": "Brian",
+    "group2": "SpaceShipTwo (28 September 2006)",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/binnie-b.jpg",
+    "last_name": "Binnie",
+    "name": "Brian Binnie",
+    "nationality": "American",
+    "notes": "Brian was the first to exceed the sound barrier in a civilian designed and built aircraft in SpaceShipOne on 17 December 2003. His 4 October 2004 flight was the first to exceed the maximum altitude record set by Joseph Walker in a X-15 on 22 August 1963.",
+    "selection_date": "2003-09-11",
+    "selection_group": "SpaceShipOne",
+    "status": "Active"
+}

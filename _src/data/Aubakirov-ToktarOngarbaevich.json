@@ -1,0 +1,21 @@
+{
+    "birth_date": "1946-07-17",
+    "birth_place": "Karkaralinsk, Kazakhstan",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1991-10-02",
+            "duration": "7d 22h 12m 40s",
+            "mission": "Soyuz TM-13 /Soyuz TM-12"
+        }
+    ],
+    "first_name": "Toktar Ongarbaevich",
+    "img": "https://www.worldspaceflight.com/bios/photos/kazakhstan/aubakirov-t.jpg",
+    "last_name": "Aubakirov",
+    "name": "Toktar Ongarbaevich Aubakirov",
+    "nationality": "Kazakh",
+    "selection_date": "1991-01-21",
+    "selection_group": "Kazakhstan Group",
+    "status": "Retired"
+}

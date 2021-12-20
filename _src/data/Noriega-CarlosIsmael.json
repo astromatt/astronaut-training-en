@@ -1,0 +1,44 @@
+{
+    "birth_date": "1959-10-08",
+    "birth_place": "Lima, Peru",
+    "died": null,
+    "eva_count": 3,
+    "eva_list": [
+        {
+            "date": "2000-12-03",
+            "duration": "7h 33m",
+            "mission": "STS-97"
+        },
+        {
+            "date": "2000-12-05",
+            "duration": "6h 37m",
+            "mission": "STS-97"
+        },
+        {
+            "date": "2000-12-07",
+            "duration": "5h 10m",
+            "mission": "STS-97"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1997-05-15",
+            "duration": "9d 5h 19m 56s",
+            "mission": "STS-84"
+        },
+        {
+            "date": "2000-12-01",
+            "duration": "10d 19h 57m 24s",
+            "mission": "STS-97"
+        }
+    ],
+    "first_name": "Carlos Ismael",
+    "img": "https://www.worldspaceflight.com/bios/photos/peru/noriega-c.jpg",
+    "last_name": "Noriega",
+    "name": "Carlos Ismael Noriega",
+    "nationality": "American",
+    "selection_date": "1994-12-08",
+    "selection_group": "NASA Group 15",
+    "status": "Retired"
+}

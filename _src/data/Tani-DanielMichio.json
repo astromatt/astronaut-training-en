@@ -1,0 +1,59 @@
+{
+    "birth_date": "1961-02-01",
+    "birth_place": "Ridley Park, Pennsylvania, United States",
+    "died": null,
+    "eva_count": 6,
+    "eva_list": [
+        {
+            "date": "2001-12-10",
+            "duration": "4h 12m",
+            "mission": "STS-108"
+        },
+        {
+            "date": "2007-10-28",
+            "duration": "6h 33m",
+            "mission": "STS-120"
+        },
+        {
+            "date": "2007-11-20",
+            "duration": "7h 16m",
+            "mission": "ISS Expedition 16"
+        },
+        {
+            "date": "2007-11-24",
+            "duration": "7h 4m",
+            "mission": "ISS Expedition 16"
+        },
+        {
+            "date": "2007-12-18",
+            "duration": "6h 56m",
+            "mission": "ISS Expedition 16"
+        },
+        {
+            "date": "2008-01-30",
+            "duration": "7h 10m",
+            "mission": "ISS Expedition 16"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2001-12-05",
+            "duration": "11d 19h 35m 42s",
+            "mission": "STS-108"
+        },
+        {
+            "date": "2007-10-23",
+            "duration": "119d 22h 29m 49s",
+            "mission": "STS-120 /STS-122"
+        }
+    ],
+    "first_name": "Daniel Michio",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/tani-d.jpg",
+    "last_name": "Tani",
+    "name": "Daniel Michio Tani",
+    "nationality": "American",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Retired"
+}

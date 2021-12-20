@@ -1,0 +1,22 @@
+{
+    "birth_date": "1946-10-10",
+    "birth_place": "Genova, Italy",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1992-07-31",
+            "duration": "7d 23h 15m 3s",
+            "mission": "STS-46"
+        }
+    ],
+    "first_name": "Franco Egidio",
+    "group2": "Italian Space Agency Group (1 May 1989)",
+    "img": "https://www.worldspaceflight.com/bios/photos/italy/malerba-f.jpg",
+    "last_name": "Malerba",
+    "name": "Franco Egidio  Malerba",
+    "nationality": "Italian",
+    "selection_date": "1978-05-01",
+    "selection_group": "Spacelab Payload Specialists Group 1",
+    "status": "Inactive"
+}

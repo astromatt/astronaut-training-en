@@ -1,0 +1,36 @@
+{
+    "birth_date": "1946-08-24",
+    "birth_place": "Key West, Florida, United States",
+    "died": null,
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1989-08-08",
+            "duration": "5d 1h 0m 8s",
+            "mission": "STS-28"
+        },
+        {
+            "date": "1990-10-06",
+            "duration": "4d 2h 10m 4s",
+            "mission": "STS-41"
+        },
+        {
+            "date": "1992-06-25",
+            "duration": "13d 19h 30m 4s",
+            "mission": "STS-50"
+        },
+        {
+            "date": "1994-09-09",
+            "duration": "10d 22h 49m 57s",
+            "mission": "STS-64"
+        }
+    ],
+    "first_name": "Richard Noel Richards\"Dick",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/richards-r.jpg",
+    "last_name": "\"",
+    "name": "Richard Noel Richards\"Dick \"",
+    "nationality": "American",
+    "selection_date": "1980-05-19",
+    "selection_group": "NASA Group 9",
+    "status": "Retired"
+}

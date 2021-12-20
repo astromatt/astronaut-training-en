@@ -1,0 +1,49 @@
+{
+    "birth_date": "1967-05-17",
+    "birth_place": "Inglewood, California, United States",
+    "died": null,
+    "eva_count": 3,
+    "eva_list": [
+        {
+            "date": "2009-03-21",
+            "duration": "6h 30m",
+            "mission": "STS-119"
+        },
+        {
+            "date": "2009-03-23",
+            "duration": "6h 27m",
+            "mission": "STS-119"
+        },
+        {
+            "date": "2017-10-20",
+            "duration": "6h 49m",
+            "mission": "ISS Expedition 53"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "2009-03-15",
+            "duration": "12d 19h 29m 33s",
+            "mission": "STS-119"
+        },
+        {
+            "date": "2012-05-15",
+            "duration": "124d 23h 51m 37s",
+            "mission": "Soyuz TMA-04M"
+        },
+        {
+            "date": "2017-09-12",
+            "duration": "168d 5h 13m 58s",
+            "mission": "Soyuz MS-06"
+        }
+    ],
+    "first_name": "Joseph M.",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/acaba-j.jpg",
+    "last_name": "Acaba",
+    "name": "Joseph M. Acaba",
+    "nationality": "American",
+    "selection_date": "2004-05-06",
+    "selection_group": "NASA Group 19",
+    "status": "Active"
+}

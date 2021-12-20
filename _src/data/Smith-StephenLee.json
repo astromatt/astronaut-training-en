@@ -1,0 +1,74 @@
+{
+    "birth_date": "1958-12-30",
+    "birth_place": "Phoenix, Arizona, United States",
+    "died": null,
+    "eva_count": 7,
+    "eva_list": [
+        {
+            "date": "1997-02-14",
+            "duration": "6h 42m",
+            "mission": "STS-82"
+        },
+        {
+            "date": "1997-02-16",
+            "duration": "7h 11m",
+            "mission": "STS-82"
+        },
+        {
+            "date": "1997-02-18",
+            "duration": "5h 17m",
+            "mission": "STS-82"
+        },
+        {
+            "date": "1999-12-22",
+            "duration": "8h 15m",
+            "mission": "STS-103"
+        },
+        {
+            "date": "1999-12-24",
+            "duration": "8h 8m",
+            "mission": "STS-103"
+        },
+        {
+            "date": "2002-04-11",
+            "duration": "7h 48m",
+            "mission": "STS-110"
+        },
+        {
+            "date": "2002-04-14",
+            "duration": "6h 27m",
+            "mission": "STS-110"
+        }
+    ],
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1994-09-30",
+            "duration": "11d 5h 46m 8s",
+            "mission": "STS-68"
+        },
+        {
+            "date": "1997-02-11",
+            "duration": "9d 23h 37m 9s",
+            "mission": "STS-82"
+        },
+        {
+            "date": "1999-12-20",
+            "duration": "7d 23h 11m 34s",
+            "mission": "STS-103"
+        },
+        {
+            "date": "2002-04-08",
+            "duration": "10d 19h 42m 38s",
+            "mission": "STS-110"
+        }
+    ],
+    "first_name": "Stephen Lee",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/smith-s.jpg",
+    "last_name": "Smith",
+    "name": "Stephen Lee Smith",
+    "nationality": "American",
+    "selection_date": "1992-03-14",
+    "selection_group": "NASA Group 14",
+    "status": "Inactive"
+}

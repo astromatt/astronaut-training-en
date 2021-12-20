@@ -1,0 +1,41 @@
+{
+    "birth_date": "1956-08-07",
+    "birth_place": "Del Norte, Colorado, United States",
+    "died": null,
+    "fai_flight_count": 5,
+    "fai_flight_list": [
+        {
+            "date": "1995-10-20",
+            "duration": "15d 21h 52m 21s",
+            "mission": "STS-73"
+        },
+        {
+            "date": "1996-11-19",
+            "duration": "17d 15h 53m 18s",
+            "mission": "STS-80"
+        },
+        {
+            "date": "1997-08-07",
+            "duration": "11d 20h 26m 59s",
+            "mission": "STS-85"
+        },
+        {
+            "date": "1999-05-27",
+            "duration": "9d 19h 13m 1s",
+            "mission": "STS-96"
+        },
+        {
+            "date": "2001-04-19",
+            "duration": "11d 21h 30m 0s",
+            "mission": "STS-100"
+        }
+    ],
+    "first_name": "Kent Vernon",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/rominger-k.jpg",
+    "last_name": "Rominger",
+    "name": "Kent Vernon Rominger",
+    "nationality": "American",
+    "selection_date": "1992-03-14",
+    "selection_group": "NASA Group 14",
+    "status": "Retired"
+}

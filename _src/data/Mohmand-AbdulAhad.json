@@ -1,0 +1,21 @@
+{
+    "birth_date": "1959-01-01",
+    "birth_place": "Sardah, Afghanistan",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1988-08-29",
+            "duration": "8d 20h 26m 27s",
+            "mission": "Soyuz TM-6 /Soyuz TM-5"
+        }
+    ],
+    "first_name": "Abdul Ahad",
+    "img": "https://www.worldspaceflight.com/bios/photos/afghanistan/mohmand-a.jpg",
+    "last_name": "Mohmand",
+    "name": "Abdul Ahad Mohmand",
+    "nationality": "Afghan",
+    "selection_date": "1988-02-12",
+    "selection_group": "International Group",
+    "status": "Retired"
+}

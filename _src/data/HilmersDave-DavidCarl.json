@@ -1,0 +1,36 @@
+{
+    "birth_date": "1950-01-28",
+    "birth_place": "Clinton, Iowa, United States",
+    "died": null,
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1985-10-03",
+            "duration": "4d 1h 44m 38s",
+            "mission": "51-J"
+        },
+        {
+            "date": "1988-09-29",
+            "duration": "4d 1h 0m 11s",
+            "mission": "STS-26"
+        },
+        {
+            "date": "1990-02-28",
+            "duration": "4d 10h 18m 22s",
+            "mission": "STS-36"
+        },
+        {
+            "date": "1992-01-22",
+            "duration": "8d 1h 14m 44s",
+            "mission": "STS-42"
+        }
+    ],
+    "first_name": "David Carl",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/hilmers-d.jpg",
+    "last_name": "Hilmers\"Dave\"",
+    "name": "David Carl Hilmers\"Dave\"",
+    "nationality": "American",
+    "selection_date": "1980-05-19",
+    "selection_group": "NASA Group 9",
+    "status": "Retired"
+}

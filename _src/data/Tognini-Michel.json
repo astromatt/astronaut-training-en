@@ -1,0 +1,28 @@
+{
+    "birth_date": "1949-09-30",
+    "birth_place": "Vincennes , France",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1992-07-27",
+            "duration": "13d 18h 56m 20s",
+            "mission": "Soyuz TM-15 /Soyuz TM-14"
+        },
+        {
+            "date": "1999-07-23",
+            "duration": "4d 22h 49m 37s",
+            "mission": "STS-93"
+        }
+    ],
+    "first_name": "Michel",
+    "group2": "International Group (9 September 1986)",
+    "group3": "1999 ESA Group (1 November 1999)",
+    "img": "https://www.worldspaceflight.com/bios/photos/france/tognini-m.jpg",
+    "last_name": "Tognini",
+    "name": "Michel   Tognini",
+    "nationality": "French",
+    "selection_date": "1985-09-18",
+    "selection_group": "CNES Group 2",
+    "status": "Inactive"
+}

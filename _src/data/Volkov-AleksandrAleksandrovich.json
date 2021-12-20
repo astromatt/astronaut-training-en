@@ -1,0 +1,45 @@
+{
+    "birth_date": "1948-05-27",
+    "birth_place": "Gorlovka, Donetsk Oblast, Ukraine",
+    "died": null,
+    "eva_count": 2,
+    "eva_list": [
+        {
+            "date": "1988-12-09",
+            "duration": "6h 0m",
+            "mission": "EO-3/4"
+        },
+        {
+            "date": "1992-02-20",
+            "duration": "4h 12m",
+            "mission": "EO-10"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1985-09-17",
+            "duration": "64d 21h 52m 8s",
+            "mission": "Soyuz T-14"
+        },
+        {
+            "date": "1988-11-26",
+            "duration": "151d 11h 8m 24s",
+            "mission": "Soyuz TM-7"
+        },
+        {
+            "date": "1991-10-02",
+            "duration": "175d 2h 51m 44s",
+            "mission": "Soyuz TM-13"
+        }
+    ],
+    "first_name": "Aleksandr Aleksandrovich",
+    "img": "https://www.worldspaceflight.com/bios/photos/ukraine/volkov-a.jpg",
+    "last_name": "Volkov",
+    "name": "Aleksandr Aleksandrovich Volkov",
+    "nationality": "Russian",
+    "notes": "Aleksandr Volkov is the father of Sergey Volkov.",
+    "selection_date": "1976-08-23",
+    "selection_group": "Air Force Group 6",
+    "status": "Retired"
+}

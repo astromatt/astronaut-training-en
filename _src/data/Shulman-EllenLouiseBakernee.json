@@ -1,0 +1,31 @@
+{
+    "birth_date": "1953-04-27",
+    "birth_place": "Fayetteville, North Carolina, United States",
+    "died": null,
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1989-10-18",
+            "duration": "4d 23h 39m 21s",
+            "mission": "STS-34"
+        },
+        {
+            "date": "1992-06-25",
+            "duration": "13d 19h 30m 4s",
+            "mission": "STS-50"
+        },
+        {
+            "date": "1995-06-27",
+            "duration": "9d 19h 22m 15s",
+            "mission": "STS-71"
+        }
+    ],
+    "first_name": "Ellen Louise Bakernee:",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/baker-e.jpg",
+    "last_name": "Shulman",
+    "name": "Ellen Louise Bakernee: Shulman",
+    "nationality": "American",
+    "selection_date": "1984-05-23",
+    "selection_group": "NASA Group 10",
+    "status": "Inactive"
+}

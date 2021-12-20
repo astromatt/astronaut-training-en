@@ -1,0 +1,26 @@
+{
+    "birth_date": "1971-10-12",
+    "birth_place": "Cherven, Belarus",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2012-10-23",
+            "duration": "143d 16h 19m 49s",
+            "mission": "Soyuz TMA-06M"
+        },
+        {
+            "date": "2016-11-17",
+            "duration": "196d 17h 49m 47s",
+            "mission": "Soyuz MS-03"
+        }
+    ],
+    "first_name": "Oleg Viktorovich",
+    "img": "https://www.worldspaceflight.com/bios/photos/belarus/novitskiy-o.jpg",
+    "last_name": "Novitskiy",
+    "name": "Oleg Viktorovich Novitskiy",
+    "nationality": "Russian",
+    "selection_date": "2006-10-28",
+    "selection_group": "Air Force Group 14",
+    "status": "Active"
+}

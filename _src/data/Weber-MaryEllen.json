@@ -1,0 +1,26 @@
+{
+    "birth_date": "1962-08-24",
+    "birth_place": "Cleveland, Ohio, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1995-07-13",
+            "duration": "8d 22h 20m 5s",
+            "mission": "STS-70"
+        },
+        {
+            "date": "2000-05-19",
+            "duration": "9d 20h 9m 9s",
+            "mission": "STS-101"
+        }
+    ],
+    "first_name": "Mary Ellen",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/weber-m.jpg",
+    "last_name": "Weber",
+    "name": "Mary Ellen Weber",
+    "nationality": "American",
+    "selection_date": "1992-03-14",
+    "selection_group": "NASA Group 14",
+    "status": "Retired"
+}

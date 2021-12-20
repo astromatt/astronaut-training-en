@@ -1,0 +1,36 @@
+{
+    "birth_date": "1959-08-15",
+    "birth_place": "Lincoln, Illinois, United States",
+    "died": null,
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1998-04-17",
+            "duration": "15d 21h 49m 59s",
+            "mission": "STS-90"
+        },
+        {
+            "date": "2000-09-08",
+            "duration": "11d 19h 12m 14s",
+            "mission": "STS-106"
+        },
+        {
+            "date": "2002-03-01",
+            "duration": "10d 22h 9m 50s",
+            "mission": "STS-109"
+        },
+        {
+            "date": "2009-05-11",
+            "duration": "12d 21h 38m 0s",
+            "mission": "STS-125"
+        }
+    ],
+    "first_name": "Scott Douglas",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/altman-s.jpg",
+    "last_name": "Altman",
+    "name": "Scott Douglas Altman",
+    "nationality": "American",
+    "selection_date": "1994-12-08",
+    "selection_group": "NASA Group 15",
+    "status": "Retired"
+}

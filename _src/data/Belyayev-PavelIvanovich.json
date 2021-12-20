@@ -1,0 +1,22 @@
+{
+    "birth_date": "1925-06-26",
+    "birth_place": "Chelishchevo, Vologda Oblast, Russia",
+    "death_remarks": "Peritonitis",
+    "died": "1970-01-10",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1965-03-18",
+            "duration": "1d 2h 2m 17s",
+            "mission": "Voskhod 2"
+        }
+    ],
+    "first_name": "Pavel Ivanovich",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/belyayev-p.jpg",
+    "last_name": "Belyayev",
+    "name": "Pavel Ivanovich Belyayev",
+    "nationality": "Russian",
+    "selection_date": "1960-03-07",
+    "selection_group": "Air Force Group 1",
+    "status": "Deceased"
+}

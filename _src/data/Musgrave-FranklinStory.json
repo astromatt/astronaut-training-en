@@ -1,0 +1,70 @@
+{
+    "birth_date": "1935-08-19",
+    "birth_place": "Boston, Massachusetts, United States",
+    "died": null,
+    "eva_count": 4,
+    "eva_list": [
+        {
+            "date": "1983-04-07",
+            "duration": "4h 10m",
+            "mission": "STS-6"
+        },
+        {
+            "date": "1993-12-05",
+            "duration": "7h 54m",
+            "mission": "STS-61"
+        },
+        {
+            "date": "1993-12-07",
+            "duration": "6h 47m",
+            "mission": "STS-61"
+        },
+        {
+            "date": "1993-12-09",
+            "duration": "6h 51m",
+            "mission": "STS-61"
+        }
+    ],
+    "fai_flight_count": 6,
+    "fai_flight_list": [
+        {
+            "date": "1983-04-04",
+            "duration": "5d 0h 23m 42s",
+            "mission": "STS-6"
+        },
+        {
+            "date": "1985-07-29",
+            "duration": "7d 22h 45m 26s",
+            "mission": "51-F"
+        },
+        {
+            "date": "1989-11-23",
+            "duration": "5d 0h 6m 48s",
+            "mission": "STS-33"
+        },
+        {
+            "date": "1991-11-25",
+            "duration": "6d 22h 50m 44s",
+            "mission": "STS-44"
+        },
+        {
+            "date": "1993-12-02",
+            "duration": "10d 19h 58m 37s",
+            "mission": "STS-61"
+        },
+        {
+            "date": "1996-11-19",
+            "duration": "17d 15h 53m 18s",
+            "mission": "STS-80"
+        }
+    ],
+    "first_name": "Franklin Story",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/musgrave-f.jpg",
+    "last_name": "Musgrave",
+    "name": "Franklin Story Musgrave",
+    "nationality": "American",
+    "notes": "Musgrave is the only astronaut too have flown on all five space shuttles.",
+    "selection_date": "1967-08-04",
+    "selection_group": "NASA Group 6",
+    "status": "Retired"
+}

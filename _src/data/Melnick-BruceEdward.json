@@ -1,0 +1,26 @@
+{
+    "birth_date": "1949-12-05",
+    "birth_place": "New York, New York, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1990-10-06",
+            "duration": "4d 2h 10m 4s",
+            "mission": "STS-41"
+        },
+        {
+            "date": "1992-05-07",
+            "duration": "8d 21h 17m 38s",
+            "mission": "STS-49"
+        }
+    ],
+    "first_name": "Bruce Edward",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/melnick-b.jpg",
+    "last_name": "Melnick",
+    "name": "Bruce Edward Melnick",
+    "nationality": "American",
+    "selection_date": "1987-06-05",
+    "selection_group": "NASA Group 12",
+    "status": "Retired"
+}

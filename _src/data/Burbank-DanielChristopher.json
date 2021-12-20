@@ -1,0 +1,39 @@
+{
+    "birth_date": "1961-07-27",
+    "birth_place": "Manchester, Connecticut, United States",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "2006-09-13",
+            "duration": "7h 11m",
+            "mission": "STS-115"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "2000-09-08",
+            "duration": "11d 19h 12m 14s",
+            "mission": "STS-106"
+        },
+        {
+            "date": "2006-09-09",
+            "duration": "11d 19h 6m 35s",
+            "mission": "STS-115"
+        },
+        {
+            "date": "2011-11-14",
+            "duration": "165d 7h 30m 57s",
+            "mission": "Soyuz TMA-22"
+        }
+    ],
+    "first_name": "Daniel Christopher",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/burbank-d.jpg",
+    "last_name": "Burbank",
+    "name": "Daniel Christopher Burbank",
+    "nationality": "American",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Active"
+}

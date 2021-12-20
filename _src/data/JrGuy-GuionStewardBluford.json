@@ -1,0 +1,36 @@
+{
+    "birth_date": "1942-11-22",
+    "birth_place": "Philadelphia, Pennsylvania, United States",
+    "died": null,
+    "fai_flight_count": 4,
+    "fai_flight_list": [
+        {
+            "date": "1983-08-30",
+            "duration": "6d 1h 8m 43s",
+            "mission": "STS-8"
+        },
+        {
+            "date": "1985-10-30",
+            "duration": "7d 0h 44m 53s",
+            "mission": "61-A"
+        },
+        {
+            "date": "1991-04-28",
+            "duration": "8d 7h 22m 23s",
+            "mission": "STS-39"
+        },
+        {
+            "date": "1992-12-02",
+            "duration": "7d 7h 19m 47s",
+            "mission": "STS-53"
+        }
+    ],
+    "first_name": "Guion Steward Bluford,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/bluford-g.jpg",
+    "last_name": "Jr.\"Guy\"",
+    "name": "Guion Steward Bluford, Jr.\"Guy\"",
+    "nationality": "American",
+    "selection_date": "1978-01-16",
+    "selection_group": "NASA Group 8",
+    "status": "Retired"
+}

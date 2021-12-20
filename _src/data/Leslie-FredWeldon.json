@@ -1,0 +1,19 @@
+{
+    "birth_date": "1951-12-19",
+    "birth_place": "Ancon, Panama",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1995-10-20",
+            "duration": "15d 21h 52m 21s",
+            "mission": "STS-73"
+        }
+    ],
+    "first_name": "Fred Weldon",
+    "img": "https://www.worldspaceflight.com/bios/photos/panama/leslie-f.jpg",
+    "last_name": "Leslie",
+    "name": "Fred Weldon Leslie",
+    "nationality": "American",
+    "status": "Retired"
+}

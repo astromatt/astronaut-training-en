@@ -1,0 +1,45 @@
+{
+    "birth_date": "1930-11-22",
+    "birth_place": "Enid, Oklahoma, United States",
+    "died": null,
+    "eva_count": 3,
+    "eva_list": [
+        {
+            "date": "1973-08-06",
+            "duration": "6h 37m",
+            "mission": "Skylab 2"
+        },
+        {
+            "date": "1973-08-24",
+            "duration": "4h 37m",
+            "mission": "Skylab 2"
+        },
+        {
+            "date": "1973-09-22",
+            "duration": "2h 45m",
+            "mission": "Skylab 2"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1973-07-28",
+            "duration": "59d 11h 9m 4s",
+            "mission": "Skylab 2"
+        },
+        {
+            "date": "1983-11-28",
+            "duration": "10d 7h 47m 24s",
+            "mission": "STS-9"
+        }
+    ],
+    "first_name": "Owen Kay",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/garriott-o.jpg",
+    "last_name": "Garriott",
+    "name": "Owen Kay Garriott",
+    "nationality": "American",
+    "notes": "Owen Garriott is the father of astronaut Richard Garriott.",
+    "selection_date": "1965-06-28",
+    "selection_group": "NASA Group 4",
+    "status": "Retired"
+}

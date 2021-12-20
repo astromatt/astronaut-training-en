@@ -1,0 +1,23 @@
+{
+    "birth_date": "1924-03-01",
+    "birth_place": "Sparta, Wisconsin, United States",
+    "death_remarks": "Complications from brain tumor",
+    "died": "1993-06-13",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1975-07-15",
+            "duration": "9d 1h 28m 24s",
+            "mission": "ASTP"
+        }
+    ],
+    "first_name": "Donald Keat",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/slayton-d.jpg",
+    "last_name": "Slayton\"Deke\"",
+    "name": "Donald Keat Slayton\"Deke\"",
+    "nationality": "American",
+    "notes": "Deke was one of the original seven Mercury astronauts. He was removed from flight status in August of 1959 due to a previously undetected heart condition. A review of his condition resulted in his return to flight status in March 1972.",
+    "selection_date": "1959-04-02",
+    "selection_group": "NASA Group 1",
+    "status": "Deceased"
+}

@@ -1,0 +1,165 @@
+{
+    "birth_date": "1922-12-08",
+    "birth_place": "Portsmouth, Virginia, United States",
+    "death_remarks": "Cancer",
+    "died": "1975-04-15",
+    "first_name": "John Barron",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/mckay-j.jpg",
+    "last_name": "McKay",
+    "name": "John Barron McKay",
+    "nationality": "American",
+    "non_fai_flight_count": 1,
+    "non_fai_flight_list": [
+        {
+            "date": "1965-09-28",
+            "duration": "11m 57s",
+            "mission": "X-15 Flight #150"
+        }
+    ],
+    "selection_date": "1958-06-25",
+    "selection_group": "Man In Space Soonest",
+    "significant_flight_count": 28,
+    "significant_flight_list": [
+        {
+            "date": "1960-10-28",
+            "duration": "9m 5s",
+            "mission": "X-15 Flight #24"
+        },
+        {
+            "date": "1961-02-01",
+            "duration": "9m 48s",
+            "mission": "X-15 Flight #32"
+        },
+        {
+            "date": "1962-06-29",
+            "duration": "8m 54s",
+            "mission": "X-15 Flight #60"
+        },
+        {
+            "date": "1962-07-19",
+            "duration": "8m 24s",
+            "mission": "X-15 Flight #63"
+        },
+        {
+            "date": "1962-09-28",
+            "duration": "9m 28s",
+            "mission": "X-15 Flight #70"
+        },
+        {
+            "date": "1962-10-09",
+            "duration": "9m 40s",
+            "mission": "X-15 Flight #72"
+        },
+        {
+            "date": "1962-11-09",
+            "duration": "6m 31s",
+            "mission": "X-15 Flight #74"
+        },
+        {
+            "date": "1963-04-25",
+            "duration": "10m 32s",
+            "mission": "X-15 Flight #80"
+        },
+        {
+            "date": "1963-05-15",
+            "duration": "10m 20s",
+            "mission": "X-15 Flight #83"
+        },
+        {
+            "date": "1964-03-13",
+            "duration": "7m 29s",
+            "mission": "X-15 Flight #102"
+        },
+        {
+            "date": "1964-05-12",
+            "duration": "8m 11s",
+            "mission": "X-15 Flight #106"
+        },
+        {
+            "date": "1964-06-30",
+            "duration": "11m 27s",
+            "mission": "X-15 Flight #110"
+        },
+        {
+            "date": "1964-08-26",
+            "duration": "7m 20s",
+            "mission": "X-15 Flight #115"
+        },
+        {
+            "date": "1964-10-15",
+            "duration": "8m 41s",
+            "mission": "X-15 Flight #119"
+        },
+        {
+            "date": "1964-11-30",
+            "duration": "8m 35s",
+            "mission": "X-15 Flight #121"
+        },
+        {
+            "date": "1965-02-26",
+            "duration": "9m 25s",
+            "mission": "X-15 Flight #128"
+        },
+        {
+            "date": "1965-04-28",
+            "duration": "7m 53s",
+            "mission": "X-15 Flight #131"
+        },
+        {
+            "date": "1965-05-18",
+            "duration": "9m 42s",
+            "mission": "X-15 Flight #132"
+        },
+        {
+            "date": "1965-06-22",
+            "duration": "9m 48s",
+            "mission": "X-15 Flight #137"
+        },
+        {
+            "date": "1965-07-08",
+            "duration": "9m 33s",
+            "mission": "X-15 Flight #139"
+        },
+        {
+            "date": "1965-09-02",
+            "duration": "9m 13s",
+            "mission": "X-15 Flight #146"
+        },
+        {
+            "date": "1965-09-14",
+            "duration": "9m 58s",
+            "mission": "X-15 Flight #148"
+        },
+        {
+            "date": "1965-10-27",
+            "duration": "11m 54s",
+            "mission": "X-15 Flight #154"
+        },
+        {
+            "date": "6 May 1966/td>\n\n     6 minutes, 3 seconds\n",
+            "duration": "6m 3s",
+            "mission": "X-15 Flight #157"
+        },
+        {
+            "date": "1966-07-28",
+            "duration": "9m 43s",
+            "mission": "X-15 Flight #163"
+        },
+        {
+            "date": "1966-08-11",
+            "duration": "9m 22s",
+            "mission": "X-15 Flight #166"
+        },
+        {
+            "date": "1966-08-25",
+            "duration": "10m 16s",
+            "mission": "X-15 Flight #169"
+        },
+        {
+            "date": "1966-09-08",
+            "duration": "6m 26s",
+            "mission": "X-15 Flight #171"
+        }
+    ],
+    "status": "Deceased"
+}

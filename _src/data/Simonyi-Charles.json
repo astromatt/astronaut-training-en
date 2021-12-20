@@ -1,0 +1,25 @@
+{
+    "birth_date": "1948-09-10",
+    "birth_place": "Budapest, Hungary",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2007-04-07",
+            "duration": "13d 19h 0m 16s",
+            "mission": "Soyuz TMA-10 /Soyuz TMA-9"
+        },
+        {
+            "date": "2009-03-26",
+            "duration": "12d 19h 25m 52s",
+            "mission": "Soyuz TMA-14 /Soyuz TMA-13"
+        }
+    ],
+    "first_name": "Charles",
+    "img": "https://www.worldspaceflight.com/bios/photos/hungary/simonyi-c.jpg",
+    "last_name": "Simonyi",
+    "name": "Charles   Simonyi",
+    "nationality": "American",
+    "notes": "Software engineer for Microsoft, fifth space tourist, emigrated to the United States in 1968 to attend the University of California, Berkeley. Simonyi became the first repeat space tourist with the launch of Soyuz-TMA 14 on 26 March 2009.",
+    "status": "Inactive"
+}

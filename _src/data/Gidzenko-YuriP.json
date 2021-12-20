@@ -1,0 +1,44 @@
+{
+    "birth_date": "1962-03-26",
+    "birth_place": "Yelanets , Nikolyev Oblast , Ukraine",
+    "died": null,
+    "eva_count": 2,
+    "eva_list": [
+        {
+            "date": "1995-12-08",
+            "duration": "29m",
+            "mission": "EO-20"
+        },
+        {
+            "date": "1996-02-08",
+            "duration": "3h 6m",
+            "mission": "EO-20"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1995-09-03",
+            "duration": "179d 1h 41m 45s",
+            "mission": "Soyuz TM-22"
+        },
+        {
+            "date": "2000-10-31",
+            "duration": "140d 23h 38m 55s",
+            "mission": "Soyuz TM-31 /STS-102"
+        },
+        {
+            "date": "2002-04-25",
+            "duration": "9d 21h 25m 18s",
+            "mission": "Soyuz TM-34 /Soyuz TM-33"
+        }
+    ],
+    "first_name": "Yuri P.",
+    "img": "https://www.worldspaceflight.com/bios/photos/ukraine/gidzenko-y.jpg",
+    "last_name": "Gidzenko",
+    "name": "Yuri P. Gidzenko",
+    "nationality": "Russian",
+    "selection_date": "1987-03-26",
+    "selection_group": "Air Force Group 8",
+    "status": "Retired"
+}

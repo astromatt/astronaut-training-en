@@ -1,0 +1,39 @@
+{
+    "birth_date": "1949-05-15",
+    "birth_place": "Charleston, South Carolina, United States",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "2001-11-12",
+            "duration": "5h 4m",
+            "mission": "ISS Expedition 3"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1990-11-15",
+            "duration": "4d 21h 54m 31s",
+            "mission": "STS-38"
+        },
+        {
+            "date": "1993-09-12",
+            "duration": "9d 20h 11m 11s",
+            "mission": "STS-51"
+        },
+        {
+            "date": "2001-08-10",
+            "duration": "128d 20h 44m 56s",
+            "mission": "STS-105 /STS-108"
+        }
+    ],
+    "first_name": "Frank Lee Culbertson,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/culbertson-f.jpg",
+    "last_name": "Jr.",
+    "name": "Frank Lee Culbertson, Jr.",
+    "nationality": "American",
+    "selection_date": "1984-05-23",
+    "selection_group": "NASA Group 10",
+    "status": "Retired"
+}

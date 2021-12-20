@@ -1,0 +1,27 @@
+{
+    "birth_date": "1935-07-08",
+    "birth_place": "Krasnouralsk , Sverdlovsk Oblast , Russia",
+    "died": "2010-04-05",
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1970-06-01",
+            "duration": "17d 16h 58m 55s",
+            "mission": "Soyuz 9"
+        },
+        {
+            "date": "1975-05-24",
+            "duration": "62d 23h 20m 8s",
+            "mission": "Soyuz 18"
+        }
+    ],
+    "first_name": "Vitali I.",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/sevastyanov-v.jpg",
+    "last_name": "Sevastyanov",
+    "name": "Vitali I. Sevastyanov",
+    "nationality": "Russian",
+    "notes": "Sevastyanov was slated for the third Soviet circumlunar flight. This was cancelled after Apollo 8.",
+    "selection_date": "1967-01-31",
+    "selection_group": "Energia Engineer Group 1 Supplemental",
+    "status": "Deceased"
+}

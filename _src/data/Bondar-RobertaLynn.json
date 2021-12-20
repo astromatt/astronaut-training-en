@@ -1,0 +1,22 @@
+{
+    "birth_date": "1945-12-04",
+    "birth_place": "Sault Ste. Marie, Ontario, Canada",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1992-01-22",
+            "duration": "8d 1h 14m 44s",
+            "mission": "STS-42"
+        }
+    ],
+    "first_name": "Roberta Lynn",
+    "img": "https://www.worldspaceflight.com/bios/photos/canada/bondar-r.jpg",
+    "last_name": "Bondar",
+    "name": "Roberta Lynn Bondar",
+    "nationality": "Canadian",
+    "notes": "Roberta was the first Canadian woman to go into space. She is a medical doctor with her degree from McMaster University. She was a payload specialist on STS-42. She left the program in the summer of 1992 to return to her research.",
+    "selection_date": "1983-12-05",
+    "selection_group": "CSA Group 1",
+    "status": "Resigned"
+}

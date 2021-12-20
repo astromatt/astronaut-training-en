@@ -1,0 +1,19 @@
+{
+    "birth_date": "1973-09-18",
+    "birth_place": "Welkom, South Africa",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2002-04-25",
+            "duration": "9d 21h 25m 18s",
+            "mission": "Soyuz TM-34 /Soyuz TM-33"
+        }
+    ],
+    "first_name": "Mark Richard",
+    "img": "https://www.worldspaceflight.com/bios/photos/southafrica/shuttleworth-m.jpg",
+    "last_name": "Shuttleworth",
+    "name": "Mark Richard Shuttleworth",
+    "nationality": "South African",
+    "status": "Inactive"
+}

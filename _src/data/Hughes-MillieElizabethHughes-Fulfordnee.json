@@ -1,0 +1,19 @@
+{
+    "birth_date": "1945-12-21",
+    "birth_place": "Mineral Wells, Texas, United States",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1991-06-05",
+            "duration": "9d 2h 14m 20s",
+            "mission": "STS-40"
+        }
+    ],
+    "first_name": "Millie Elizabeth Hughes-Fulfordnee:",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/hughes-fulford-m.jpg",
+    "last_name": "Hughes",
+    "name": "Millie Elizabeth Hughes-Fulfordnee: Hughes",
+    "nationality": "American",
+    "status": "Retired"
+}

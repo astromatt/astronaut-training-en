@@ -1,0 +1,56 @@
+{
+    "birth_date": "1957-03-18",
+    "birth_place": "Stockholm, Sweden",
+    "died": null,
+    "eva_count": 5,
+    "eva_list": [
+        {
+            "date": "2006-12-12",
+            "duration": "6h 36m",
+            "mission": "STS-116"
+        },
+        {
+            "date": "2006-12-14",
+            "duration": "5h 0m",
+            "mission": "STS-116"
+        },
+        {
+            "date": "2006-12-18",
+            "duration": "6h 38m",
+            "mission": "STS-116"
+        },
+        {
+            "date": "2009-09-03",
+            "duration": "6h 39m",
+            "mission": "STS-128"
+        },
+        {
+            "date": "2009-09-05",
+            "duration": "7h 1m",
+            "mission": "STS-128"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2006-12-10",
+            "duration": "12d 20h 45m 17s",
+            "mission": "STS-116"
+        },
+        {
+            "date": "2009-08-29",
+            "duration": "13d 20h 53m 45s",
+            "mission": "STS-128"
+        }
+    ],
+    "first_name": "Arne Christer",
+    "group2": "Commercial Group ( 1993)",
+    "group3": "NASA Group 16 (1 May 1996)",
+    "img": "https://www.worldspaceflight.com/bios/photos/sweden/fuglesang-c.jpg",
+    "last_name": "Fuglesang",
+    "name": "Arne  Christer Fuglesang",
+    "nationality": "Swedish",
+    "selection_date": "1992-05-15",
+    "selection_group": "1992 ESA Group",
+    "status": "Active"
+}

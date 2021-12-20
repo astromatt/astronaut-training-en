@@ -1,0 +1,31 @@
+{
+    "birth_date": "1949-11-29",
+    "birth_place": "Cleveland , Ohio, United States",
+    "died": null,
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1991-04-05",
+            "duration": "5d 23h 32m 45s",
+            "mission": "STS-37"
+        },
+        {
+            "date": "1993-04-08",
+            "duration": "9d 6h 8m 24s",
+            "mission": "STS-56"
+        },
+        {
+            "date": "1995-11-12",
+            "duration": "8d 4h 30m 44s",
+            "mission": "STS-74"
+        }
+    ],
+    "first_name": "Kenneth Donald",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/cameron-k.jpg",
+    "last_name": "Cameron",
+    "name": "Kenneth Donald Cameron",
+    "nationality": "American",
+    "selection_date": "1984-05-23",
+    "selection_group": "NASA Group 10",
+    "status": "Retired"
+}

@@ -1,0 +1,22 @@
+{
+    "birth_date": "1972-07-27",
+    "birth_place": "Kuala Lumpur, Malaysia",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2007-10-10",
+            "duration": "10d 21h 13m 10s",
+            "mission": "Soyuz TMA-11 /Soyuz TMA-10"
+        }
+    ],
+    "first_name": "Sheikh Sukhor",
+    "img": "https://www.worldspaceflight.com/bios/photos/malaysia/sheikh-m.jpg",
+    "last_name": "Muszaphar",
+    "name": "Sheikh Sukhor Muszaphar",
+    "nationality": "Malaysian",
+    "notes": "Born as Sheikh Muszaphar Sukhor Al Masrie bin Sheikh Mustapha.",
+    "selection_date": "2006-09-04",
+    "selection_group": "Angkasawan Group",
+    "status": "Active"
+}

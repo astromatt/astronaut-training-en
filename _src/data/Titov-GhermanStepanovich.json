@@ -1,0 +1,23 @@
+{
+    "birth_date": "1935-09-11",
+    "birth_place": "Verkhneye Zhilino , Altay, Russia",
+    "death_remarks": "Heart attack",
+    "died": "2000-09-20",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1961-08-06",
+            "duration": "1d 1h 18m 0s",
+            "mission": "Vostok 2"
+        }
+    ],
+    "first_name": "Gherman Stepanovich",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/titov-g.jpg",
+    "last_name": "Titov",
+    "name": "Gherman Stepanovich  Titov",
+    "nationality": "Russian",
+    "notes": "Just a month shy of his 26th birday, Titov remains the youngest person to fly into space.",
+    "selection_date": "1960-03-07",
+    "selection_group": "Air Force Group 1",
+    "status": "Deceased"
+}

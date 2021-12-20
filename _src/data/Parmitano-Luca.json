@@ -1,0 +1,34 @@
+{
+    "birth_date": "1976-09-27",
+    "birth_place": "Patern\u03cc, Italy",
+    "died": null,
+    "eva_count": 2,
+    "eva_list": [
+        {
+            "date": "2013-07-09",
+            "duration": "6h 7m",
+            "mission": "ISS Expedition 36"
+        },
+        {
+            "date": "2013-07-16",
+            "duration": "1h 32m",
+            "mission": "ISS Expedition 36"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2013-05-28",
+            "duration": "166d 6h 17m 36s",
+            "mission": "Soyuz TMA-09M"
+        }
+    ],
+    "first_name": "Luca",
+    "img": "https://www.worldspaceflight.com/bios/photos/italy/parmitano-l.jpg",
+    "last_name": "Parmitano",
+    "name": "Luca Parmitano",
+    "nationality": "Italian",
+    "selection_date": "2009-05-20",
+    "selection_group": "2009 ESA Group",
+    "status": "Active"
+}

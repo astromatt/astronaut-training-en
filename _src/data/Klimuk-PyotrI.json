@@ -1,0 +1,31 @@
+{
+    "birth_date": "1942-07-10",
+    "birth_place": "Komarovka , Brest Oblast, Russia",
+    "died": null,
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1973-12-18",
+            "duration": "7d 20h 55m 35s",
+            "mission": "Soyuz 13"
+        },
+        {
+            "date": "1975-05-24",
+            "duration": "62d 23h 20m 8s",
+            "mission": "Soyuz 18"
+        },
+        {
+            "date": "1978-06-27",
+            "duration": "7d 22h 2m 59s",
+            "mission": "Soyuz 30"
+        }
+    ],
+    "first_name": "Pyotr I.",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/klimuk-p.jpg",
+    "last_name": "Klimuk",
+    "name": "Pyotr I. Klimuk",
+    "nationality": "Russian",
+    "selection_date": "1965-10-28",
+    "selection_group": "Air Force Group 3",
+    "status": "Retired"
+}

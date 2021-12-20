@@ -1,0 +1,39 @@
+{
+    "birth_date": "1970-12-28",
+    "birth_place": "Riga, Latvia",
+    "died": null,
+    "eva_count": 2,
+    "eva_list": [
+        {
+            "date": "2014-06-19",
+            "duration": "7h 23m",
+            "mission": "ISS Expedition 40"
+        },
+        {
+            "date": "2014-08-18",
+            "duration": "5h 11m",
+            "mission": "ISS Expedition 40"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2014-03-25",
+            "duration": "169d 5h 5m 37s",
+            "mission": "Soyuz TMA-12M"
+        },
+        {
+            "date": "2018-03-21",
+            "duration": "3d 0h 2m 4s",
+            "mission": "Soyuz MS-08"
+        }
+    ],
+    "first_name": "Oleg Germanovich",
+    "img": "https://www.worldspaceflight.com/bios/photos/latvia/artemyev-o.jpg",
+    "last_name": "Artemyev",
+    "name": "Oleg Germanovich Artemyev",
+    "nationality": "Russian",
+    "selection_date": "2003-05-29",
+    "selection_group": "Energia Engineer Group 15",
+    "status": "Active"
+}

@@ -1,0 +1,34 @@
+{
+    "birth_date": "1965-09-22",
+    "birth_place": "Hampton, Virginia, United States",
+    "died": null,
+    "eva_count": 2,
+    "eva_list": [
+        {
+            "date": "2009-11-19",
+            "duration": "6h 37m",
+            "mission": "STS-129"
+        },
+        {
+            "date": "2009-11-23",
+            "duration": "5h 42m",
+            "mission": "STS-129"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2009-11-12",
+            "duration": "14d 19h 16m 13s",
+            "mission": "STS-129"
+        }
+    ],
+    "first_name": "Robert L. Satcher,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/satcher-r.jpg",
+    "last_name": "Jr.",
+    "name": "Robert L. Satcher, Jr.",
+    "nationality": "American",
+    "selection_date": "2004-05-06",
+    "selection_group": "NASA Group 19",
+    "status": "Retired"
+}

@@ -1,0 +1,28 @@
+{
+    "birth_date": "1940-11-30",
+    "birth_place": "Johannesburg , South Africa",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2004-06-21",
+            "duration": "24m 0s",
+            "mission": "SpaceShipOne 15P"
+        },
+        {
+            "date": "2004-09-29",
+            "duration": "24m 0s",
+            "mission": "SpaceShipOne 16P"
+        }
+    ],
+    "first_name": "Michael W.",
+    "img": "https://www.worldspaceflight.com/bios/photos/southafrica/melvill-m.jpg",
+    "last_name": "Melvill",
+    "mike's spaceshipone log": "1) Flight 02C, 29 July 2003, first manned captive flight2) Flight 03G, 7 August 2003, first glide test3) Flight 04GC, 27 August 2003, aborted glide test4) Flight 05G, 27 August 2003, glide test5) Flight 06G, 23 September 2003, glide test6) Flight 07G, 17 October 2003, glide test7) Flight 09G, 19 November 2003, glide test8) Flight 14P, 13 May 2004, powered flight test9) Flight 15P, 21 June 2004, first space flight by a commercial craft10) Flight 16P, 29 September 2004, first of two X-Prize qualification flights",
+    "name": "Michael W. Melvill",
+    "nationality": "American",
+    "notes": "Michael Melvill qualified for FAI astronaut status as the first person to fly into space in a privately financed spacecraft. Mike also flew the first X-Prize qualification flight of SpaceShipOne on 29 September 2004.",
+    "selection_date": "2003-09-11",
+    "selection_group": "SpaceShipOne",
+    "status": "Active"
+}

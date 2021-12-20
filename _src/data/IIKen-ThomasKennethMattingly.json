@@ -1,0 +1,40 @@
+{
+    "birth_date": "1936-03-17",
+    "birth_place": "Chicago, Illinois, United States",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "1972-04-25",
+            "duration": "1h 24m",
+            "mission": "Apollo 16"
+        }
+    ],
+    "fai_flight_count": 3,
+    "fai_flight_list": [
+        {
+            "date": "1972-04-16",
+            "duration": "11d 1h 51m 5s",
+            "mission": "Apollo 16"
+        },
+        {
+            "date": "1982-06-27",
+            "duration": "7d 1h 9m 31s",
+            "mission": "STS-4"
+        },
+        {
+            "date": "1985-01-24",
+            "duration": "3d 1h 33m 23s",
+            "mission": "51-C"
+        }
+    ],
+    "first_name": "Thomas Kenneth Mattingly,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/mattingly-t.jpg",
+    "last_name": "II\"Ken\"",
+    "name": "Thomas Kenneth Mattingly, II\"Ken\"",
+    "nationality": "American",
+    "notes": "Mattingly was originally a member of the prime crew for Apollo 13. He was exposed to German measles and replaced by Jack Swigert.",
+    "selection_date": "1966-04-04",
+    "selection_group": "NASA Group 5",
+    "status": "Retired"
+}

@@ -1,0 +1,22 @@
+{
+    "birth_date": "1937-06-18",
+    "birth_place": "Staraya Zbyrievko, Kherson Oblast, Ukraine",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1976-07-06",
+            "duration": "49d 6h 23m 32s",
+            "mission": "Soyuz 21"
+        }
+    ],
+    "first_name": "Vitaly Mikhailovich",
+    "img": "https://www.worldspaceflight.com/bios/photos/ukraine/zholobov-v.jpg",
+    "last_name": "Zholobov",
+    "name": "Vitaly Mikhailovich  Zholobov",
+    "nationality": "Ukrainian",
+    "notes": "Holds dual citizenship with Russia.",
+    "selection_date": "1963-01-10",
+    "selection_group": "Air Force Group 2",
+    "status": "Retired"
+}

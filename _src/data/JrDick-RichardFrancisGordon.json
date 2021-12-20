@@ -1,0 +1,45 @@
+{
+    "birth_date": "1929-10-05",
+    "birth_place": "Seattle, Washington, United States",
+    "died": null,
+    "eva_count": 3,
+    "eva_list": [
+        {
+            "date": "1966-09-13",
+            "duration": "43m",
+            "mission": "Gemini XI"
+        },
+        {
+            "date": "1966-09-13",
+            "duration": "4m",
+            "mission": "Gemini XI"
+        },
+        {
+            "date": "1966-09-14",
+            "duration": "2h 10m",
+            "mission": "Gemini XI"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1966-09-12",
+            "duration": "2d 23h 17m 8s",
+            "mission": "Gemini XI"
+        },
+        {
+            "date": "1969-11-14",
+            "duration": "10d 4h 36m 24s",
+            "mission": "Apollo 12"
+        }
+    ],
+    "first_name": "Richard Francis Gordon,",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/gordon-r.jpg",
+    "last_name": "Jr.\"Dick\"",
+    "name": "Richard Francis Gordon, Jr.\"Dick\"",
+    "nationality": "American",
+    "notes": "Dick Gordon has a website with descriptions of his missions.",
+    "selection_date": "1963-10-17",
+    "selection_group": "NASA Group 3",
+    "status": "Retired"
+}

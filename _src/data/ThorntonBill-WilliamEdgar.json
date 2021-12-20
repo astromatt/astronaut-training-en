@@ -1,0 +1,26 @@
+{
+    "birth_date": "1929-04-14",
+    "birth_place": "Faison, North Carolina, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1983-08-30",
+            "duration": "6d 1h 8m 43s",
+            "mission": "STS-8"
+        },
+        {
+            "date": "1985-04-29",
+            "duration": "7d 0h 8m 46s",
+            "mission": "51-B"
+        }
+    ],
+    "first_name": "William Edgar",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/thornton-w.jpg",
+    "last_name": "Thornton\"Bill\"",
+    "name": "William Edgar Thornton\"Bill\"",
+    "nationality": "American",
+    "selection_date": "1967-08-04",
+    "selection_group": "NASA Group 6",
+    "status": "Retired"
+}

@@ -1,0 +1,30 @@
+{
+    "birth_date": "December  1976",
+    "birth_place": "Tokyo, Japan",
+    "died": null,
+    "eva_count": 1,
+    "eva_list": [
+        {
+            "date": "2018-02-16",
+            "duration": "5h 57m",
+            "mission": "ISS Expedition 54"
+        }
+    ],
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2017-12-17",
+            "duration": "97d 10h 29m 34s",
+            "mission": "Soyuz MS-07"
+        }
+    ],
+    "first_name": "Norishige",
+    "group2": "NASA Group 20 (29 June 2009)",
+    "img": "https://www.worldspaceflight.com/bios/photos/japan/kanai-n.jpg",
+    "last_name": "Kanai",
+    "name": "Norishige Kanai",
+    "nationality": "Japanese",
+    "selection_date": "2009-09-08",
+    "selection_group": "JAXA Group 2",
+    "status": "Active"
+}

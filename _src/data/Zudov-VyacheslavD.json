@@ -1,0 +1,21 @@
+{
+    "birth_date": "1942-01-08",
+    "birth_place": "Bor, Nizhny Novgorod Oblast, Russia",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1976-10-14",
+            "duration": "2d 0h 6m 35s",
+            "mission": "Soyuz 23"
+        }
+    ],
+    "first_name": "Vyacheslav D.",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/zudov-v.jpg",
+    "last_name": "Zudov",
+    "name": "Vyacheslav D. Zudov",
+    "nationality": "Russian",
+    "selection_date": "1965-10-28",
+    "selection_group": "Air Force Group 3",
+    "status": "Retired"
+}

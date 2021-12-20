@@ -1,0 +1,49 @@
+{
+    "birth_date": "1962-12-29",
+    "birth_place": "Murfreesboro, Tennessee, United States",
+    "died": null,
+    "eva_count": 4,
+    "eva_list": [
+        {
+            "date": "2014-10-15",
+            "duration": "6h 34m",
+            "mission": "ISS Expedition 41"
+        },
+        {
+            "date": "2015-02-21",
+            "duration": "6h 41m",
+            "mission": "ISS Expedition 42"
+        },
+        {
+            "date": "2015-02-25",
+            "duration": "6h 43m",
+            "mission": "ISS Expedition 42"
+        },
+        {
+            "date": "2015-03-01",
+            "duration": "5h 38m",
+            "mission": "ISS Expedition 42"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2009-11-12",
+            "duration": "14d 19h 16m 13s",
+            "mission": "STS-129"
+        },
+        {
+            "date": "2014-09-25",
+            "duration": "167d 5h 42m 53s",
+            "mission": "Soyuz TMA-14M"
+        }
+    ],
+    "first_name": "Barry E.",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/wilmore-b.jpg",
+    "last_name": "Wilmore\"Butch\"",
+    "name": "Barry E. Wilmore\"Butch\"",
+    "nationality": "American",
+    "selection_date": "2000-07-26",
+    "selection_group": "NASA Group 18",
+    "status": "Active"
+}

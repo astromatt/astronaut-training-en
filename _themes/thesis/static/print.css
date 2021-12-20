@@ -1,0 +1,31 @@
+@page {
+    size: A4;
+    margin-top: 2.5cm;
+    margin-bottom: 2.5cm;
+    border: 1px solid #000000;
+}
+
+body {
+    margin-left: 2.5cm;
+    margin-right: 2.5cm;
+    background-color: #FFFFFF;
+}
+
+a.headerlink {
+    display: none;
+}
+
+.admonition-todo ul {
+    display: none;
+}
+
+a,
+a:link,
+a:visited,
+a:active,
+a:hover {
+    color: black !important;
+    text-decoration: none !important;
+    font-weight: bold !important;
+}
+

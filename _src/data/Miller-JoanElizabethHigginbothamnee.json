@@ -1,0 +1,21 @@
+{
+    "birth_date": "1964-08-03",
+    "birth_place": "Chicago, Illinois, United States",
+    "died": null,
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "2006-12-10",
+            "duration": "12d 20h 45m 17s",
+            "mission": "STS-116"
+        }
+    ],
+    "first_name": "Joan Elizabeth Higginbothamnee:",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/higginbotham-j.jpg",
+    "last_name": "Miller",
+    "name": "Joan Elizabeth Higginbothamnee: Miller",
+    "nationality": "American",
+    "selection_date": "1996-05-01",
+    "selection_group": "NASA Group 16",
+    "status": "Retired"
+}

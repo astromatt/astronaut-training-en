@@ -1,0 +1,22 @@
+{
+    "birth_date": "1928-06-01",
+    "birth_place": "Odessa, Ukraine",
+    "death_remarks": "Suffocation aboard Soyuz 11",
+    "died": "1971-06-30",
+    "fai_flight_count": 1,
+    "fai_flight_list": [
+        {
+            "date": "1971-06-06",
+            "duration": "23d 18h 21m 43s",
+            "mission": "Soyuz 11"
+        }
+    ],
+    "first_name": "Georgi Timofeyevich",
+    "img": "https://www.worldspaceflight.com/bios/photos/ukraine/dobrovolsky-g.jpg",
+    "last_name": "Dobrovolsky",
+    "name": "Georgi Timofeyevich  Dobrovolsky",
+    "nationality": "Russian",
+    "selection_date": "1963-01-10",
+    "selection_group": "Air Force Group 2",
+    "status": "Deceased"
+}

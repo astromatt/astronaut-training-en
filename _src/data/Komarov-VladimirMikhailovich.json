@@ -1,0 +1,28 @@
+{
+    "birth_date": "1927-03-16",
+    "birth_place": "Moscow, Russia",
+    "death_remarks": "Crash of Soyuz",
+    "died": "1967-04-24",
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1964-10-12",
+            "duration": "1d 0h 17m 3s",
+            "mission": "Voskhod"
+        },
+        {
+            "date": "1967-04-23",
+            "duration": "1d 2h 47m 52s",
+            "mission": "Soyuz"
+        }
+    ],
+    "first_name": "Vladimir Mikhailovich",
+    "img": "https://www.worldspaceflight.com/bios/photos/russia/komarov-v.jpg",
+    "last_name": "Komarov",
+    "name": "Vladimir Mikhailovich Komarov",
+    "nationality": "Russian",
+    "notes": "Komarov, a colonel in the Soviet Air Force, knew there were serious problems with the Soyuz and was sure he would not return alive. He would not back down from the mission because he knew that if he did, his good friend and back up, Yuri Gagarin, would be assigned to Soyuz in his place. He was married and had two children.",
+    "selection_date": "1960-03-07",
+    "selection_group": "Air Force Group 1",
+    "status": "Deceased"
+}

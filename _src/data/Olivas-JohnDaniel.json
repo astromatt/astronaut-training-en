@@ -1,0 +1,54 @@
+{
+    "birth_date": "1966-05-25",
+    "birth_place": "North Hollywood, California, United States",
+    "died": null,
+    "eva_count": 5,
+    "eva_list": [
+        {
+            "date": "2007-06-11",
+            "duration": "6h 15m",
+            "mission": "STS-117"
+        },
+        {
+            "date": "2007-06-15",
+            "duration": "7h 58m",
+            "mission": "STS-117"
+        },
+        {
+            "date": "2009-09-01",
+            "duration": "6h 35m",
+            "mission": "STS-128"
+        },
+        {
+            "date": "2009-09-03",
+            "duration": "6h 39m",
+            "mission": "STS-128"
+        },
+        {
+            "date": "2009-09-05",
+            "duration": "7h 1m",
+            "mission": "STS-128"
+        }
+    ],
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "2007-06-08",
+            "duration": "13d 20h 12m 44s",
+            "mission": "STS-117"
+        },
+        {
+            "date": "2009-08-29",
+            "duration": "13d 20h 53m 45s",
+            "mission": "STS-128"
+        }
+    ],
+    "first_name": "John Daniel",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/olivas-j.jpg",
+    "last_name": "Olivas",
+    "name": "John Daniel Olivas",
+    "nationality": "American",
+    "selection_date": "1998-06-04",
+    "selection_group": "NASA Group 17",
+    "status": "Retired"
+}

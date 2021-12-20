@@ -1,0 +1,26 @@
+{
+    "birth_date": "1953-08-17",
+    "birth_place": "Westminster, British Columbia, Canada",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1996-06-20",
+            "duration": "16d 21h 47m 45s",
+            "mission": "STS-78"
+        },
+        {
+            "date": "2009-05-27",
+            "duration": "187d 20h 41m 38s",
+            "mission": "Soyuz TMA-15"
+        }
+    ],
+    "first_name": "Robert Brent",
+    "img": "https://www.worldspaceflight.com/bios/photos/canada/thirsk-r.jpg",
+    "last_name": "Thirsk",
+    "name": "Robert Brent Thirsk",
+    "nationality": "Canadian",
+    "selection_date": "1983-12-05",
+    "selection_group": "CSA Group 1",
+    "status": "Resigned"
+}

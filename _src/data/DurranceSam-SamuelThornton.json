@@ -1,0 +1,24 @@
+{
+    "birth_date": "1943-09-17",
+    "birth_place": "Tallahassee, Florida, United States",
+    "died": null,
+    "fai_flight_count": 2,
+    "fai_flight_list": [
+        {
+            "date": "1990-12-02",
+            "duration": "8d 23h 5m 8s",
+            "mission": "STS-35"
+        },
+        {
+            "date": "1995-03-02",
+            "duration": "16d 15h 8m 48s",
+            "mission": "STS-67"
+        }
+    ],
+    "first_name": "Samuel Thornton",
+    "img": "https://www.worldspaceflight.com/bios/photos/unitedstates/durrance-s.jpg",
+    "last_name": "Durrance\"Sam\"",
+    "name": "Samuel Thornton Durrance\"Sam\"",
+    "nationality": "American",
+    "status": "Retired"
+}
