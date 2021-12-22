@@ -1,0 +1,6 @@
+"Owner", "Location", "Name", "Radius [m]", "Maximum acceleration [g]", "Max. rotation speed [RPM]", "Max. lifting capacity [kg]", "Comments"
+"NASA", "Ames Research Center, CA, USA", "20-G Centrifuge", "8.84", "20 (human 12.5)", "50", "544.31", "Open 1960, general renovation 1990"
+"Roscosmos", "CPK, Star city, Russia", "CF-7", "7", "20", "50.7", "b/d", ""
+"Roscosmos", "CPK, Star city, Russia", "CF-18", "18", "30", "b/d", "b/d", "possibility of changing air humidity, temperature, pressure and gas composition of the atmosphere"
+"NASA", "Ames Research Center, CA, USA", "HPC - Human Performance Centrifuge", "1.98", "5", "50", "226.8", ""
+"NASA", "University of Texas Medical Branch, Galveston, TX, USA", "SRC - Short Radius Centrifuge", "3", "2.5", "30", "b/d", "used in Apollo program"

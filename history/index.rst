@@ -73,8 +73,8 @@ Pole in space
 
 
 International Space Programs
-============================
+----------------------------
 .. toctree::
 
     worldwide-iss.rst
-    worldwide-rekordy.rst
+    worldwide-records.rst
