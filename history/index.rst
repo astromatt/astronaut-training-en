@@ -55,14 +55,14 @@ Space programs of the USSR and the Russian Federation
 -----------------------------------------------------
 .. toctree::
 
-    zsrr-wostok.rst
-    zsrr-woshod.rst
-    zsrr-n1-l3.rst
-    zsrr-salut.rst
-    zsrr-soyuz-progress.rst
-    zsrr-interkosmos.rst
-    zsrr-mir.rst
-    zsrr-buran.rst
+    ussr-wostok.rst
+    ussr-woshod.rst
+    ussr-n1-l3.rst
+    ussr-salut.rst
+    ussr-soyuz-progress.rst
+    ussr-interkosmos.rst
+    ussr-mir.rst
+    ussr-buran.rst
 
 
 Pole in space
