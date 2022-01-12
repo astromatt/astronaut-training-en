@@ -1,12 +1,4 @@
-"Nazwa", "Start", "Deorbitacja", "Długość
-
-[dni]", "Długość lotu
-
-załogowego [dni]", "Liczba
-
-odwiedzających", "Liczba
-
-załogowych statków"
+"Name", "Start", "Deorbit", "Length [days]", "Manned flight length [days]", "Number of visitors", "Number of manned ships"
 "Salut 1", "1971-04-19", "1971-10-11", "175", "24", "3", "2"
 "Salut 2 (Ałmaz 1)", "1973-04-04", "1973-05-28", "54", "0", "0", "0"
 "Salut 3 (Ałmaz 2)", "1974-06-25", "1975-01-24", "213", "15", "2", "1"

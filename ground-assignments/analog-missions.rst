@@ -1,0 +1,12 @@
+Analog missions
+===============
+
+Analogous missions try to reflect the specificity of the problem of working in orbit or on the surface of another celestial body as closely as possible, using the resources and terrain available on Earth. The use of a characteristic environment allows for the preparation of new ways of working on the surface when planning future missions. One of the most popular places for research and training of astronauts are rocky deserts or volcanic slopes imitating the surface of Mars, cave interiors, lava tunnels and underwater bases :cite:`One-small-step-for-a-geologist`, :cite:`Preparing-astronauts-for-exploring-celestial-bodies`, :cite:`Anderson2015`.
+
+The mission of the European Space Agency - CAVES serves astronauts and science staff to explore hard-to-reach places. In addition, it contributes to the understanding of the need to work in a group, strengthens team relationships and teaches geology and microbiology. Members of the expedition to the caves of Sardinia explore the three-dimensional structures of the corridors and discover new species of microorganisms inhabiting these places :cite:`Preparing-astronauts-for-exploring-celestial-bodies`.
+
+Another example of the European Space Agency analog mission is the "Pangea" expedition cycle, which consists of two parts: one on the island of Lanzarote in the Canary Islands archipelago and the other near Bressanone in Italy. The first place was chosen due to the possibility of conducting research in the field of planetary geology in an area resembling the wastelands of Mars:cite:`One-small-step-for-a-geologist`. A site in Italy was chosen for the purpose of geological and geomorphological analysis as well as the search for traces of life in samples taken :cite:`Preparing-astronauts-for-exploring-celestial-bodies`.
+
+The NEEMO missions in the Aquarius underwater habitat are a project of the American space agency NASA. In addition to citizens of the United States, astronauts from Europe, Canada, Japan and Russia also participate in missions. The NEEMO program is designed to familiarize astronauts with the problems of staying in long-term isolation, the specificity of working in difficult conditions on the ocean floor and the timely compliance with procedures:cite:`Anderson2015`.
+
+Poland has a unique infrastructure in the form of a habitat, which allows to recreate the conditions of isolation and conduct research on team dynamics as well as optimization of operating procedures.

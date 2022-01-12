@@ -1,6 +1,6 @@
-***************************************
-Proces selekcji i szkolenia astronautów
-***************************************
+****************************************
+Astronaut Selection and Training Process
+****************************************
 
 
 .. only:: html
@@ -12,7 +12,7 @@ Proces selekcji i szkolenia astronautów
 :Title English: Astronaut Selection and Training Process
 :Title Polish: Proces selekcji i szkolenia astronautów
 :Author: Matt Harasymczuk
-:Language: Polish
+:Language: English
 :ISBN: 978-83-957186-0-1
 :Year: 2020
 :Publisher: Analog Astronaut Training Center
@@ -27,4 +27,3 @@ Proces selekcji i szkolenia astronautów
     :hidden:
 
     history/index.rst
-

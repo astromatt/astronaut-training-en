@@ -1,9 +1,9 @@
 ************
-Bibliografia
+Bibliography
 ************
 
 
-Literatura
+Literature
 ==========
 .. bibliography:: bibliography.bib
     :style: alpha
